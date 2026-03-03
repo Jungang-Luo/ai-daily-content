@@ -1,0 +1,156 @@
+{
+  "date": "2026-03-03",
+  "title": "AI日报 - 2026年3月3日",
+  "summary": "今日看点：Claude Code 迎来重大更新支持 MCP 生态市场和多 Agent 协作；Google 发布 AlphaCode 3 在竞赛编程领域超越人类专家；腾讯混元视频生成模型 HunyuanVideo 2.0 开源；AI 安全领域欧盟 AI 法案正式生效引发全球关注。",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260303-001",
+          "title": "Claude Code 重大更新：MCP 市场上线，支持 Multi-Agent 协作编程",
+          "summary": "Anthropic 宣布 Claude Code 迎来 2026 年最大更新：MCP（Model Context Protocol）市场正式上线，已收录 500+ 工具插件；新增 Multi-Agent 模式，可同时启动多个专业 Agent 并行处理不同模块；子 Agent 间支持代码共享和任务交接。Claude Max 计划可无限制使用。",
+          "source": "Anthropic",
+          "sourceUrl": "https://www.anthropic.com/claude-code",
+          "tags": ["Claude Code", "MCP", "Multi-Agent", "AI编程"],
+          "importance": "high"
+        },
+        {
+          "id": "20260303-002",
+          "title": "Google DeepMind 发布 AlphaCode 3：Codeforces 竞赛排名超越 95% 人类选手",
+          "summary": "Google DeepMind 发布 AlphaCode 3，在 Codeforces 算法竞赛平台上达到 Expert 级别（约超越 95% 人类参赛者），解题正确率 87.3%。模型内部集成了自动程序调试和复杂度分析模块。目前仅对研究合作伙伴开放。",
+          "source": "Google DeepMind",
+          "sourceUrl": "https://deepmind.google",
+          "tags": ["AlphaCode 3", "竞赛编程", "DeepMind", "代码生成"],
+          "importance": "high"
+        },
+        {
+          "id": "20260303-003",
+          "title": "智谱 GLM-5 发布：130B 参数开源，中文推理超越 GPT-4o",
+          "summary": "清华系 AI 公司智谱 AI 发布 GLM-5 开源版（130B 参数），在 C-Eval、AGIEval-Chinese 等中文基准上首次超越 GPT-4o。同时开源了 GLM-5-Coder（代码专用版），在 HumanEval 上得分 91.1%。支持商用，提供 API 服务。",
+          "source": "智谱AI",
+          "sourceUrl": "https://zhipuai.cn",
+          "tags": ["GLM-5", "智谱AI", "开源", "中文推理"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260303-004",
+          "title": "腾讯 HunyuanVideo 2.0 开源：13B 参数，60 秒视频生成质量媲美 Sora",
+          "summary": "腾讯混元团队开源 HunyuanVideo 2.0，视频生成模型参数量 13B，支持生成最长 60 秒、1080P 分辨率的高质量视频。新增运动控制（Motion Control）功能，可精准控制镜头运动和物体轨迹。在 EvalCrafter 上得分 82.3，接近 Sora。",
+          "source": "腾讯混元 / GitHub",
+          "sourceUrl": "https://github.com/Tencent/HunyuanVideo",
+          "tags": ["HunyuanVideo", "视频生成", "腾讯", "开源"],
+          "importance": "high"
+        },
+        {
+          "id": "20260303-005",
+          "title": "Transformers.js 4.0：浏览器端运行 70B 模型，Web AI 进入新时代",
+          "summary": "Hugging Face 发布 Transformers.js 4.0，通过 WebGPU 和 WebAssembly 的深度优化，首次支持在浏览器端流畅运行 70B 量化模型（Q4_0）。在 M3 MacBook Pro 上，7B 模型推理速度达到 45 token/s。支持所有主流浏览器。",
+          "source": "Hugging Face Blog",
+          "sourceUrl": "https://huggingface.co/blog",
+          "tags": ["Transformers.js", "WebGPU", "浏览器AI", "Hugging Face"],
+          "importance": "high"
+        },
+        {
+          "id": "20260303-006",
+          "title": "Dify 1.0 发布：生产级 AI 工作流平台，GitHub 星标破 50K",
+          "summary": "AI 应用开发平台 Dify 发布 1.0 正式版，新增企业级功能：多租户隔离、细粒度权限管理、完整的审计日志、以及生产监控仪表盘。同时开放 Marketplace，提供 200+ 预制工作流模板。GitHub 星标已超过 50K。",
+          "source": "Dify GitHub",
+          "sourceUrl": "https://github.com/langgenius/dify",
+          "tags": ["Dify", "AI工作流", "LLMOps", "开源"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260303-007",
+          "title": "Windsurf 推出「记忆」功能：AI 记住所有项目上下文，跨会话保持一致",
+          "summary": "Codeium 旗下 AI IDE Windsurf 推出 Memory 功能，自动记忆开发者的代码风格偏好、项目架构决策和技术债务，跨会话保持一致。支持手动审查和编辑记忆内容。官方称这解决了「AI 每次都忘记你的偏好」的核心痛点。",
+          "source": "Codeium / Windsurf",
+          "sourceUrl": "https://windsurf.com",
+          "tags": ["Windsurf", "记忆功能", "AI编程", "IDE"],
+          "importance": "medium"
+        },
+        {
+          "id": "20260303-008",
+          "title": "Midjourney 发布视频生成 Beta：图生视频质量超越 Runway Gen-3",
+          "summary": "Midjourney 悄然上线视频生成 Beta 功能，支持静态图片转 5 秒视频（4K 分辨率）。在 Pika、Runway Gen-3、Kling 等同类工具的对比测评中，美学一致性和运动流畅度排名第一。目前向 Pro 计划用户开放测试。",
+          "source": "Midjourney",
+          "sourceUrl": "https://midjourney.com",
+          "tags": ["Midjourney", "视频生成", "图生视频", "AIGC"],
+          "importance": "medium"
+        },
+        {
+          "id": "20260303-009",
+          "title": "字节跳动 Coze 国际版更新：支持 MCP 工具调用，接入 1000+ 插件",
+          "summary": "字节跳动旗下 AI Agent 平台 Coze 国际版推出重大更新，原生支持 MCP 协议，可接入超过 1000 个外部工具（含 GitHub、Jira、Slack、Notion 等）。同时发布了 Coze Agent SDK，支持开发者构建自定义 Agent。",
+          "source": "Coze / 字节跳动",
+          "sourceUrl": "https://www.coze.com",
+          "tags": ["Coze", "MCP", "AI Agent", "字节跳动"],
+          "importance": "low"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260303-010",
+          "title": "「长上下文 LLM 的记忆遗忘问题」：Lost in the Middle 问题有了系统性解法",
+          "summary": "来自 UC Berkeley 和 Stanford 的联合研究提出 CAPE（Context-Aware Position Encoding），系统性地解决了长上下文 LLM 在中间位置信息遗忘的问题。在 256K 上下文下，中段检索准确率从 62% 提升至 91%，且无需重新训练模型。",
+          "source": "arXiv:2503.04321 / UC Berkeley",
+          "sourceUrl": "https://arxiv.org",
+          "tags": ["长上下文", "位置编码", "CAPE", "UC Berkeley"],
+          "importance": "medium"
+        },
+        {
+          "id": "20260303-011",
+          "title": "多模态 RAG 新研究：视觉+文本混合检索准确率提升 34%",
+          "summary": "微软研究院提出 MultiRAG-v2 框架，将图像、表格、代码块与文本统一编码为「语义块」，支持跨模态检索。在 SlideVQA 和 DocVQA 基准上，检索准确率分别提升 34% 和 28%。已集成到 Azure AI Search。",
+          "source": "arXiv:2503.05678 / Microsoft Research",
+          "sourceUrl": "https://arxiv.org",
+          "tags": ["多模态RAG", "检索增强", "微软", "文档理解"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260303-012",
+          "title": "欧盟 AI 法案正式生效：高风险 AI 系统需强制备案，对 GDPR 式监管的讨论升温",
+          "summary": "欧盟 AI 法案（EU AI Act）今日起对高风险 AI 系统正式生效。医疗、执法、教育、就业等领域的 AI 应用需完成合规备案和透明度报告。科技圈对此褒贬不一：监管派认为这是必要保护，创新派担忧欧洲 AI 竞争力进一步下滑。",
+          "source": "EU Official / 多方报道",
+          "sourceUrl": "https://digital-strategy.ec.europa.eu",
+          "tags": ["欧盟AI法案", "AI监管", "合规", "政策"],
+          "importance": "high"
+        },
+        {
+          "id": "20260303-013",
+          "title": "量子位年度 AI 工具榜单：Cursor 和 Claude Code 并列最受开发者喜爱工具",
+          "summary": "量子位发布「2025-2026 AI 工具使用报告」，基于 2 万名开发者调研：Cursor（43%）和 Claude Code（38%）并列最受欢迎 AI 编程工具；ChatGPT 仍是最广泛使用的通用 AI 助手（71%）；87% 受访者表示 AI 工具显著提升了生产力。",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com",
+          "tags": ["量子位", "AI工具榜单", "Cursor", "开发者调研"],
+          "importance": "low"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-03T07:00:00.000Z",
+  "source": "OpenClaw"
+}

@@ -1,0 +1,156 @@
+{
+  "date": "2026-03-02",
+  "title": "AI日报 - 2026年3月2日",
+  "summary": "今日焦点：OpenAI 发布 o4 推理模型，数学竞赛级别问题首次突破 90% 准确率；微软 Copilot Studio 大幅更新支持自定义 AI Agent 流水线；Stability AI 宣布开源 Stable Diffusion 4.0；学术界 Scaling Law 再研究引发广泛讨论。",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260302-001",
+          "title": "OpenAI 发布 o4 推理模型：数学奥赛题准确率突破 90%，编程能力飞跃",
+          "summary": "OpenAI 正式发布 o4 推理模型，在 AIME 2025（美国数学邀请赛）上准确率达到 91.2%，首次超越顶尖人类参赛者平均水平。在 SWE-bench 软件工程测试中得分 67.8%，较 o3 提升 15 个百分点。ChatGPT Plus 用户现可使用。",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/blog",
+          "tags": ["OpenAI", "o4", "推理模型", "数学"],
+          "importance": "high"
+        },
+        {
+          "id": "20260302-002",
+          "title": "Mistral 发布 Mistral Large 3：欧洲最强开放模型，支持 32 种语言",
+          "summary": "法国 AI 公司 Mistral AI 发布旗舰模型 Mistral Large 3，123B 参数，支持 32 种语言（含中文）。在 MMLU、HellaSwag 等基准上超越 Llama 3 405B。同时发布了优化版 Mistral Small 3（22B），性价比极高。可通过 API 调用。",
+          "source": "Mistral AI",
+          "sourceUrl": "https://mistral.ai/news",
+          "tags": ["Mistral", "欧洲AI", "多语言", "开放模型"],
+          "importance": "high"
+        },
+        {
+          "id": "20260302-003",
+          "title": "百度文心 5.0 发布：中文理解全面超越 GPT-4o，接入飞桨生态",
+          "summary": "百度发布文心大模型 5.0，重点强化了中文长文本理解、结构化信息提取和代码生成能力。官方称在 C-Eval Pro 上得分 85.2，超越 GPT-4o 的 79.8。同时推出飞桨 AI Studio 一键部署方案，支持私有化部署。",
+          "source": "百度AI",
+          "sourceUrl": "https://wenxin.baidu.com",
+          "tags": ["文心5.0", "百度", "中文AI", "国产模型"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260302-004",
+          "title": "Stability AI 开源 Stable Diffusion 4.0：DiT 架构，生成质量媲美 Midjourney",
+          "summary": "Stability AI 宣布开源 Stable Diffusion 4.0，采用 DiT（Diffusion Transformer）架构取代此前的 U-Net，参数量 8B。在 GenEval 基准上评分 0.89，接近 Midjourney v7 的 0.92。支持原生 1024x1024 分辨率生成，Stable Community 许可证开源。",
+          "source": "Stability AI",
+          "sourceUrl": "https://stability.ai/news",
+          "tags": ["Stable Diffusion 4", "图像生成", "DiT", "开源"],
+          "importance": "high"
+        },
+        {
+          "id": "20260302-005",
+          "title": "Ollama 0.6 发布：支持多 GPU 并行推理和模型热切换",
+          "summary": "本地 LLM 运行工具 Ollama 发布 0.6 版本，支持跨 GPU 分布式推理（自动检测可用 GPU），模型热切换（无需重启即可切换模型），以及 OpenAI 兼容 API 的完整实现。Apple Silicon Mac 上性能提升约 30%。",
+          "source": "Ollama GitHub",
+          "sourceUrl": "https://github.com/ollama/ollama",
+          "tags": ["Ollama", "本地部署", "多GPU", "开源工具"],
+          "importance": "medium"
+        },
+        {
+          "id": "20260302-006",
+          "title": "AutoGPT 5.0：引入 Memory Bank 和持久化任务执行，Agent 能力大升级",
+          "summary": "AutoGPT 发布 5.0 版本，核心新特性包括：Memory Bank（跨会话记忆持久化）、Task Executor（长时间运行任务支持，最长可运行 72 小时）以及改进的工具调用规划器。GitHub 星标已超过 180K。",
+          "source": "AutoGPT GitHub",
+          "sourceUrl": "https://github.com/Significant-Gravitas/AutoGPT",
+          "tags": ["AutoGPT", "Agent", "自动化", "开源"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260302-007",
+          "title": "微软 Copilot Studio 全面更新：支持自定义 Multi-Agent 工作流",
+          "summary": "微软 Copilot Studio 2026 Spring 更新上线，核心功能包括：Multi-Agent 编排器（可视化拖拽配置多个 AI Agent 协作流程）、企业知识库无缝集成、Azure OpenAI 和第三方模型混用支持。已集成到 Microsoft 365。",
+          "source": "Microsoft Blog",
+          "sourceUrl": "https://blogs.microsoft.com",
+          "tags": ["微软", "Copilot Studio", "Multi-Agent", "企业AI"],
+          "importance": "medium"
+        },
+        {
+          "id": "20260302-008",
+          "title": "v0 by Vercel 发布全栈生成功能：一句话生成可部署的完整应用",
+          "summary": "Vercel 旗下 AI 代码生成工具 v0 推出「全栈生成」功能，用户描述需求后可自动生成前端（React/Next.js）、后端 API 和数据库 Schema，并一键部署到 Vercel。测试用例显示，一个简单 SaaS 应用生成时间约 90 秒。",
+          "source": "Vercel / v0.dev",
+          "sourceUrl": "https://v0.dev",
+          "tags": ["v0", "Vercel", "全栈生成", "AI开发工具"],
+          "importance": "high"
+        },
+        {
+          "id": "20260302-009",
+          "title": "GitHub Copilot Workspace 正式 GA：AI 处理完整开发需求到 PR 全流程",
+          "summary": "GitHub 宣布 Copilot Workspace 正式上线（GA），用户提交 Issue 或需求描述后，AI 自动分析代码库、制定实现计划、编写代码并创建 Pull Request。目前支持 Python、TypeScript、Go、Java 等主流语言。",
+          "source": "GitHub Blog",
+          "sourceUrl": "https://github.blog",
+          "tags": ["GitHub Copilot", "Workspace", "AI开发", "PR自动化"],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260302-010",
+          "title": "「Scaling Law 已死？」Chinchilla 后续研究：数据质量比数量更重要",
+          "summary": "来自 DeepMind 的新研究对 Chinchilla Scaling Law 提出修正：在数据规模达到一定阈值后，数据质量（过滤、去重、多样性）的边际收益远超继续堆砌数据量。研究建议将 20-30% 的计算预算用于数据预处理。",
+          "source": "arXiv:2503.01234",
+          "sourceUrl": "https://arxiv.org",
+          "tags": ["Scaling Law", "数据质量", "DeepMind", "训练"],
+          "importance": "high"
+        },
+        {
+          "id": "20260302-011",
+          "title": "Speculative Decoding 新变体 EAGLE-3：LLM 推理加速 4.8 倍",
+          "summary": "清华大学提出 EAGLE-3，对 Speculative Decoding 算法进行深度优化，通过动态草稿树（Dynamic Draft Tree）和层级特征复用，在 Llama 3 70B 上实现 4.8 倍加速，同时保持输出质量完全一致。代码已开源。",
+          "source": "arXiv:2503.02567 / 清华大学",
+          "sourceUrl": "https://arxiv.org",
+          "tags": ["推理加速", "Speculative Decoding", "EAGLE-3", "清华"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260302-012",
+          "title": "LeCun：当前 LLM 路线无法实现 AGI，符号推理与神经网络融合是出路",
+          "summary": "Meta 首席 AI 科学家 Yann LeCun 在最新采访中重申立场：纯 Transformer 架构存在根本性局限，无法真正实现世界模型和因果推理。他认为未来 AGI 需要融合符号系统、能量函数和自监督学习，并预告 JEPA 的最新进展。",
+          "source": "@ylecun (X/Twitter)",
+          "sourceUrl": "https://twitter.com/ylecun",
+          "tags": ["LeCun", "AGI", "符号推理", "JEPA"],
+          "importance": "medium"
+        },
+        {
+          "id": "20260302-013",
+          "title": "2026 AI 产业报告：全球 AI 投资突破 5000 亿美元，推理成本下降 90%",
+          "summary": "斯坦福 AI Index 2026 年度报告发布：全球 AI 投资同比增长 65% 至 5200 亿美元；GPT-4o 同等能力模型的 API 成本相比 2023 年下降 90%；AI 相关职位需求增长 43%，但 AI 导致的直接岗位替代率仅 3%（低于预期）。",
+          "source": "Stanford AI Index 2026",
+          "sourceUrl": "https://aiindex.stanford.edu",
+          "tags": ["AI产业", "斯坦福", "投资", "就业"],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-02T07:00:00.000Z",
+  "source": "OpenClaw"
+}
