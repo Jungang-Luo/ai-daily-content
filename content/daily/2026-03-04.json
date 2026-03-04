@@ -1,203 +1,34 @@
 {
   "date": "2026-03-04",
   "title": "AI 日报 - 2026年03月04日",
-  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/02/28） - 知乎专栏；千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云；AI Updates Today (March 2026) – Latest AI Model Re；OpenAI、Anthropic 壓力山大Gemini 3...",
+  "summary": "今日暂无重要 AI 动态。",
   "categories": [
     {
       "name": "大模型动态",
-      "emoji": "🧠",
-      "items": [
-        {
-          "id": "20260304-001",
-          "title": "国内外知名大模型及应用——模型/应用维度（2026/02/28） - 知乎专栏",
-          "summary": "本周更新（2025/02/16~2025/02/28）Google Deepmind：国外闭源组更新生图模型 Gemini 3.1 Flash Image(Nano Banana 2)。 本月更新Gemini：国外闭源组更新推理模型 Gemini 3.1 Pro；Claude：国外闭源组更新通用模型",
-          "source": "Unknown",
-          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-004",
-          "title": "千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云",
-          "summary": "零跑汽车已于近日实现对C10车型（纯电、增程）完成OTA重磅升级，并携手阿里云百炼首次在智能座舱场景中增加“语音大模型”功能，用于闲聊、基础知识问答以及文生图等场景。据统计，今年6月份零跑汽车单月交付首度突破2万台，创史上新高。查看详情 · 阿里云携猎聘基于千问大模型和阿里云百炼定制的prompt优",
-          "source": "Unknown",
-          "sourceUrl": "https://www.aliyun.com/product/tongyi",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-006",
-          "title": "AI Updates Today (March 2026) – Latest AI Model Re",
-          "summary": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Goog",
-          "source": "Unknown",
-          "sourceUrl": "https://llm-stats.com/llm-updates",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-010",
-          "title": "OpenAI、Anthropic 壓力山大Gemini 3 發布後，外界普遍認為Google ...",
-          "summary": "Dec 6, 2025 ... 「Google 開打50 萬美金Gemini 3 Vibe Code 黑客松：AI 程式新世代啟動！」 Google Deepmind Gemini 3 Pro 正式啟動「Vibe Code」全球開發者黑客松，總 ...",
-          "source": "Unknown",
-          "sourceUrl": "https://www.threads.com/@future.ai.tw/post/DR8gKSlkX0l/%E7%AB%B6%E7%88%AD%E6%A0%BC%E5%B1%80openaianthropic-%E5%A3%93%E5%8A%9B%E5%B1%B1%E5%A4%A7gemini-3-%E7%99%BC%E5%B8%83%E5%BE%8C%E5%A4%96%E7%95%8C%E6%99%AE%E9%81%8D%E8%AA%8D%E7%82%BA-google-%E5%9C%A8%E5%A4%9A%E9%A0%85-ai-%E6%8C%87%E6%A8%99%E8%88%87%E6%87%89%E7%94%A8%E5%A0%B4%E6%99%AF%E4%B8%8A%E5%B7%B2%E7%B6%93%E5%BE%9E%E8%BF%BD%E8%B6%95%E8%80%85%E8%AE%8A%E6%88%90%E9%A0%98%E5%85%88%E8%80%85%E4%B9%8B%E4%B8%80%E5%9C%A8%E6%8E%A8",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-011",
-          "title": "LLM开源大模型汇总-截止0506 - 知乎专栏",
-          "summary": "Llama 4 Scout（16位专家*激活17B，总参数109B）; Llama 4 Maverick（128位专家*激活17B，总参数400B）; 未发布的Behemoth（16位专家*激活188B）.",
-          "source": "Unknown",
-          "sourceUrl": "https://zhuanlan.zhihu.com/p/24657349318",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        }
-      ]
+      "icon": "🧠",
+      "items": []
     },
     {
       "name": "开源项目",
-      "emoji": "⚡",
+      "icon": "⚡",
       "items": []
     },
     {
       "name": "AI 工具更新",
-      "emoji": "🛠️",
-      "items": [
-        {
-          "id": "20260304-007",
-          "title": "谷歌AnthropicOpenAI同日发布重磅AI模型三大巨头展现差异化竞争策略",
-          "summary": "Feb 10, 2026 ... ... 谷歌着眼AGI未来，Anthropic深耕垂直变现，OpenAI构建底层生态。据悉，Anthropic和OpenAI都预告将在近期发布更多重要更新，8月AI领域竞争将持续升温。",
-          "source": "Unknown",
-          "sourceUrl": "https://cj.sina.cn/articles/view/7879848900/1d5acf3c401902qed8?froms=ggmp",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-012",
-          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
-          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
-          "source": "Unknown",
-          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-015",
-          "title": "论文生成器-AI论文写作毕业模版去降重助手 - App Store",
-          "summary": "智能辅助工具· 智能论文润色，提升学术表达· 专业配图生成，美化论文呈现· 实时答疑解惑，轻松操作实现【使用优势】 1. 节省时间：显著减少论文写作时间，提高研究效率2.",
-          "source": "Unknown",
-          "sourceUrl": "https://apps.apple.com/jp/app/%E8%AE%BA%E6%96%87%E7%94%9F%E6%88%90%E5%99%A8-ai%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E6%AF%95%E4%B8%9A%E6%A8%A1%E7%89%88%E5%8E%BB%E9%99%8D%E9%87%8D%E5%8A%A9%E6%89%8B/id6742727916",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        }
-      ]
+      "icon": "🛠️",
+      "items": []
     },
     {
       "name": "论文速递",
-      "emoji": "📄",
-      "items": [
-        {
-          "id": "20260304-013",
-          "title": "【資料3-2】AI for Scienceの動向2026 -AIトランスフォーメーションに伴う ..",
-          "summary": "2026/01/14 — 本報告書は、科学研究に AI を活用する「AI for Science」について調査し、2025 年末時点の動向をまと. めたものである。 人工知能（Artificial ...140 ページ·9 MB",
-          "source": "Unknown",
-          "sourceUrl": "https://www.mext.go.jp/content/20260114-mxt_jyohoka01-000046711_4.pdf",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-014",
-          "title": "中国国内のAI倫理研究の現状について - huscap",
-          "summary": "侯乃禎 著 · 2022 · 被引用数: 2 — 2017 年 7 月 8 日に公表された「次世代人工知能発展計画」（中：《新一代人工智能发展规划》）で、. 中国において AI 技術を発展させるために倫理規範が ...14 ページ·963 KB",
-          "source": "Unknown",
-          "sourceUrl": "https://eprints.lib.hokudai.ac.jp/repo/huscap/all/86435/13_5_58-70.pdf",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        }
-      ]
+      "icon": "📄",
+      "items": []
     },
     {
       "name": "行业观点",
-      "emoji": "💡",
-      "items": [
-        {
-          "id": "20260304-002",
-          "title": "NVIDIA 发布全新物理 AI 模型，全球合作伙伴展示新一代机器人 | NVIDIA 英伟达博客",
-          "summary": "Jan 5, 2026 ... 拉斯维加斯—— CES —— 太平洋时间2026 年1 月5 日—— NVIDIA 今日宣布推出用于物理AI 的全新开放模型、框架和AI 基础设施，并展示了全球合作伙伴为各行业打造 ...",
-          "source": "Unknown",
-          "sourceUrl": "https://blogs.nvidia.cn/blog/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots/",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-003",
-          "title": "Artificial intelligence | MIT News | Massachusetts",
-          "summary": "5 days ago · AI algorithm enables tracking of vital white matter pathways Opening a new window on the brainstem, a new tool reliably and finely resolv",
-          "source": "Unknown",
-          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-005",
-          "title": "消息称DeepSeek 下周发布V4 多模态模型，原生支持图片 - IT之家",
-          "summary": "消息称DeepSeek 下周发布V4 多模态模型，原生支持图片、视频和文本AI 生成 ... 评论：. 感谢IT之家网友软媒新友2199365 的线索投递！",
-          "source": "Unknown",
-          "sourceUrl": "https://www.ithome.com/0/924/511.htm",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-008",
-          "title": "谷歌、Anthropic双重围剿下的OpenAI，正面临「生死抉择」 - 知乎专栏",
-          "summary": "Jan 25, 2026 ... 今日，据外媒The Information 最新报道，OpenAI 传递出了清晰的战略转型 ... 今年晚些时候，OpenAI 预计还将发布一款由前苹果设计总监Jony Ive 参与设计的AI ...",
-          "source": "Unknown",
-          "sourceUrl": "https://zhuanlan.zhihu.com/p/1998844718004606117",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-009",
-          "title": "OpenAI",
-          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
-          "source": "Unknown",
-          "sourceUrl": "https://openai.com/",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        }
-      ]
+      "icon": "💡",
+      "items": []
     }
   ],
-  "generatedAt": "2026-03-04T18:53:43.376249+08:00",
+  "generatedAt": "2026-03-04T19:23:00.504136+08:00",
   "source": "OpenClaw"
 }
