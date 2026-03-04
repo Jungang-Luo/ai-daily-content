@@ -1,270 +1,34 @@
 {
   "date": "2026-03-04",
   "title": "AI 日报 - 2026年03月04日",
-  "summary": "今日 AI 动态：千问痛失技术大牛？阿里或有新的考量；DeepSeek重大发布！国产AI大模型再度掀起热潮 - 东方财富网；阿里巴巴发布Qwen3.5大模型_新浪新闻；国内外知名大模型及应用——模型/应用维度（2026/02/28） - 知乎专栏；AI Token的中国式出海...",
+  "summary": "今日暂无重要 AI 动态。",
   "categories": [
     {
       "name": "大模型动态",
       "icon": "🧠",
-      "items": [
-        {
-          "id": "20260304-003",
-          "title": "千问痛失技术大牛？阿里或有新的考量",
-          "summary": "8 hours ago — 今天，AI浪潮风云际会，千问今天的成绩，不代表未来领先。阿里巴巴或许需要加入新的血液，为千问大模型注入新动力。 ... 阿里正式发布！千问最强模型来了.",
-          "source": "新浪",
-          "sourceUrl": "https://t.cj.sina.cn/articles/view/1262365664/4b3e2be000101btbi",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-004",
-          "title": "DeepSeek重大发布！国产AI大模型再度掀起热潮 - 东方财富网",
-          "summary": "Jan 27, 2026 — 国产AI大模型再度掀起热潮。 今日（1月27日），DeepSeek团队发布《DeepSeek-OCR 2: Visual Causal Flow》论文，并开源DeepSeek-OCR 2 ...",
-          "source": "东方财富",
-          "sourceUrl": "https://wap.eastmoney.com/a/202601273632532471.html",
-          "tags": [
-            "AI"
-          ],
-          "importance": "high"
-        },
-        {
-          "id": "20260304-006",
-          "title": "阿里巴巴发布Qwen3.5大模型_新浪新闻",
-          "summary": "Feb 16, 2026 ... 阿里巴巴春节AI大战再出一张王牌。 今天，阿里巴巴正式开源并上线了新一代千问大模型Qwen3.5，以其原生多模态架构和极致 ...",
-          "source": "Sina",
-          "sourceUrl": "https://www.sina.cn/news/detail/5267007920407336.html",
-          "tags": [
-            "AI"
-          ],
-          "importance": "high"
-        },
-        {
-          "id": "20260304-009",
-          "title": "国内外知名大模型及应用——模型/应用维度（2026/02/28） - 知乎专栏",
-          "summary": "Google Deepmind在2025年10月发布的AI视频生成模型。相比5月份发布的3.0版本，音频生成、指令遵循、视频真实感这几个维度都有显著增强的同时，新 ...",
-          "source": "知乎专栏",
-          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-010",
-          "title": "AI Token的中国式出海",
-          "summary": "13 hours ago — 今年2月，月之暗面宣布完成新一轮融资。而根据澎湃新闻报道，旗下大模型Kimi2.5在今年年初一经发布，20天内的调用量已经超过了去年全年。",
-          "source": "证券时报",
-          "sourceUrl": "https://www.stcn.com/article/detail/3660171.html",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        }
-      ]
+      "items": []
     },
     {
       "name": "开源项目",
       "icon": "⚡",
-      "items": [
-        {
-          "id": "20260304-007",
-          "title": "一夜之间，全球AI 圈都在转发这条告别推文",
-          "summary": "6 hours ago — 3 月4 日凌晨，阿里通义千问（Qwen）技术负责人林俊旸在X 突然发文，向自己一手带大的开源模型项目告别。 这条推文瞬间引爆了整个在全球AI 开源社区。",
-          "source": "爱范儿",
-          "sourceUrl": "https://www.ifanr.com/1656681",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-011",
-          "title": "LongCat-Flash-Omni正式发布并开源：开启全模态实时交互时代",
-          "summary": "2025年11月3日 — LongCat-Flash-Omni 是一款拥有极致性能的开源全模态模型，在一体化框架中整合了离线多模态理解与实时音视频交互能力。该模型采用完全端到端的设计，以视觉 ...",
-          "source": "Meituan",
-          "sourceUrl": "https://tech.meituan.com/2025/11/03/longcat-flash-omni.html",
-          "tags": [
-            "AI"
-          ],
-          "importance": "high"
-        }
-      ]
+      "items": []
     },
     {
       "name": "AI 工具更新",
       "icon": "🛠️",
-      "items": [
-        {
-          "id": "20260304-001",
-          "title": "Artificial intelligence | MIT News | Massachusetts",
-          "summary": "5 days ago · AI algorithm enables tracking of vital white matter pathways Opening a new window on the brainstem, a new tool reliably and finely resolv",
-          "source": "MIT",
-          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
-          "tags": [
-            "AI"
-          ],
-          "importance": "high"
-        },
-        {
-          "id": "20260304-005",
-          "title": "AI tool generates high-quality images faster than ",
-          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
-          "source": "MIT",
-          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-008",
-          "title": "MIT researchers introduce generative AI for databa",
-          "summary": "Jul 8, 2024 · Researchers from MIT and elsewhere developed an easy-to-use tool that enables someone to perform complicated statistical analyses on tab",
-          "source": "MIT",
-          "sourceUrl": "https://news.mit.edu/2024/mit-researchers-introduce-generative-ai-databases-0708",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-012",
-          "title": "WhatsApp Web",
-          "summary": "Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.",
-          "source": "Whatsapp",
-          "sourceUrl": "https://web.whatsapp.com/",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-013",
-          "title": "10大AI工具推荐（2025年更新）",
-          "summary": "10大AI工具推荐（2025年更新） · 1. Jasper · 2. Pictory · 3. Murf · 4. Synthesys · 5. Lovo.ai · 6. Aragon · 7. Plus AI · 8. UpGrow.",
-          "source": "Google",
-          "sourceUrl": "https://sites.google.com/view/aigongju/home",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        }
-      ]
+      "items": []
     },
     {
       "name": "论文速递",
       "icon": "📄",
-      "items": [
-        {
-          "id": "20260304-014",
-          "title": "【資料3-2】AI for Scienceの動向2026 -AIトランスフォーメーションに伴う ..",
-          "summary": "2026/01/14 — 本報告書は、科学研究に AI を活用する「AI for Science」について調査し、2025 年末時点の動向をまと. めたものである。 人工知能（Artificial ...140 ページ·9 MB",
-          "source": "Mext",
-          "sourceUrl": "https://www.mext.go.jp/content/20260114-mxt_jyohoka01-000046711_4.pdf",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-015",
-          "title": "中国国内のAI倫理研究の現状について - huscap",
-          "summary": "侯乃禎 著 · 2022 · 被引用数: 2 — 2017 年 7 月 8 日に公表された「次世代人工知能発展計画」（中：《新一代人工智能发展规划》）で、. 中国において AI 技術を発展させるために倫理規範が ...14 ページ·963 KB",
-          "source": "Hokudai",
-          "sourceUrl": "https://eprints.lib.hokudai.ac.jp/repo/huscap/all/86435/13_5_58-70.pdf",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-018",
-          "title": "Chenjia Bai",
-          "summary": "Institute of Artificial Intelligence, China Telecom（中国电信人工智能研究院, TeleAI） - ‪‪引用: 1954 件‬‬ - ‪Reinforcement Learning‬ - ‪Robotics‬ - ‪Embodied‬ ...",
-          "source": "Google",
-          "sourceUrl": "https://scholar.google.co.jp/citations?user=Rm_1y2kAAAAJ&hl=ja",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-021",
-          "title": "research - 張研究室",
-          "summary": "張研究室は、ナノテクノロジーの革新と実用化への挑戦を掲げ、 ナノテクノロジーを活用して、エネルギーをもっと効率的に使える技術や、医療やヘルスケアを革新する ...",
-          "source": "Zhang-Laboratory",
-          "sourceUrl": "https://zhang-laboratory.org/ch/research",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        }
-      ]
+      "items": []
     },
     {
       "name": "行业观点",
       "icon": "💡",
-      "items": [
-        {
-          "id": "20260304-002",
-          "title": "消息称DeepSeek 下周发布V4 多模态模型，原生支持图片 - IT之家",
-          "summary": "消息称DeepSeek 下周发布V4 多模态模型，原生支持图片、视频和文本AI 生成 ... 评论：. 感谢IT之家网友软媒新友2199365 的线索投递！",
-          "source": "IT 之家",
-          "sourceUrl": "https://www.ithome.com/0/924/511.htm",
-          "tags": [
-            "AI"
-          ],
-          "importance": "high"
-        },
-        {
-          "id": "20260304-016",
-          "title": "人工知能学会 (The Japanese Society for Artificial Intell",
-          "summary": "人工知能学会のホームページです。入会手続き、会議やセミナーの開催予定、学会誌情報などを掲載しています。",
-          "source": "Ai-Gakkai",
-          "sourceUrl": "https://www.ai-gakkai.or.jp/",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-017",
-          "title": "EuroMillions Results - Draws every Tuesday and Fri",
-          "summary": "View the latest EuroMillions results here, updated live every Tuesday and Friday night as draws take place and tickets are processed. Winning numbers ",
-          "source": "Euro-Millions",
-          "sourceUrl": "https://www.euro-millions.com/results",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-019",
-          "title": "Latest EuroMillions Results - Lottery",
-          "summary": "Find the latest EuroMillions results and Millionaire Maker codes right here, after each Tuesday and Friday draw. View winner and prize breakdown infor",
-          "source": "Lottery",
-          "sourceUrl": "https://www.lottery.co.uk/euromillions/results",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        },
-        {
-          "id": "20260304-020",
-          "title": "EuroMillions Results History - Irish National Lott",
-          "summary": "5 日前 · View EuroMillions results history. Find out the latest winning numbers, Lucky Star numbers and prize breakdowns today. View all draw results fo",
-          "source": "Lottery",
-          "sourceUrl": "https://www.lottery.ie/draw-games/results/view?game=euromillions",
-          "tags": [
-            "AI"
-          ],
-          "importance": "medium"
-        }
-      ]
+      "items": []
     }
   ],
-  "generatedAt": "2026-03-04T20:29:14.056995+08:00",
+  "generatedAt": "2026-03-04T21:13:24.042427+08:00",
   "source": "OpenClaw"
 }
