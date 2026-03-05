@@ -1,0 +1,248 @@
+{
+  "date": "2026-03-05",
+  "title": "AI 日报 - 2026年03月05日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/02/28） - 知乎专栏；千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云；请问近期DeepSeek新一代大模型即将发布、字节跳动春节AI全场景落 - 股吧；2万次灵魂拷问，揭开AI大模型的“选品私心”；大模型发布时间轴 | AI Mo...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260305-001",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/02/28） - 知乎专栏",
+          "summary": "本周更新（2025/02/16~2025/02/28）Google Deepmind：国外闭源组更新生图模型 Gemini 3.1 Flash Image(Nano Banana 2)。 本月更新Gemini：国外闭源组更新推理模型 Gemini 3.1 Pro；Claude：国外闭源组更新通用模型",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-004",
+          "title": "千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云",
+          "summary": "零跑汽车已于近日实现对C10车型（纯电、增程）完成OTA重磅升级，并携手阿里云百炼首次在智能座舱场景中增加“语音大模型”功能，用于闲聊、基础知识问答以及文生图等场景。据统计，今年6月份零跑汽车单月交付首度突破2万台，创史上新高。查看详情 · 阿里云携猎聘基于千问大模型和阿里云百炼定制的prompt优",
+          "source": "Aliyun",
+          "sourceUrl": "https://www.aliyun.com/product/tongyi",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-006",
+          "title": "请问近期DeepSeek新一代大模型即将发布、字节跳动春节AI全场景落 - 股吧",
+          "summary": "11 hours ago — 董秘您好，请问近期DeepSeek新一代大模型即将发布、字节跳动春节AI全场景落地，这两大事件对公司AI服务器、交换机、云计算、智算一体机等相关业务是否带 ...",
+          "source": "东方财富",
+          "sourceUrl": "https://guba.eastmoney.com/news,000938,1674635669.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260305-009",
+          "title": "2万次灵魂拷问，揭开AI大模型的“选品私心”",
+          "summary": "2 days ago — 10天时间里，我们采用天府绛溪实验室自研的公域大模型AI内容生成认知系统，围绕“春节消费”的主要场景，同时对豆包、Kimi、通义千问这三款主流的AI大模型产品， ...",
+          "source": "Thecover",
+          "sourceUrl": "https://www.thecover.cn/news/zawMRbnf1T6H90qSdq8Jkw==",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-010",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260305-005",
+          "title": "阿里Qwen3.5 开源家族扩容，多尺寸AI 模型上新 - IT之家",
+          "summary": "IT之家 2 月25 日消息，阿里在除夕夜炸场，发布了“开源旗舰”Qwen3.5 模型，登顶全球最强开源模型。 今日，阿里宣布Qwen3.5 开源家族扩容，继旗舰 ...",
+          "source": "IT 之家",
+          "sourceUrl": "https://www.ithome.com/0/923/404.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-014",
+          "title": "Token太贵，中国开源模型一夜之间霸榜了",
+          "summary": "6天前 — 全球头部AI模型API聚合平台OpenRouter的数据显示，2026年2月，中国AI模型的调用量三周大涨127%，首次超越美国模型，全球前五中占据四席。",
+          "source": "Wallstreetcn",
+          "sourceUrl": "https://wallstreetcn.com/articles/3766364",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260305-003",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "1 day ago · AI algorithm enables tracking of vital white matter pathways Opening a new window on the brainstem, a new tool reliably and finely resolve",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260305-007",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260305-008",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-015",
+          "title": "2026年不可错过的12种最佳AI生产力工具 - Manus",
+          "summary": "2026年2月13日 — 快速比较：12种最佳AI生产力工具 ; Jasper. 写作. $49/月 ; Runway. 视频. $15/月 ; Gamma. 演示文稿. $8/月 ; Zapier. 自动化. 提供免费层 ; Notion AI. 知识.",
+          "source": "Manus",
+          "sourceUrl": "https://manus.im/zh-cn/blog/best-ai-productivity-tools",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-016",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260305-018",
+          "title": "学会誌 | 人工知能学会 (The Japanese Society for Artificial ",
+          "summary": "特集：「人工知能分野における博士論文─博士論文に見る研究テーマの動向─」 →目次 →Amazonでの購入 · J-STAGE 学会誌「人工知能」. 学会誌「人工知能」はJ-STAGEより ...",
+          "source": "Ai-Gakkai",
+          "sourceUrl": "https://www.ai-gakkai.or.jp/published_books/journals_of_jsai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-019",
+          "title": "人工知能研究室 - 富山大学 工学部",
+          "summary": "本研究室は主に人工知能（AI）、特に深層学習、ソフトコンピューティング技術などの研究に取り組んでおり、多くの先駆的な研究成果が世界的に注目されている。",
+          "source": "U-Toyama",
+          "sourceUrl": "http://enghp.eng.u-toyama.ac.jp/labs/ii07/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260305-002",
+          "title": "NVIDIA 发布全新物理 AI 模型，全球合作伙伴展示新一代机器人 | NVIDIA 英伟达博客",
+          "summary": "Jan 5, 2026 ... 拉斯维加斯—— CES —— 太平洋时间2026 年1 月5 日—— NVIDIA 今日宣布推出用于物理AI 的全新开放模型、框架和AI 基础设施，并展示了全球合作伙伴为各行业打造 ...",
+          "source": "Blogs",
+          "sourceUrl": "https://blogs.nvidia.cn/blog/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260305-011",
+          "title": "Google",
+          "summary": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're loo",
+          "source": "Google",
+          "sourceUrl": "https://www.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-012",
+          "title": "Sign in - Google Accounts",
+          "summary": "Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode Next Create account",
+          "source": "Google",
+          "sourceUrl": "https://accounts.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-013",
+          "title": "Learn More About Google's Secure and Protected Acc",
+          "summary": "Sign in to your Google Account, and get the most out of all the Google services you use. Your account helps you do more by personalizing your Google e",
+          "source": "Google",
+          "sourceUrl": "https://myaccount.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260305-017",
+          "title": "‘Healthy’ student, 24, dies after falling ill ‘in ",
+          "summary": "2 日前 · Healthy Erasmus student Emma Carratelli dies aged 24 after falling ill during a training activity in Spain - she had no known pre-existing cond",
+          "source": "Needtoknow",
+          "sourceUrl": "https://needtoknow.co.uk/2026/03/03/healthy-student-24-dies-after-falling-ill-in-class-on-term-abroad/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-05T08:05:47.610954+08:00",
+  "source": "OpenClaw"
+}
