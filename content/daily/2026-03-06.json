@@ -1,0 +1,34 @@
+{
+  "date": "2026-03-06",
+  "title": "AI 日报 - 2026年03月06日",
+  "summary": "今日暂无重要 AI 动态。",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": []
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": []
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": []
+    }
+  ],
+  "generatedAt": "2026-03-06T08:00:01.965758+08:00",
+  "source": "OpenClaw"
+}
