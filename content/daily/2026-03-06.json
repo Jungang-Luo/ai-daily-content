@@ -1,12 +1,68 @@
 {
   "date": "2026-03-06",
   "title": "AI 日报 - 2026年03月06日",
-  "summary": "今日暂无重要 AI 动态。",
+  "summary": "今日 AI 动态：Helping AI agents search to get the best results o；OpenAI - Reddit；OpenAI is not open. : r/OpenAI - Reddit；openai API free alternative, or does openai...",
   "categories": [
     {
       "name": "大模型动态",
       "icon": "🧠",
-      "items": []
+      "items": [
+        {
+          "id": "20260306-007",
+          "title": "Helping AI agents search to get the best results o",
+          "summary": "Feb 5, 2026 · The EnCompass system runs AI agent programs by backtracking and making several attempts, finding an LLM’s best set of outputs. It lets p",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/helping-ai-agents-search-to-get-best-results-from-llms-0205",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260306-011",
+          "title": "OpenAI - Reddit",
+          "summary": "OpenAI is an AI research and deployment company. OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity. We are a",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/OpenAI/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260306-012",
+          "title": "OpenAI is not open. : r/OpenAI - Reddit",
+          "summary": "Jun 14, 2022 · OpenAI has the right to pick the name that they want, but it's kinda misleading for the community. They are very clear when they call t",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/OpenAI/comments/vc3aub/openai_is_not_open/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260306-013",
+          "title": "openai API free alternative, or does openai API ha",
+          "summary": "OpenAI is an AI research and deployment company. OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity. We are a",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/OpenAI/comments/187fzdb/openai_api_free_alternative_or_does_openai_api/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260306-014",
+          "title": "Name and shame: OpenAI : r/cscareerquestions - Red",
+          "summary": "Aug 20, 2023 · 4-8 hour unpaid take home assignment, creating a solution using the openAI APIs amongst other methods, then writing a paper of what met",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/cscareerquestions/comments/15wf2w9/name_and_shame_openai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
     },
     {
       "name": "开源项目",
@@ -16,19 +72,165 @@
     {
       "name": "AI 工具更新",
       "icon": "🛠️",
-      "items": []
+      "items": [
+        {
+          "id": "20260306-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "2 days ago · AI algorithm enables tracking of vital white matter pathways Opening a new window on the brainstem, a new tool reliably and finely resolv",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260306-002",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260306-003",
+          "title": "Explained: Generative AI’s environmental impact - ",
+          "summary": "Jan 17, 2025 · MIT News explores the environmental and sustainability implications of generative AI technologies and applications.",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260306-004",
+          "title": "MIT researchers introduce generative AI for databa",
+          "summary": "Jul 8, 2024 · Researchers from MIT and elsewhere developed an easy-to-use tool that enables someone to perform complicated statistical analyses on tab",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2024/mit-researchers-introduce-generative-ai-databases-0708",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260306-005",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
     },
     {
       "name": "论文速递",
       "icon": "📄",
-      "items": []
+      "items": [
+        {
+          "id": "20260306-006",
+          "title": "Study: AI chatbots provide less-accurate informati",
+          "summary": "Feb 19, 2026 · MIT researchers find AI chatbots often show bias, giving less accurate or more dismissive answers to some users. The findings highlight",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260306-009",
+          "title": "Creating AI that matters - MIT News",
+          "summary": "Oct 21, 2025 · The MIT-IBM Watson AI Lab bridges research and deployment in AI through advances like smaller, efficient foundation models, vision and ",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/creating-ai-that-matters-1021",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260306-018",
+          "title": "多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样 ...",
+          "summary": "2025年3月17日 · 多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样？ 如何检测论文 AI 率？ 检测结果准确吗？ 近日，西南大学、中国人民大学纷纷发布关于本科毕业论文（设计）检测的最新规 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/15169887147",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
     },
     {
       "name": "行业观点",
       "icon": "💡",
-      "items": []
+      "items": [
+        {
+          "id": "20260306-008",
+          "title": "Responding to the climate impact of generative AI ",
+          "summary": "Sep 30, 2025 · MIT experts discuss strategies and innovations aimed at mitigating the amount of greenhouse gas emissions generated by the training, de",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/responding-to-generative-ai-climate-impact-0930",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260306-010",
+          "title": "Accelerating science with AI and simulations - MIT",
+          "summary": "Feb 12, 2026 · For more than a decade, MIT Associate Professor Rafael Gómez-Bombarelli has used artificial intelligence to create new materials. Now, ",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/accelerating-science-ai-and-simulations-rafael-gomez-bombarelli-0212",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260306-015",
+          "title": "YouTube",
+          "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "source": "YouTube",
+          "sourceUrl": "https://www.youtube.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260306-016",
+          "title": "YouTube - Aplicaciones en Google Play",
+          "summary": "Hazte con la aplicación YouTube oficial en tu teléfono o tablet Android. Descubre qué temas están arrasando en todo el mundo: desde los vídeos musical",
+          "source": "Google",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=es",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260306-017",
+          "title": "YouTube",
+          "summary": "The singing voices behind HUNTR/X from Kpop Demon Hunters (EJAE, AUDREY NUNA, and REI AMI) scroll through their actual YouTube Watch History, and it's",
+          "source": "YouTube",
+          "sourceUrl": "https://www.youtube.com/youtube",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
     }
   ],
-  "generatedAt": "2026-03-06T08:00:01.965758+08:00",
+  "generatedAt": "2026-03-06T08:14:23.277976+08:00",
   "source": "OpenClaw"
 }
