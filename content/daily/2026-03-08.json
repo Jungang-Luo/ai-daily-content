@@ -1,0 +1,270 @@
+{
+  "date": "2026-03-08",
+  "title": "AI 日报 - 2026年03月08日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎；大模型最新进展；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；每日ai资讯 - 猫目；千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260308-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-005",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-006",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260308-008",
+          "title": "每日ai资讯 - 猫目",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-010",
+          "title": "千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云",
+          "summary": "千问以32% 的份额位居中国企业级大模型调用市场份额第一，企业级调用规模领先。 · 一次调用同时完成高质量视觉理解与复杂推理，图文生产力实现倍增，速来免费体验！ · 2.0系列的加速版模型，具备更专业的文字渲染，更强的语义遵循能力。 · 新用户零门槛领取千万免费tokens，90天超长有效期，随心体",
+          "source": "Aliyun",
+          "sourceUrl": "https://www.aliyun.com/product/tongyi",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260308-011",
+          "title": "开源（open source）是什么？为什么要开源？ - 知乎",
+          "summary": "开源算法的代码，在很大程度上降低了生态壁垒。 但是，目前大家基本上用的都是美国的Pytorch，TensorFlow或者Caffe。 非常希望大家也能多支持，多参与国产生态平台下的开源工作， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/343707546",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-012",
+          "title": "国内哪个开源社区比较好？ - 知乎",
+          "summary": "开源社区有很多，比如GitHub、Gitee、开源社、木兰开源社区，可以在这些平台去了解。 另外，CSDN社区、博客园、SegmentFault、51CTO等平台都是国内拥有IT开发者和丰富的技术资源，虽 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/5289875531",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-013",
+          "title": "2026年2月 开源/复古掌机选购推荐——横版掌机",
+          "summary": "2026年2月7日 · 小知识： 1.开源掌机一般 使用Linux或者安卓系统，前者上手简便，性能够用；后者自定义空间大，性能强。 2.采用Linux的开源掌机大多都 没有自带存储空间，所以必须安装存储卡（常 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/tardis/zm/art/712341507",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-014",
+          "title": "开源（open source）是什么？为什么要开源？",
+          "summary": "2021年11月3日 · 为此，开源项目应当形成一个强大的技术核心，这个技术核心对怀有梦想追求的开发者产生引力，形成开源社区并支持参与者在其中的各个部分创造自己的价值。 每个人都从别人乃至自 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/tardis/bd/ans/2204771631",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-015",
+          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini ...",
+          "summary": "最近开源项目 Clawdbot 在 GitHub 上星标疯涨，还意外带火了 Mac mini，社交平台上全是相关订单截图和使…",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1999166962421429182",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260308-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "4 days ago · AI algorithm enables tracking of vital white matter pathways Opening a new window on the brainstem, a new tool reliably and finely resolv",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260308-003",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260308-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-007",
+          "title": "MIT researchers introduce generative AI for databa",
+          "summary": "Jul 8, 2024 · Researchers from MIT and elsewhere developed an easy-to-use tool that enables someone to perform complicated statistical analyses on tab",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2024/mit-researchers-introduce-generative-ai-databases-0708",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-009",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260308-016",
+          "title": "多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样 ...",
+          "summary": "2025年3月17日 · 多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样？ 如何检测论文 AI 率？ 检测结果准确吗？ 近日，西南大学、中国人民大学纷纷发布关于本科毕业论文（设计）检测的最新规 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/15169887147",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260308-017",
+          "title": "字节跳动宣布中国首个 AI 原生集成开发环境 Trae 国内版 ...",
+          "summary": "直接问AI！ 就像问朋友一样简单 实时代码建议：AI会实时理解你的需求，给出建议，就像有个专业程序员在旁边指导 代码片段生成：用自然语言描述需求，AI就能生成对应代码 从0到1开发项目：只需告 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/13918010999",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-018",
+          "title": "MY ACCOUNT - F1 TV",
+          "summary": "Manage your F1 TV account settings and preferences for live Grand Prix streaming.",
+          "source": "Formula1",
+          "sourceUrl": "https://f1tv.formula1.com/settings",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-019",
+          "title": "Managing your F1 TV account – Zendesk",
+          "summary": "You can manage your F1 TV account through our website. You need to login, click your name in the top right-hand corner of your screen and the select ‘",
+          "source": "Zendesk",
+          "sourceUrl": "https://z3nedab.zendesk.com/hc/en-us/articles/29862975766801-Managing-your-F1-TV-account",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-020",
+          "title": "Formula 1 - Pit stop",
+          "summary": "Delete your F1 Account Manage your Payments Manage your Devices Update Personal Details Verify your Email Address Reset your Password",
+          "source": "Formula1",
+          "sourceUrl": "https://f1help.formula1.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260308-021",
+          "title": "Manage your Devices",
+          "summary": "Remove a device Go to F1.com or F1 TV. Log in with your email address and password Select the person icon in the top right-hand corner of the screen S",
+          "source": "Formula1",
+          "sourceUrl": "https://f1help.formula1.com/article/manage-devices",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-08T08:00:08.253359+08:00",
+  "source": "OpenClaw"
+}
