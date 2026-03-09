@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-09",
+  "title": "AI 日报 - 2026年03月09日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎；全球ai模型发布时间线 (持续更新)；大模型最新进展；大模型 – 量子位；Employees at Google and OpenAI support Anthropic's...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260309-003",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260309-005",
+          "title": "全球ai模型发布时间线 (持续更新)",
+          "summary": "2025年6月26日，阿里巴巴 发布开源 推理AI模型 HumanOmniV2。 2025年6月26日，Sapient Intelligence 发布开源 推理思考AI模型 Hierarchical Reasoning Model (HRM)，参数量27M (0.027B)，模仿大脑的分层处理与多时",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/tardis/bd/art/14903006525",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260309-006",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260309-009",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260309-011",
+          "title": "Employees at Google and OpenAI support Anthropic's",
+          "summary": "Anthropic has reached a stalemate ... for unrestricted access to the AI company’s technology. But as the Pentagon’s Friday afternoon deadline for Anth",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260309-016",
+          "title": "「从夯到拉」2026年ai编程工具全景测评 - 知乎",
+          "summary": "本文内容截至 2026年1月初。鉴于 AI 编程领域正处于高速迭代的\"红海\"阶段，阅读时可能存在微小的信息滞后。本文将持续跟踪并更新。 更新日志：2026-01-28新增OpenCode测评、更新Github Copilot开源信息 叠甲声明…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1999804779141030200",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260309-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "5 days ago · AI algorithm enables tracking of vital white matter pathways Opening a new window on the brainstem, a new tool reliably and finely resolv",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260309-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260309-007",
+          "title": "MIT researchers introduce generative AI for databa",
+          "summary": "Jul 8, 2024 · Researchers from MIT and elsewhere developed an easy-to-use tool that enables someone to perform complicated statistical analyses on tab",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2024/mit-researchers-introduce-generative-ai-databases-0708",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260309-010",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260309-015",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260309-002",
+          "title": "AI日报 - 每天三分钟关注AI行业趋势_AIbase",
+          "summary": "AI日报为您提供最新的人工智能行业资讯，每天仅需三分钟，全面掌握AI技术发展、行业动态和市场趋势。关注AI日报，紧跟未来科技步伐，获取独家分析与深度解读。",
+          "source": "Aibase",
+          "sourceUrl": "https://www.aibase.com/zh/daily",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260309-008",
+          "title": "热血江湖原版私服-最新最全的公益服热血江湖sf发布站",
+          "summary": "热血江湖私服发布网-60%详情进入 今日新开热血江湖私服网-40%详情进入 哪个版本的热血江湖私服才叫真的能玩？ 我的实践分享! 兄弟们，今天必须得把我的实践经验拿出来晒晒，关于找那个\"人多\"的热血江湖私服，我可是踩过无数的坑，才算是找到点真东西。",
+          "source": "Weibo",
+          "sourceUrl": "https://www.weibo.com/ttarticle/p/show?id=2309405271237827363112",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260309-012",
+          "title": "What's your number 1 complaint about the Palisade?",
+          "summary": "2025年11月30日 · While the Hyundai Palisade has received rave reviews for its spacious interior, smooth ride, and abundance of features, there is bound t",
+          "source": "Palisadeforum",
+          "sourceUrl": "https://www.palisadeforum.com/threads/whats-your-number-1-complaint-about-the-palisade.7882/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260309-013",
+          "title": "Oil consumption - Hyundai Palisade Forum",
+          "summary": "2025年11月24日 · Hyundai is known for engine failure due to oil consumption. And do not let any fanboys on this site convince you otherwise. I have a 202",
+          "source": "Palisadeforum",
+          "sourceUrl": "https://www.palisadeforum.com/threads/oil-consumption.7811/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260309-014",
+          "title": "2023 Hyundai Palisade",
+          "summary": "2022年5月4日 · 2023 Hyundai Palisade Redesign New Looks 2023 Hyundai Palisade Redesign 2023 Hyundai Palisade – The Hyundai Palisade is coming back in a r",
+          "source": "Palisadeforum",
+          "sourceUrl": "https://www.palisadeforum.com/threads/2023-hyundai-palisade.5025/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-09T08:00:07.713100+08:00",
+  "source": "OpenClaw"
+}
