@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-10",
+  "title": "AI 日报 - 2026年03月10日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型最新进展；每日ai资讯 - 猫目；大模型 – 量子位...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260310-003",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260310-005",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260310-006",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260310-008",
+          "title": "每日ai资讯 - 猫目",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260310-009",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260310-016",
+          "title": "「从夯到拉」2026年ai编程工具全景测评 - 知乎",
+          "summary": "本文内容截至 2026年1月初。鉴于 AI 编程领域正处于高速迭代的\"红海\"阶段，阅读时可能存在微小的信息滞后。本文将持续跟踪并更新。 更新日志：2026-01-28新增OpenCode测评、更新Github Copilot开源信息 叠甲声明…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1999804779141030200",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260310-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "6 days ago · AI algorithm enables tracking of vital white matter pathways Opening a new window on the brainstem, a new tool reliably and finely resolv",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260310-002",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260310-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260310-007",
+          "title": "MIT researchers introduce generative AI for databa",
+          "summary": "Jul 8, 2024 · Researchers from MIT and elsewhere developed an easy-to-use tool that enables someone to perform complicated statistical analyses on tab",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2024/mit-researchers-introduce-generative-ai-databases-0708",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260310-010",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260310-011",
+          "title": "How can I see what products are available on Costc",
+          "summary": "To view products on Costco.com, either type what you’re looking for into the Search box, or mouse over \"Shop\" to view our different categories. Simply",
+          "source": "Costco",
+          "sourceUrl": "https://customerservice.costco.com/app/answers/detail/a_id/671/~/how-can-i-see-what-products-are-available-on-costco.com%3F",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260310-012",
+          "title": "How do I place an order on Costco.com?",
+          "summary": "After becoming a Costco member, you’ll still need to complete a new registration on Costco.com (if you didn’t previously register). Your membership nu",
+          "source": "Costco",
+          "sourceUrl": "https://customerservice.costco.com/app/answers/detail/a_id/762/~/how-do-i-place-an-order-on-costco.com%3F",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260310-013",
+          "title": "How can I locate a product on Costco.com?",
+          "summary": "To search for a product online at Costco.com, enter a keyword or an item number into the search engine at the top. If the item you’re seeking is in st",
+          "source": "Costco",
+          "sourceUrl": "https://customerservice.costco.com/app/answers/detail/a_id/668/~/how-can-i-locate-a-product-on-costco.com%3F",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260310-014",
+          "title": "Costco Customer Service",
+          "summary": "Welcome to the Costco Customer Service page. Explore our many helpful self-service options and learn more about popular topics.",
+          "source": "Costco",
+          "sourceUrl": "https://customerservice.costco.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260310-015",
+          "title": "How can I view Costco.com Member Only Item pricing",
+          "summary": "Please remember to update your online Account Details to include your membership number once you receive it. Viewing Details of Member Only Items: You",
+          "source": "Costco",
+          "sourceUrl": "https://customerservice.costco.com/app/answers/detail/a_id/755/~/how-can-i-view-costco.com-member-only-item-pricing%3F",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-10T08:00:06.450695+08:00",
+  "source": "OpenClaw"
+}
