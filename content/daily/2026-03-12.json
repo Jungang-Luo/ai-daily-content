@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-12",
+  "title": "AI 日报 - 2026年03月12日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎；一周ai大事件 - 知乎专栏；大模型最新进展；大模型 – 量子位；每日ai资讯 - 猫目...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260312-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260312-003",
+          "title": "一周ai大事件 - 知乎专栏",
+          "summary": "01 模型风向标 阿里千问成新加坡国家AI项目技术底座 近日，新加坡国家人工智能计划（AISG）发布了一款名为Qwen-SEA-LION-v4的东南亚多语言大模型。该模型以阿里巴巴 通义千问 Qwen3-32B为基座，结合超1000亿条覆盖缅甸语、印尼语、泰语等本地语言数据进行优化。新模型专为应对东",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1978868578410333148",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260312-005",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260312-008",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260312-009",
+          "title": "每日ai资讯 - 猫目",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260312-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "3 days ago · AI algorithm enables tracking of vital white matter pathways Opening a new window on the brainstem, a new tool reliably and finely resolv",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260312-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260312-006",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260312-007",
+          "title": "Explained: Generative AI’s environmental impact - ",
+          "summary": "Jan 17, 2025 · MIT News explores the environmental and sustainability implications of generative AI technologies and applications.",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260312-010",
+          "title": "MIT researchers introduce generative AI for databa",
+          "summary": "Jul 8, 2024 · Researchers from MIT and elsewhere developed an easy-to-use tool that enables someone to perform complicated statistical analyses on tab",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2024/mit-researchers-introduce-generative-ai-databases-0708",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260312-011",
+          "title": "Sugar Defender - Best supplements for blood sugar ",
+          "summary": "What Is Sugar Defender? This incredible formula is designed to support healthy blood sugar levels, giving you the energy boost you need to tackle your",
+          "source": "Supplements",
+          "sourceUrl": "https://sugardefender.supplements.best/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260312-012",
+          "title": "Sugar Defender™ - Natural Blood Sugar & Energy Sup",
+          "summary": "Formulated with potent plant-based nutrients, Sugar Defender™ works naturally to promote steady energy, enhance insulin sensitivity, and help your bod",
+          "source": "Mediprimes",
+          "sourceUrl": "https://sugardefender.mediprimes.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260312-013",
+          "title": "Sugar Defender® - Proven Blood Sugar Support Formu",
+          "summary": "Sugar Defender is a gentle, yet highly effective natural formula that helps support healthy blood sugar levels, smooth energy, and a healthier metabol",
+          "source": "Sugardefender-En",
+          "sourceUrl": "https://sugardefender-en.us/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260312-014",
+          "title": "Sugar Defender® | Official Site",
+          "summary": "Sugar Defender is a carefully crafted natural supplement made to help support healthy blood sugar levels in a safe, gentle way. It uses a special blen",
+          "source": "Sugardefendershop",
+          "sourceUrl": "https://sugardefendershop.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260312-015",
+          "title": "Sugar Defender™ | OFFICIAL | Healthy Blood Sugar L",
+          "summary": "What is Sugar Defender? Sugar Defender is an innovative dietary supplement designed to help individuals manage their blood sugar levels and improve me",
+          "source": "Sugardeferder",
+          "sourceUrl": "https://sugardeferder.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-12T08:00:06.960611+08:00",
+  "source": "OpenClaw"
+}
