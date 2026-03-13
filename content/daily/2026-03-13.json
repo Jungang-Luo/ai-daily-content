@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-13",
+  "title": "AI 日报 - 2026年03月13日",
+  "summary": "今日 AI 动态：大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎；Ai大模型最新资讯 ｜ 2025年9月第1周 - 知乎；大模型最新进展；大模型 – 量子位...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260313-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260313-003",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260313-005",
+          "title": "Ai大模型最新资讯 ｜ 2025年9月第1周 - 知乎",
+          "summary": "一、 市场动态 阿里通义在企业级大模型市场占比第一[1] 2025年上半年中国企业级大模型日均总消耗量为10.2万亿Tokens。阿里通义占比17.7%，成为中国企业选择最多的大模型。 商汤\"日日新\"大模型在文本与音视频融合…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1947392667626473463",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260313-006",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260313-009",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260313-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260313-007",
+          "title": "Explained: Generative AI’s environmental impact - ",
+          "summary": "Jan 17, 2025 · MIT News explores the environmental and sustainability implications of generative AI technologies and applications.",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260313-008",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260313-010",
+          "title": "MIT researchers introduce generative AI for databa",
+          "summary": "Jul 8, 2024 · Researchers from MIT and elsewhere developed an easy-to-use tool that enables someone to perform complicated statistical analyses on tab",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2024/mit-researchers-introduce-generative-ai-databases-0708",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260313-012",
+          "title": "McAfee Security: Antivirus VPN - Apps on Google Pl",
+          "summary": "Online, it can be hard to tell what's real, so we make it easy: McAfee gives you protection against scam texts, emails, and videos. Available with McA",
+          "source": "Google",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.wsandroid.suite&hl=en-US",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260313-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "2 days ago · 3 Questions: On the future of AI and the mathematical and physical sciences Professor Jesse Thaler describes a vision for a two-way bridg",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260313-011",
+          "title": "McAfee AI-Powered Antivirus + Identity & Privacy P",
+          "summary": "For Pat McAfee, a winning defense never rests. Always-on, effortless protection trusted by millions — now with Pat McAfee on the team.",
+          "source": "Mcafee",
+          "sourceUrl": "https://www.mcafee.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260313-013",
+          "title": "McAfee - Wikipedia",
+          "summary": "The company was founded in 1987 as McAfee Associates, named for its founder John McAfee, who resigned from the company in 1994. [14] McAfee was incorp",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/McAfee",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260313-014",
+          "title": "McAfee Antivirus Protection & Internet Security Pr",
+          "summary": "First, here’s a little overview of McAfee: McAfee comes recommended as an all-around cybersecurity product. Its antivirus subscriptions include featur",
+          "source": "Security",
+          "sourceUrl": "https://www.security.org/antivirus/mcafee/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260313-015",
+          "title": "Top games tagged Porn - itch.io",
+          "summary": "Explore games tagged Porn on itch.io · Upload your games to itch.io to have them show up here.",
+          "source": "Itch",
+          "sourceUrl": "https://itch.io/games/tag-porn",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-13T08:00:06.451452+08:00",
+  "source": "OpenClaw"
+}
