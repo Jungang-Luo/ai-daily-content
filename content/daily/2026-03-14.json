@@ -1,0 +1,169 @@
+{
+  "date": "2026-03-14",
+  "title": "AI 日报 - 2026年03月14日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎；飞络24小时前沿AI快报｜3月13日：英伟达发布了新一代开源大模型Nemotron 3 Super；大模型最新进展；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型 – 量...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260314-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260314-003",
+          "title": "飞络24小时前沿AI快报｜3月13日：英伟达发布了新一代开源大模型Nemotron 3 Super",
+          "summary": "同学们，今日飞络24小时前沿早报来啦，快来看看有没有你关注的吧～ 全球AI最新资讯 1. 英伟达：发布了新一代开源大模型Nemotron 3 Super，采用混合Mamba-Transformer架构，具备1200亿总参数和100万token上下文处理能力，推理吞吐量较前代提升超五倍。此举旨在通过提",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/996082984_122445228",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260314-005",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260314-006",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260314-008",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260314-007",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260314-009",
+          "title": "Explained: Generative AI’s environmental impact - ",
+          "summary": "Jan 17, 2025 · MIT News explores the environmental and sustainability implications of generative AI technologies and applications.",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260314-010",
+          "title": "Home | The World Happiness Report",
+          "summary": "The World Happiness Report is the world’s foremost publication on global wellbeing and how to improve it. We combine open-access data from over 140 co",
+          "source": "Worldhappiness",
+          "sourceUrl": "https://www.worldhappiness.report/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260314-011",
+          "title": "World Happiness Report - Wikipedia",
+          "summary": "The World Happiness Report is a publication that contains articles and rankings of national happiness, based on respondent ratings of their own lives,",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/World_Happiness_Report",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260314-012",
+          "title": "World Happiness Report 2025 shows people are much ",
+          "summary": "The 2025 report also outlines that believing others are willing to return your lost wallet is a strong predictor of population happiness, with Nordic ",
+          "source": "Ox",
+          "sourceUrl": "https://www.ox.ac.uk/news/2025-03-20-world-happiness-report-2025-shows-people-are-much-kinder-we-expect",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260314-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "3 days ago · 3 Questions: On the future of AI and the mathematical and physical sciences Professor Jesse Thaler describes a vision for a two-way bridg",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260314-004",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "4 days ago · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could unde",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-14T08:00:07.000262+08:00",
+  "source": "OpenClaw"
+}
