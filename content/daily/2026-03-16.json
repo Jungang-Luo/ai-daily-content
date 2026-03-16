@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-16",
+  "title": "AI 日报 - 2026年03月16日",
+  "summary": "今日 AI 动态：OpenAI；国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎；DeepSeek V4、姚顺雨新混元模型被曝下月发布，两大国产 AI 巨头同台竞技 - IT之家；大模型最新进展；大模型 – 量子位...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260316-001",
+          "title": "OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-003",
+          "title": "DeepSeek V4、姚顺雨新混元模型被曝下月发布，两大国产 AI 巨头同台竞技 - IT之家",
+          "summary": "DeepSeek V4 与腾讯混元新模型均计划 4 月发布。前者聚焦长期记忆与国产算力适配，后者强调 30B 参数规模与上下文学习。两大模型路线不同，但共同指向大模型如何真正落地生产环境。#AI 大模型##国产 AI#",
+          "source": "IT 之家",
+          "sourceUrl": "https://www.ithome.com/0/929/040.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260316-005",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-008",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260316-006",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260316-012",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-013",
+          "title": "Ai产品榜·全球总榜 — 2026年2月版｜Ai产品榜（Aicpb）",
+          "summary": "关于 AI产品榜 AICPB 是全球AI榜单标准制定者，被全球影响力媒体、国际咨询机构及证券经纪商引用，包括被称为互联网女皇的传奇投资人 Mary Meeker都在引用!AI产品榜 按用户规模排名，按月更新。AI模型榜 按价格排名，按周更新。",
+          "source": "Aicpb",
+          "sourceUrl": "https://www.aicpb.com/zh/ai-rankings/products/global-ai-rankings",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-014",
+          "title": "87%从业者推荐：AI工具产品库版本更新实时追踪方案_腾讯新闻",
+          "summary": "设置「版本更新」订阅避免错过关键升级. 1. 精准定位访问 www.aibase.cn → 顶部「工具库」 → 按行业/功能/语言筛选. 2. 动态追踪在工具详情页点击「关注更新」 → 选择邮件/微信通知方式. 3. 科学决策使用「对比」功能添加2-4个工具 → 查看详细参数对照表. 五、为什么这不",
+          "source": "腾讯",
+          "sourceUrl": "https://news.qq.com/rain/a/20250814A04PTE00",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-015",
+          "title": "Ai工具更新 | 人工智能软件升级动态 | Ai应用版本更新资讯 ...",
+          "summary": "🎯 情报来源：量子位 值得买科技在6月AI进展线上分享会上公布了\"海纳\"MCP Server和\"什么值得买\"GEN2的最新成果。 海纳MCP Server6月内容和商品输出量已超800万，环比增长近80%，并新增两大接口；GEN2在618期间首页人均GMV同比提升15.1%，AI购物智能体订单转化率",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.zhirenai.com/newsflashes/tool-updates/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260316-004",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-007",
+          "title": "What is artificial intelligence (AI)? - IBM",
+          "summary": "Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision-ma",
+          "source": "Ibm",
+          "sourceUrl": "https://www.ibm.com/think/topics/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-009",
+          "title": "Fluorouracil topical Uses, Side Effects & Warnings",
+          "summary": "Fluorouracil topical: side effects, dosage, interactions, FAQs, reviews. Used for: actinic keratosis, basal cell carcinoma, keratosis, skin cancer, wa",
+          "source": "Drugs",
+          "sourceUrl": "https://www.drugs.com/mtm/fluorouracil-topical.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-010",
+          "title": "Fluorouracil injection Uses, Side Effects & Warnin",
+          "summary": "Fluorouracil side effects Get emergency medical help if you have signs of an allergic reaction: hives; difficult breathing; swelling of your face, lip",
+          "source": "Drugs",
+          "sourceUrl": "https://www.drugs.com/mtm/fluorouracil-injection.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260316-011",
+          "title": "Fluorouracil (Systemic) - Drugs.com",
+          "summary": "Easy-to-read patient leaflet for Fluorouracil (Systemic). Includes indications, proper use, special instructions, precautions, and possible side effec",
+          "source": "Drugs",
+          "sourceUrl": "https://www.drugs.com/cdi/fluorouracil-systemic.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-16T08:00:06.021655+08:00",
+  "source": "OpenClaw"
+}
