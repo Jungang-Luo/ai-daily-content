@@ -1,0 +1,258 @@
+{
+  "date": "2026-03-17",
+  "title": "AI 日报 - 2026年03月17日",
+  "summary": "今日 AI 动态：AI大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎；AI大模型有哪些？2025年最全面最新15款主流大模型技术对比 | BetterYeah AI智能体；(更新中) 2025年发布的大模型汇总 - 知乎；大模型发布时间轴 | AI Model Timeline ...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260317-002",
+          "title": "AI大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎",
+          "summary": "核心更新： GLM-4.6模型发布与开源：正式发布并开源新一代大模型GLM-4.6，在Agentic Coding等核心能力上实现大幅跃升 代码能力国内领先：在公开基准与真实编程任务中，GLM-4.6的代码能力已对齐Claude Sonnet 4，超过DeepSeek-V3.2-Exp，成为国内最强",
+          "source": "Volcengine",
+          "sourceUrl": "https://developer.volcengine.com/articles/7577300596110295078",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-003",
+          "title": "AI大模型有哪些？2025年最全面最新15款主流大模型技术对比 | BetterYeah AI智能体",
+          "summary": "Gemma-3：2025年3月12日发布，号称\"单个GPU或TPU上运行的功能最强大模型\"，在AI大模型竞技场得分位居前十，尽管参数量不及其他顶级模型。",
+          "source": "Betteryeah",
+          "sourceUrl": "https://www.betteryeah.com/blog/comprehensive-comparison-of-15-mainstream-large-model-technologies",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-005",
+          "title": "(更新中) 2025年发布的大模型汇总 - 知乎",
+          "summary": "Aya Vision 32B 在多语言视觉开放权重模型中树立了新的标杆，在 AyaVisionBench 上的胜率高达 64%，在 m-WildVision 上的胜率高达 72%。 ... 集成了与 Agent 相关的能力，使其能够在使用工具的同时...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1885618917550057149",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260317-006",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "摘要： 阿里巴巴在Anthropic对中国禁用后，于2025年9月5日晚间发布的万亿级（1T）参数大语言模型。 官方称其在多个维度实现显著增强，并在 Arena-Hard v2 等权威基准测试中表现优异，超越了包括 …",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260317-007",
+          "title": "飞络24小时前沿AI快报｜3月13日：英伟达发布了新一代开源大模型Nemotron 3 Super",
+          "summary": "同学们，今日飞络24小时前沿早报来啦，快来看看有没有你关注的吧～ 全球AI最新资讯 1. 英伟达：发布了新一代开源大模型Nemotron 3 Super，采用混合Mamba-Transformer架构，具备1200亿总参数和100万token上下文处理能力，推理吞吐量较前代提升超五倍。此举旨在通过提",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/996082984_122445228",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260317-001",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "Runway正式发布 Gen-4.5 视频生成模型，该模型以”Whisper Thunder (aka) David”的匿名身份登上Artificial Analysis榜单首位。 Gen-4.5在运动质量、提示词遵循度和视觉逼真度方面树立新标准，ELO …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260317-012",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-013",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-014",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-015",
+          "title": "2025 年国内ai工具前十名最新排名【附推荐产品库】",
+          "summary": "在人工智能快速发展的今天，各类AI工具层出不穷。无论你是内容创作者、产品经理，还是研发人员，都离不开高效、实用的AI工具。那么，2025年国内AI工具前十名的最",
+          "source": "K",
+          "sourceUrl": "https://k.sina.cn/article_7879848900_1d5acf3c401902rz6k.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260317-016",
+          "title": "AI领域经典论文清单-30篇 - 知乎",
+          "summary": "总结 这份由 Ilya Sutskever 推荐的 30 篇论文清单涵盖了 AI 领域的核心技术突破，从早期的 LSTM 到现代的 Transformer、GANs 和扩散模型，几乎囊括了当前 AI 发展的所有关键方向。 这些论文不仅是 …",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1896686592673949413",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-017",
+          "title": "人工智能 - 论文汇总丨超 100 篇 AI for Science 重要成果，一 ...",
+          "summary": "2026年2月23日 · HyperAI 超神经长期关注 AI4S 领域的进展与突破，通过系统解读前沿论文的方式，记录这一浪潮中的关键节点。 一方面，我们希望将最新的研究成果与方法论进行结构化、普适化的整 …",
+          "source": "Segmentfault",
+          "sourceUrl": "https://segmentfault.com/a/1190000047618801",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-018",
+          "title": "AI热门论文 - baai.ac.cn",
+          "summary": "2026年2月26日 · 本研究系统考察了人工智能代理研发活动与现实世界中人类工作分布之间的关系，方法是将各类基准测试任务映射至具体的工作领域与所需技能。 …",
+          "source": "Baai",
+          "sourceUrl": "https://hub.baai.ac.cn/papers",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-019",
+          "title": "学术论文-清华大学人工智能国际治理研究院中文",
+          "summary": "尽管我国已成为一个人工智能大国，但在核心理论创新、基础底座建设、关键软硬件和生态方面还有待提升，迈向人工智能强国还有很长的路要走。 在此情况下，如何在保障人工智能有力、有序、有益发 …",
+          "source": "Tsinghua",
+          "sourceUrl": "https://aiig.tsinghua.edu.cn/yjcg/xslw.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-020",
+          "title": "人工智能关键技术发展现状与趋势研究",
+          "summary": "2025年2月13日 · 本文对人工智能领域的各项关键技术的发展现状和趋势进行综述和探讨。 诸如：AI芯片通过制程优化、架构创新提升算力；芯片使能技术优化软件架构，提升异构融合能力；AI开发框架增 …",
+          "source": "Ejournal",
+          "sourceUrl": "https://www.newit.ejournal.org.cn/zh/article/doi/10.3969/j.issn.2096-6091.2024.01.007/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260317-004",
+          "title": "NVIDIA 发布全新物理 AI 模型，全球合作伙伴展示新一代机器人 | NVIDIA 英伟达博客",
+          "summary": "拉斯维加斯 —— CES —— 太平洋时间 2026 年 1 月 5 日 —— NVIDIA 今日宣布推出用于物理 AI 的全新开放模型、框架和 AI 基础设施，并展示了全球合作伙伴为各行业打造的多款机器人。 ...",
+          "source": "Blogs",
+          "sourceUrl": "https://blogs.nvidia.cn/blog/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260317-008",
+          "title": "全新 NVIDIA Nemotron 3 Super 将代理式 AI 吞吐量提升 5 倍",
+          "summary": "NVIDIA Nemotron 3 Super 于今日发布，其为一款 1,200 亿参数开放模型，拥有 120 亿个活跃参数，旨在大规模运行复杂的代理式 AI 系统。 该模型现已上线，融合先进的推理能力，能够高效并精准地完成自主智能体的任务。 AI 原生公司：Perplexity 不仅为用户提供",
+          "source": "Blogs",
+          "sourceUrl": "https://blogs.nvidia.cn/blog/nemotron-3-super-agentic-ai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-009",
+          "title": "Zinsübersicht | BMW Bank",
+          "summary": "EUR, Zinssatz für Anlagesummen über 7,50 Mio. EUR auf Nachfrage. Juristische Personen und Personengesellschaften können als Anleger im Einzelfall akze",
+          "source": "Bmwbank",
+          "sourceUrl": "https://www.bmwbank.de/zinsuebersicht/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-010",
+          "title": "MFI-Zinsstatistik (Bestände, Neugeschäft) - Deutsc",
+          "summary": "Informationen über Wertpapieremissionen und -investments, Wertpapierbestände sowie Zinssätze und Renditen. Statistiken über den Bestand außerbörslich ",
+          "source": "Bundesbank",
+          "sourceUrl": "https://www.bundesbank.de/de/statistiken/geld-und-kapitalmaerkte/zinssaetze-und-renditen/mfi-zinsstatistik-bestaende-neugeschaeft--650658",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260317-011",
+          "title": "Firmenfestgeld: 8 Festgeldkonten für Firmen im Ver",
+          "summary": "Das Firmenfestgeld als eine attraktive Geldanlage für Unternehmen, um über einen längeren Zeitraum Zinsen zu generieren. Mehr erfahren!",
+          "source": "Geschaeftskonten24",
+          "sourceUrl": "https://www.geschaeftskonten24.net/firmenfestgeld/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-17T08:00:08.543225+08:00",
+  "source": "OpenClaw"
+}
