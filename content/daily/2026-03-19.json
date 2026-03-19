@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-19",
+  "title": "AI 日报 - 2026年03月19日",
+  "summary": "今日 AI 动态：每日ai资讯、热点、动态、融资、产品发布 | Ai工具集；Ai大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎；AI大模型有哪些？2025年最全面最新15款主流大模型技术对比 | BetterYeah AI智能体；国内外知名大模型及应用——模型/应用维度（2026...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260319-001",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "字节跳动今日宣布豆包大模型正式进入2.0阶段，发布Seed2.0，包含Pro、Lite、Mini和Code四个版本。新版本围绕现实复杂任务进行系统性优化，在推理、多模态理解和复杂指令执行能力上显...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260319-002",
+          "title": "Ai大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎",
+          "summary": "核心更新： GLM-4.6模型发布与开源：正式发布并开源新一代大模型GLM-4.6，在Agentic Coding等核心能力上实现大幅跃升 代码能力国内领先：在公开基准与真实编程任务中，GLM-4.6的代码能力已对齐Claude Sonnet 4，超过DeepSeek-V3.2-Exp，成为国内最强",
+          "source": "Volcengine",
+          "sourceUrl": "https://developer.volcengine.com/articles/7577300596110295078",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260319-003",
+          "title": "AI大模型有哪些？2025年最全面最新15款主流大模型技术对比 | BetterYeah AI智能体",
+          "summary": "Gemma-3：2025年3月12日发布，号称\"单个GPU或TPU上运行的功能最强大模型\"，在AI大模型竞技场得分位居前十，尽管参数量不及其他顶级模型。",
+          "source": "Betteryeah",
+          "sourceUrl": "https://www.betteryeah.com/blog/comprehensive-comparison-of-15-mainstream-large-model-technologies",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260319-006",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260319-008",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260319-009",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260319-012",
+          "title": "Sealing End-shields in Generators With a Fluorosil",
+          "summary": "Gas Turbine Generator End Shield Flanges The application requires a sealant to be pumped in through the channel by an air dispensing equipment. Projec",
+          "source": "Globalspec",
+          "sourceUrl": "https://cr4.globalspec.com/thread/73786/Sealing-end-shields-in-Generators-with-a-Fluorosilicone-Sealant",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260319-013",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260319-014",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260319-015",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260319-016",
+          "title": "多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样 ...",
+          "summary": "2025年3月17日 · 多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样？ 如何检测论文 AI 率？ 检测结果准确吗？ 近日，西南大学、中国人民大学纷纷发布关于本科毕业论文（设计）检测的最新规 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/15169887147",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260319-004",
+          "title": "NVIDIA 发布全新物理 AI 模型，全球合作伙伴展示新一代机器人 | NVIDIA 英伟达博客",
+          "summary": "拉斯维加斯 —— CES —— 太平洋时间 2026 年 1 月 5 日 —— NVIDIA 今日宣布推出用于物理 AI 的全新开放模型、框架和 AI 基础设施，并展示了全球合作伙伴为各行业打造的多款机器人。 ...",
+          "source": "Blogs",
+          "sourceUrl": "https://blogs.nvidia.cn/blog/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260319-005",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "2 days ago · 3 Questions: On the future of AI and the mathematical and physical sciences Professor Jesse Thaler describes a vision for a two-way bridg",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260319-007",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260319-010",
+          "title": "Linseed Oil for Turbine Sealing - Now in Birkosit ",
+          "summary": "Birkosit contains Boiled Linseed oil that has been used in Turbine Repairs for Several Years Since the 1970 s steam turbines have traditionally sealed",
+          "source": "Globalspec",
+          "sourceUrl": "https://cr4.globalspec.com/thread/73768/Linseed-Oil-for-Turbine-Sealing-Now-in-Birkosit",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260319-011",
+          "title": "CR4 - Blog Entry: DIY Trailer Hitch Wiring Solutio",
+          "summary": "I discussed the problem with wiring trailer hitch lights in my last post. The main issue being my car has separate bulbs for the brake and the blinker",
+          "source": "Globalspec",
+          "sourceUrl": "https://cr4.globalspec.com/blogentry/9465/DIY-Trailer-Hitch-Wiring-Solutions-Part-2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-19T08:00:05.869403+08:00",
+  "source": "OpenClaw"
+}
