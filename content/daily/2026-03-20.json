@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-20",
+  "title": "AI 日报 - 2026年03月20日",
+  "summary": "今日 AI 动态：OpenAI；国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎；大模型最新进展；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；Google Gemini...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260320-001",
+          "title": "OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-005",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-006",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260320-007",
+          "title": "Google Gemini",
+          "summary": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+          "source": "Google",
+          "sourceUrl": "https://gemini.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260320-003",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260320-011",
+          "title": "#fortifiber #weathersmart #blueskin | Tonee Spacco",
+          "summary": "I truly appreciate the opportunity and look forward to future collaborations! Henry, a Carlisle Company #fortifiber #weathersmart #blueskin 🏗️🦺🚜🧱🔨💪🏼 1",
+          "source": "Linkedin",
+          "sourceUrl": "https://www.linkedin.com/posts/toneespacco_fortifiber-weathersmart-blueskin-activity-7293659212729982977-AgBb",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-012",
+          "title": "#teamworkmakesthedreamwork | Tonee Spacco - Linked",
+          "summary": "Teamwork today with Matthew Sherman-We put on a fantastic presentation and demo for Mogavero Architects! So, happy to hear that they will continue spe",
+          "source": "Linkedin",
+          "sourceUrl": "https://www.linkedin.com/posts/toneespacco_teamworkmakesthedreamwork-activity-7305705628419637248-yunQ",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-013",
+          "title": "Tonee Spacco on LinkedIn: I’m happy to share that ",
+          "summary": "I’m happy to share that I’m starting a new position as Architectural Consultant, RLC - Henry® a Carlisle Company at Henry, a Carlisle Company! | 21 co",
+          "source": "Linkedin",
+          "sourceUrl": "https://www.linkedin.com/posts/toneespacco_im-happy-to-share-that-im-starting-a-new-activity-7229198095794761729-DlID",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-014",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260320-016",
+          "title": "多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样 ...",
+          "summary": "2025年3月17日 · 多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样？ 如何检测论文 AI 率？ 检测结果准确吗？ 近日，西南大学、中国人民大学纷纷发布关于本科毕业论文（设计）检测的最新规 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/15169887147",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260320-004",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-008",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "Mar 11, 2026 · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with ",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-009",
+          "title": "Tonee Spacco - Territory Sales Manager - Multi-Fam",
+          "summary": "Territory Sales Manager - Multi-Family · As a Territory Sales Manager at Henry® a Carlisle Company, I specialize in delivering high-performance buildi",
+          "source": "Linkedin",
+          "sourceUrl": "https://www.linkedin.com/in/toneespacco",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-010",
+          "title": "Tonee Spacco - Vice.. - Pacific West Capital Holdi",
+          "summary": "View Tonee Spacco's business profile as Vice President, Sales at Pacific West Capital Holdings. Find contact's direct phone number, email address, wor",
+          "source": "Zoominfo",
+          "sourceUrl": "https://www.zoominfo.com/p/Tonee-Spacco/3235917862",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260320-015",
+          "title": "从2025年来看，AI 泡沫是否会在一两年内破灭？ - 知乎",
+          "summary": "但是，现在的问题就是，新世界还没展开呢，美国的ai泡沫已经渗透到了全球，从华尔街到香港上海深圳，再到首尔东京，ai泡沫溢出到了全球，不单单是华尔街。 美国ai泡沫是全球资产的核心参数，但是 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1943070667252670985",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-20T08:00:06.504716+08:00",
+  "source": "OpenClaw"
+}
