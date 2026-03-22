@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-22",
+  "title": "AI 日报 - 2026年03月22日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型 – 量子位；小米深夜上线三大模型：旗舰 MiMo-V2-Pro / 全模态基座 Omni / 语音合成 TTS小；千问大模...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260322-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/06） - 知乎",
+          "summary": "本周更新（2025/03/02~2025/03/06）ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 本月更新ChatGPT: 国外闭源组更新通用模型 GPT-5.4，推理模型 GPT-5.4-Thinking。 整理了知名AI模...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260322-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260322-007",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260322-008",
+          "title": "小米深夜上线三大模型：旗舰 MiMo-V2-Pro / 全模态基座 Omni / 语音合成 TTS小",
+          "summary": "在训练过程中，MiMo-V2-TTS 首先通过超大规模语音-文本混合预训练，在海量数据中习得了强大的跨模态对齐与理解生成的统一能力；在此基础上，通过少量高质量监督数据的微调，模型获得了可泛化的多粒度与多风格指令控制能力。",
+          "source": "IT 之家",
+          "sourceUrl": "https://www.ithome.com/0/930/440.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260322-010",
+          "title": "千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云",
+          "summary": "千问以32% 的份额位居中国企业级大模型调用市场份额第一，企业级调用规模领先。 · 一次调用同时完成高质量视觉理解与复杂推理，图文生产力实现倍增，速来免费体验！ · 2.0系列的加速版模型，具备更专业的文字渲染，更强的语义遵循能力。 · 新用户零门槛领取千万免费tokens，90天超长有效期，随心体",
+          "source": "Aliyun",
+          "sourceUrl": "https://www.aliyun.com/product/tongyi",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260322-005",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260322-006",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260322-009",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260322-014",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260322-015",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260322-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "2 days ago · MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity Jointly led by the MIT Morningside Academy for Design,",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260322-004",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260322-011",
+          "title": "Top des meilleurs films de 2015 - SensCritique",
+          "summary": "Découvrez quelles sont les meilleures œuvres cinématographiques de 2015. Tous les styles sont représentés dans cette liste des films de 2015, en tout ",
+          "source": "Senscritique",
+          "sourceUrl": "https://www.senscritique.com/top/resultats/les_meilleurs_films_de_2015/703337",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260322-012",
+          "title": "Meilleurs films de l'année 2015 - AlloCiné",
+          "summary": "Quels sont les meilleurs films de 2015? Découvrez le classement des meilleurs films de l'année 2015 sur AlloCiné.",
+          "source": "Allocine",
+          "sourceUrl": "https://www.allocine.fr/film/meilleurs/decennie-2010/annee-2015/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260322-013",
+          "title": "Film 2015 - Sorties cinéma des films 2015 - cineho",
+          "summary": "Retrouvez toutes les sorties cinéma classées par année et par mois : films français, blockbusters, films indépendants et sorties internationales. Cons",
+          "source": "Cinehorizons",
+          "sourceUrl": "https://cinehorizons.net/film/2015",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-22T08:00:06.812860+08:00",
+  "source": "OpenClaw"
+}
