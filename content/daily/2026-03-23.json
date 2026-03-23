@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-23",
+  "title": "AI 日报 - 2026年03月23日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/03/20） - 知乎；小米发布大模型MiMo-V2-Pro 新一代SU7今日发布 股价逆势上涨超4%；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型 – 量子位；小米发布大模型MiMo-V2-...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260323-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/20） - 知乎",
+          "summary": "本周更新（2025/03/16~2025/03/20）MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增Agent模型 GLM-5-Turbo；MiniMax：国内闭源组更新Agent模型 MiniMax 2.7。 本月更新ChatGPT: 国外闭源组更...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260323-003",
+          "title": "小米发布大模型MiMo-V2-Pro 新一代SU7今日发布 股价逆势上涨超4%",
+          "summary": "小米还发布了自主研发的语音合成大模型Xiaomi MiMo-V2-TTS。 它基于自研 Audio Tokenizer 和多码本语音-文本联合建模架构，经过上亿小时语音数据的大规模预训练与多维度强化学习，实现了高度可控的多粒度语音风格控制。 小米汽车新一代SU7也将于3月19日晚发布。",
+          "source": "Baidu",
+          "sourceUrl": "https://baijiahao.baidu.com/s?id=1860062955253777514",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260323-005",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260323-007",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260323-008",
+          "title": "小米发布大模型MiMo-V2-Pro 新一代SU7今日发布 股价逆势上涨超4%_Agent_-Omn",
+          "summary": "小米还发布了自主研发的语音合成大模型Xiaomi MiMo-V2-TTS。 它基于自研 Audio Tokenizer 和多码本语音-文本联合建模架构，经过上亿小时语音数据的大规模预训练与多维度强化学习，实现了高度可控的多粒度语音风格控制。 小米汽车新一代SU7也将于3月19日晚发布。",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/998538367_211762",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260323-016",
+          "title": "GitHub - Feh/nocache: minimize caching effects",
+          "summary": "nocache - minimize filesystem caching effects The nocache tool tries to minimize the effect an application has on the Linux file system cache. This is",
+          "source": "GitHub",
+          "sourceUrl": "https://github.com/Feh/nocache",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260323-006",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260323-009",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260323-013",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260323-014",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260323-015",
+          "title": "人工智能 - 知乎",
+          "summary": "人工智能（Artificial Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。人工智能是计算机科学的一个分支，它企图了解智 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/topic/19551275",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260323-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "3 days ago · MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity Jointly led by the MIT Morningside Academy for Design,",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260323-004",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260323-010",
+          "title": "Why you should never order from West Elm - Reddit",
+          "summary": "Went to West Elm to shop for a couch. I explicitly told the sales rep I wanted either green or blue upholstery. She kept showing me 50 shades of gray ",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/InteriorDesign/comments/15lze7e/why_you_should_never_order_from_west_elm/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260323-011",
+          "title": "West Elm VS Crate & Barrel VS Rove Concepts Sofa -",
+          "summary": "West elm can vary— look to their contractor / commercial grade stuff if you want stuff that lasts. Crate Barrel is great. Super high quality and no sl",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/furniture/comments/wvwpae/west_elm_vs_crate_barrel_vs_rove_concepts_sofa/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260323-012",
+          "title": "West Elm Harmony : r/furniture - Reddit",
+          "summary": "I received the West Elm Harmony sofa! I want to share my experience since there aren't many reviews or resources available. I ordered the sofa Harmony",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/furniture/comments/ntoqgl/west_elm_harmony/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-23T08:00:05.774212+08:00",
+  "source": "OpenClaw"
+}
