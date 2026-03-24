@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-24",
+  "title": "AI 日报 - 2026年03月24日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/03/20） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型最新进展；小米发布大模型MiMo-V2-Pro 新一代SU7今日发布 股价逆势上涨超4%_Agent_-Omn；大模型 – ...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260324-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/20） - 知乎",
+          "summary": "本周更新（2025/03/16~2025/03/20）MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增Agent模型 GLM-5-Turbo；MiniMax：国内闭源组更新Agent模型 MiniMax 2.7。 本月更新ChatGPT: 国外闭源组更...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260324-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260324-005",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260324-006",
+          "title": "小米发布大模型MiMo-V2-Pro 新一代SU7今日发布 股价逆势上涨超4%_Agent_-Omn",
+          "summary": "小米还发布了自主研发的语音合成大模型Xiaomi MiMo-V2-TTS。 它基于自研 Audio Tokenizer 和多码本语音-文本联合建模架构，经过上亿小时语音数据的大规模预训练与多维度强化学习，实现了高度可控的多粒度语音风格控制。 小米汽车新一代SU7也将于3月19日晚发布。",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/998538367_211762",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260324-008",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260324-007",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260324-009",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260324-010",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260324-011",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260324-013",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260324-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "4 days ago · MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity Jointly led by the MIT Morningside Academy for Design,",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260324-004",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260324-012",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个 ...",
+          "summary": "6 天之前 · 文科生崛起没有，我不知道，但是我知道新闻学魅力时刻永不过时！ 单单看这个报道，就是一个典型的新闻学魅力时刻的产物。 标题党说AI时代文科生更吃香了，被大厂月薪3万疯抢！ 可通篇的 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2016095792616744489",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260324-014",
+          "title": "Iniciar sesión en Gmail - Ordenador - Ayuda de Gma",
+          "summary": "Iniciar sesión en Gmail Para abrir Gmail, puedes iniciar sesión desde un ordenador o añadir tu cuenta a la aplicación Gmail en tu teléfono o tablet. U",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/mail/answer/8494?hl=es-es&co=GENIE.Platform%3DDesktop",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260324-015",
+          "title": "problema para iniciar sesion en outlook con un hot",
+          "summary": "problema para iniciar sesion en outlook con un hotmail please retry with a different device, use a vpn or other authenticacion method to sign in. Este",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/accounts/thread/362694943/problema-para-iniciar-sesion-en-outlook-con-un-hotmail?hl=es",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-24T08:00:05.463146+08:00",
+  "source": "OpenClaw"
+}
