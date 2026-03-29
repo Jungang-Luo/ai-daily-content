@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-29",
+  "title": "AI 日报 - 2026年03月29日",
+  "summary": "今日 AI 动态：每日AI资讯、热点、动态、融资、产品发布 | AI工具集；AI大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎；AI大模型有哪些？2025年最全面最新15款主流大模型技术对比 | BetterYeah AI智能体；国内外知名大模型及应用——模型/应用维度（2026...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260329-001",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "字节跳动今日宣布豆包大模型正式进入2.0阶段，发布Seed2.0，包含Pro、Lite、Mini和Code四个版本。新版本围绕现实复杂任务进行系统性优化，在推理、多模态理解和复杂指令执行能力上显...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260329-002",
+          "title": "AI大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎",
+          "summary": "核心更新： GLM-4.6模型发布与开源：正式发布并开源新一代大模型GLM-4.6，在Agentic Coding等核心能力上实现大幅跃升 代码能力国内领先：在公开基准与真实编程任务中，GLM-4.6的代码能力已对齐Claude Sonnet 4，超过DeepSeek-V3.2-Exp，成为国内最强",
+          "source": "Volcengine",
+          "sourceUrl": "https://developer.volcengine.com/articles/7577300596110295078",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260329-003",
+          "title": "AI大模型有哪些？2025年最全面最新15款主流大模型技术对比 | BetterYeah AI智能体",
+          "summary": "Gemma-3：2025年3月12日发布，号称\"单个GPU或TPU上运行的功能最强大模型\"，在AI大模型竞技场得分位居前十，尽管参数量不及其他顶级模型。",
+          "source": "Betteryeah",
+          "sourceUrl": "https://www.betteryeah.com/blog/comprehensive-comparison-of-15-mainstream-large-model-technologies",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260329-006",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/20） - 知乎",
+          "summary": "本周更新（2025/03/16~2025/03/20）MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增Agent模型 GLM-5-Turbo；MiniMax：国内闭源组更新Agent模型 MiniMax 2.7。 本月更新ChatGPT: 国外闭源组更...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260329-007",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260329-009",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260329-012",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260329-013",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260329-014",
+          "title": "Ai产品榜·全球总榜 — 2026年2月版｜Ai产品榜（Aicpb）",
+          "summary": "关于 AI产品榜 AICPB 是全球AI榜单标准制定者，被全球影响力媒体、国际咨询机构及证券经纪商引用，包括被称为互联网女皇的传奇投资人 Mary Meeker都在引用!AI产品榜 按用户规模排名，按月更新。AI模型榜 按价格排名，按周更新。",
+          "source": "Aicpb",
+          "sourceUrl": "https://www.aicpb.com/zh/ai-rankings/products/global-ai-rankings",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260329-015",
+          "title": "如何评价中国团队发布的通用型 AI Agent 产品 Manus？会 ...",
+          "summary": "manus是全球首款通用型AI智能体，旨在提供强大的基础模型支持，适用于各种复杂的AI应用场景。 据团队介绍，「Manus」是一个真正自主的 AI 代理，能够解决各类复杂多变的任务。 与传统 AI 助手不 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/14173371100",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260329-004",
+          "title": "NVIDIA 发布全新物理 AI 模型，全球合作伙伴展示新一代机器人 | NVIDIA 英伟达博客",
+          "summary": "拉斯维加斯 —— CES —— 太平洋时间 2026 年 1 月 5 日 —— NVIDIA 今日宣布推出用于物理 AI 的全新开放模型、框架和 AI 基础设施，并展示了全球合作伙伴为各行业打造的多款机器人。 ...",
+          "source": "Blogs",
+          "sourceUrl": "https://blogs.nvidia.cn/blog/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260329-005",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "3 days ago · MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity Jointly led by the MIT Morningside Academy for Design,",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260329-008",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260329-010",
+          "title": "Función QUERY - Ayuda de Editores de Documentos de",
+          "summary": "Función QUERY Ejecuta una consulta sobre los datos con el lenguaje de consultas de la API de visualización de Google. Ejemplo de uso QUERY(A2:E6,\"sele",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/docs/answer/3093343?hl=es-419",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260329-011",
+          "title": "查詢函式 (QUERY) - Google 文件編輯器說明",
+          "summary": "In case of mixed data types in a single column, the majority data type determines the data type of the column for query purposes. Minority data types ",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/docs/answer/3093343?hl=zh-Hant",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-29T08:00:05.377142+08:00",
+  "source": "OpenClaw"
+}
