@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-31",
+  "title": "AI 日报 - 2026年03月31日",
+  "summary": "今日 AI 动态：OpenAI | OpenAI；国内外知名大模型及应用——模型/应用维度（2026/03/27） - 知乎；一周ai大事件 - 知乎专栏；Google Gemini；大模型 – 量子位...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260331-001",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/27） - 知乎",
+          "summary": "本周更新（2025/03/22~2025/03/27）GLM：国内开源组新增通用模型 GLM-5.1； 本月更新MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增Agent模型 GLM-5-Turbo；MiniMax：国内闭源组更新A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-003",
+          "title": "一周ai大事件 - 知乎专栏",
+          "summary": "01 模型风向标 阿里千问成新加坡国家AI项目技术底座 近日，新加坡国家人工智能计划（AISG）发布了一款名为Qwen-SEA-LION-v4的东南亚多语言大模型。该模型以阿里巴巴 通义千问 Qwen3-32B为基座，结合超1000亿条覆盖缅甸语、印尼语、泰语等本地语言数据进行优化。新模型专为应对东",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1978868578410333148",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-004",
+          "title": "Google Gemini",
+          "summary": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+          "source": "Google",
+          "sourceUrl": "https://gemini.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-005",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260331-007",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260331-009",
+          "title": "Is Whatsapp web down? - Lowyat.NET",
+          "summary": "2025年9月8日 · Cannot link my device now.",
+          "source": "Lowyat",
+          "sourceUrl": "https://forum.lowyat.net/topic/5538738/all",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-010",
+          "title": "Saifuddin's Whatsapp kena hack - Lowyat.NET",
+          "summary": "2025年5月27日 · Outline · [ Standard ] · Linear+ Saifuddin's Whatsapp kena hack 626.3k views",
+          "source": "Lowyat",
+          "sourceUrl": "https://forum.lowyat.net/topic/5524806/all",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-011",
+          "title": "\"Tak balas, akaun Whatsapp banhammer\"- J&T rider",
+          "summary": "2025年11月12日 · A video by a TikTok user claiming to be a J&amp;T Express rider has caught people&#39;s attention, with the rider suggesting that courie",
+          "source": "Lowyat",
+          "sourceUrl": "https://forum.lowyat.net/topic/5545933/all",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-012",
+          "title": "Whatsapp and Whatsapp PC - Lowyat.NET",
+          "summary": "2025年3月22日 · Anyone has issue with whatsapp in phone and PC. The messages sent, both were not sync each others.What I sent via Whatsapp in phone can&#",
+          "source": "Lowyat",
+          "sourceUrl": "https://forum.lowyat.net/topic/5514831/all",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260331-006",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.m.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-008",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "3 days ago · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with in",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-013",
+          "title": "从2025年来看，AI 泡沫是否会在一两年内破灭？ - 知乎",
+          "summary": "但是，现在的问题就是，新世界还没展开呢，美国的ai泡沫已经渗透到了全球，从华尔街到香港上海深圳，再到首尔东京，ai泡沫溢出到了全球，不单单是华尔街。 美国ai泡沫是全球资产的核心参数，但是 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1943070667252670985",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-014",
+          "title": "字节跳动宣布中国首个 AI 原生集成开发环境 Trae 国内版 ...",
+          "summary": "直接问AI！ 就像问朋友一样简单 实时代码建议：AI会实时理解你的需求，给出建议，就像有个专业程序员在旁边指导 代码片段生成：用自然语言描述需求，AI就能生成对应代码 从0到1开发项目：只需告 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/13918010999",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260331-015",
+          "title": "Replicate Netflix login and generate cookie - Stac",
+          "summary": "2015年9月2日 · Since there is no official public Netflix API anymore, I'm trying to reverse engineer some things on my own. But I'm kind of stuck at the ",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/questions/32337821/replicate-netflix-login-and-generate-cookie",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-03-31T08:00:11.049394+08:00",
+  "source": "OpenClaw"
+}
