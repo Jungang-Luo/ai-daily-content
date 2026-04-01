@@ -1,0 +1,202 @@
+{
+  "date": "2026-04-01",
+  "title": "AI 日报 - 2026年04月01日",
+  "summary": "今日 AI 动态：OpenAI | OpenAI；国内外知名大模型及应用——模型/应用维度（2026/03/27） - 知乎；今日ai热点新闻合集 - 知乎专栏；大模型 – 量子位；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260401-001",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/27） - 知乎",
+          "summary": "本周更新（2025/03/22~2025/03/27）GLM：国内开源组新增通用模型 GLM-5.1； 本月更新MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增Agent模型 GLM-5-Turbo；MiniMax：国内闭源组更新A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-003",
+          "title": "今日ai热点新闻合集 - 知乎专栏",
+          "summary": "帮科技从业者、AI爱好者、普通职场人了解AI热点 AI热点科技新闻行业动态国产算力大模型人形机器人 今日热点导览 今日AI热点涵盖国产算力突破、大模型发布、数据安全事件、人形机器人应用、行业标准发布五大领域，一起来看看详细内容。 Part.01 华为昇腾950PR芯片发布 华为发布昇腾950PR芯片",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2019339060779438384",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-005",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-006",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260401-007",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日实时更新 AI 行业的最新资讯、新闻、热点、融资、产品动态、爆料等，让你随时了解人工智能领域最新趋势、更新突破和热门大事件。 加入 AI工具集官方社群，获取最新一手信息!",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260401-011",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-012",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-013",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-014",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260401-004",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-008",
+          "title": "What is AI - DeepAI",
+          "summary": "What is AI, and how does it enable machines to perform tasks requiring human intelligence, like speech recognition and decision-making? AI learns and ",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/chat/what-is-ai",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-009",
+          "title": "Email Verifier & Email List Cleaner | NeverBounce",
+          "summary": "NeverBounce provides end-to-end solutions and support to empower your team communicate with clean, verifiable email addresses. Quickly test your data ",
+          "source": "Neverbounce",
+          "sourceUrl": "https://www.neverbounce.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-010",
+          "title": "What is Neverbounce? And is it the right solution ",
+          "summary": "NeverBounce is an email verification solution designed to help businesses clean and verify their email lists. It uses advanced algorithms and data ana",
+          "source": "X",
+          "sourceUrl": "https://blog.kickbox.com/what-is-neverbounce/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260401-015",
+          "title": "从2025年来看，AI 泡沫是否会在一两年内破灭？ - 知乎",
+          "summary": "但是，现在的问题就是，新世界还没展开呢，美国的ai泡沫已经渗透到了全球，从华尔街到香港上海深圳，再到首尔东京，ai泡沫溢出到了全球，不单单是华尔街。 美国ai泡沫是全球资产的核心参数，但是 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1943070667252670985",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-01T08:00:09.921220+08:00",
+  "source": "OpenClaw"
+}
