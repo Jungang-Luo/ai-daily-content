@@ -1,0 +1,202 @@
+{
+  "date": "2026-04-02",
+  "title": "AI 日报 - 2026年04月02日",
+  "summary": "今日 AI 动态：OpenAI | OpenAI；国内外知名大模型及应用——模型/应用维度（2026/03/27） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型 – 量子位；OpenAI发布GPT-5.4大语言模型，增强计算机视觉和 ... - MSN...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260402-001",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/03/27） - 知乎",
+          "summary": "本周更新（2025/03/22~2025/03/27）GLM：国内开源组新增通用模型 GLM-5.1； 本月更新MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增Agent模型 GLM-5-Turbo；MiniMax：国内闭源组更新A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260402-005",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-006",
+          "title": "OpenAI发布GPT-5.4大语言模型，增强计算机视觉和 ... - MSN",
+          "summary": "OpenAI集团今日发布了一款新的大语言模型，该公司表示这款模型在自动化工作任务方面比早期算法更加熟练。 GPT-5.4现已在ChatGPT、Codex编程工具和 ...",
+          "source": "Msn",
+          "sourceUrl": "https://www.msn.com/zh-cn/news/other/openai%E5%8F%91%E5%B8%83gpt-5-4%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B-%E5%A2%9E%E5%BC%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%92%8C%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%83%BD%E5%8A%9B/ar-AA1XEy9b",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260402-009",
+          "title": "2025年Netflix新剧电影推荐预告 - 知乎",
+          "summary": "提供2025年Netflix最新电影和剧集的播出计划及更新预告，涵盖多种题材，助您发现精彩内容。",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/column/c_1853009557510561792",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-012",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-013",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-014",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-015",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "爱诗科技闪电发布周 Day 2 PixVerse推出三项更新：快应用、团队版与CLI工具。 快应用首批上线\"广告大师\"，支持商品图一键生成广告视频；团队版支持2-100人协作，提供共享积分池、四级权限及独立空间；CLI工具让开发者通过命令行调用视频生成能力，接入 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260402-004",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-007",
+          "title": "What is AI - DeepAI",
+          "summary": "What is AI, and how does it enable machines to perform tasks requiring human intelligence, like speech recognition and decision-making? AI learns and ",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/chat/what-is-ai",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-008",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "5 days ago · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with in",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-010",
+          "title": "Netflix - 知乎",
+          "summary": "Netflix (Nasdaq NFLX) 成立于1997年，是一家为世界多国提供网络视频点播的公司，主要提供Netflix超大数量的DVD并免费递送，总部位于美国加利福尼亚州洛斯盖图，1999年开始推出订阅制的服务。 截 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/topic/19552757",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260402-011",
+          "title": "Netflix 发布《鱿鱼游戏 3》海报，计划 2025 年上线，对于最终季你有 …",
+          "summary": "按照Netflix（也称奈飞、网飞）的习惯来看，一般电视剧上线都以8集来计数，不论哪个国家的剧都基本遵循这一原则。 像之前叶秋臣写过深度解析的《黑暗荣耀》第一季和第二季，皆是如此。 此前大家 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/8523409683",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-02T08:00:05.848464+08:00",
+  "source": "OpenClaw"
+}
