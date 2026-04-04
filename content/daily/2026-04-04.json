@@ -1,0 +1,202 @@
+{
+  "date": "2026-04-04",
+  "title": "AI 日报 - 2026年04月04日",
+  "summary": "今日 AI 动态：大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云；必应ai日报 | 每日ai前沿资讯与大模型技术动态；Ai大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎；大模...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260404-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260404-003",
+          "title": "千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云",
+          "summary": "Wan2.7-Image 一个模型搞定图像生成到编辑全流程。人更真、色更准、字更稳，开启可控视觉创作新体验。 ... Qwen3.6-Plus在Qwen3.5基础上全面升级，重点增强Agentic Coding智能体编程能力，提升深度推理与多模态识别（OCR/万物识别），以更高效率开启效果增强新阶段",
+          "source": "Aliyun",
+          "sourceUrl": "https://www.aliyun.com/product/tongyi",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260404-005",
+          "title": "必应ai日报 | 每日ai前沿资讯与大模型技术动态",
+          "summary": "必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260404-007",
+          "title": "Ai大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎",
+          "summary": "核心更新： GLM-4.6模型发布与开源：正式发布并开源新一代大模型GLM-4.6，在Agentic Coding等核心能力上实现大幅跃升 代码能力国内领先：在公开基准与真实编程任务中，GLM-4.6的代码能力已对齐Claude Sonnet 4，超过DeepSeek-V3.2-Exp，成为国内最强",
+          "source": "Volcengine",
+          "sourceUrl": "https://developer.volcengine.com/articles/7577300596110295078",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260404-008",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260404-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260404-006",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260404-009",
+          "title": "Machine learning | MIT News | Massachusetts Instit",
+          "summary": "2 days ago · AI system learns to keep warehouse robot traffic running smoothly This new approach adapts to decide which robots should get the right of",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/machine-learning",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260404-013",
+          "title": "UHC Community Plan - Member Login",
+          "summary": "Access health and wellness resources, tools, and benefits for UnitedHealthcare Community Plan members by logging into your account.",
+          "source": "Myuhc",
+          "sourceUrl": "https://prod.member.myuhc.com/content/myuhc/en/secure/communityplan/health-wellness.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260404-015",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260404-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "2 days ago · MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity Jointly led by the MIT Morningside Academy for Design,",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260404-010",
+          "title": "myuhc - Member Login - UnitedHealthcare",
+          "summary": "Find a Provider Find a doctor, medical specialist, mental health care provider, hospital or lab.",
+          "source": "Myuhc",
+          "sourceUrl": "https://prod.member.myuhc.com/content/myuhc/en/public/member-ei-login.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260404-011",
+          "title": "UHC Community Plan - Member Login - UnitedHealthca",
+          "summary": "New York - Premium Payments Important payment information for New York CHIP members.",
+          "source": "Myuhc",
+          "sourceUrl": "https://prod.member.myuhc.com/content/myuhc/en/secure/communityplan/dashboard.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260404-012",
+          "title": "HealthSafe ID®",
+          "summary": "Sign in with HealthSafe ID® to access your UnitedHealthcare account and manage your health plan benefits securely and conveniently.",
+          "source": "Myuhc",
+          "sourceUrl": "https://accounts.myuhc.com/rt/login/myuhc/en",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260404-014",
+          "title": "UHC Community Plan - Member Login",
+          "summary": "Discover UnitedHealthcare's Healthy Rewards program, promoting wellness and healthy living through rewards and benefits for members.",
+          "source": "Myuhc",
+          "sourceUrl": "https://prod.member.myuhc.com/content/myuhc/en/secure/communityplan/health-wellness/healthy-rewards.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-04T08:00:05.591991+08:00",
+  "source": "OpenClaw"
+}
