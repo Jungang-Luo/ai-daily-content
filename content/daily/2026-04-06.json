@@ -1,0 +1,214 @@
+{
+  "date": "2026-04-06",
+  "title": "AI 日报 - 2026年04月06日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型 – 量子位；谷歌推出Gemma 4开源大模型：单位参数智能升级，端侧与大模型性能双突破；大模型最新进展...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260406-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260406-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260406-005",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260406-006",
+          "title": "谷歌推出Gemma 4开源大模型：单位参数智能升级，端侧与大模型性能双突破",
+          "summary": "谷歌今日正式发布新一代开源大模型Gemma 4，凭借突破性的单位参数智能水平，成为该公司迄今为止最强大的开源模型。该系列模型专为复杂推理场景 ...",
+          "source": "Msn",
+          "sourceUrl": "https://www.msn.com/zh-cn/news/other/%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BAgemma-4%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B-%E5%8D%95%E4%BD%8D%E5%8F%82%E6%95%B0%E6%99%BA%E8%83%BD%E5%8D%87%E7%BA%A7-%E7%AB%AF%E4%BE%A7%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%80%A7%E8%83%BD%E5%8F%8C%E7%AA%81%E7%A0%B4/ar-AA203bQE",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260406-008",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260406-015",
+          "title": "Llama 4开源炸场!68%好评狂潮下32%痛点爆发：体积超 ...",
+          "summary": "Meta AI于4月3日在Hugging Face发布Llama 4开源模型，68%社区好评聚焦免费部署与自定义优势，32%担忧模型体积过大（超200GB）。 本文剖析体积隐忧深层成因：训练效率瓶颈与压缩缺失；评估闭源差距与部署成本；对中小企业及国内生态的借鉴。",
+          "source": "Winzheng",
+          "sourceUrl": "https://www.winzheng.com/lab/reports/llama-4-open-source-68-praise-32-volume-pain-200gb-nightmare",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260406-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "3 days ago · AI system learns to keep warehouse robot traffic running smoothly This new approach adapts to decide which robots should get the right of",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260406-004",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260406-007",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260406-009",
+          "title": "凌晨四颗钻石，谷歌 Gemma 4 突袭发布，31B 模型击败大 20 倍的对手-36氪",
+          "summary": "\"Android 开发者可以通过新的 AICore Developer Preview 访问内置的 Gemma 4 模型，或者用 Google AI Edge 在移动端、桌面端和边缘设备上构建智能体应用。",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3750284639552008",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260406-016",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260406-010",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260406-011",
+          "title": "Official Website | ZZ Top",
+          "summary": "The Official Website of ZZ Top ZZ Top are readying a new album titled RAW that was recorded in connection with the band’s wildly popular and criticall",
+          "source": "Zztop",
+          "sourceUrl": "https://www.zztop.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260406-012",
+          "title": "News | ZZ Top",
+          "summary": "ZZ Top's Latest News We are saddened by the news today that our Compadre, Dusty Hill, has passed away in his sleep at home in Houston, TX. We, along w",
+          "source": "Zztop",
+          "sourceUrl": "https://www.zztop.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260406-013",
+          "title": "Videos - ZZ Top",
+          "summary": "ZZ Top music, exclusive, interview and live videos",
+          "source": "Zztop",
+          "sourceUrl": "https://www.zztop.com/videos",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260406-014",
+          "title": "Music - ZZ Top",
+          "summary": "Explore ZZ Top's music collection and discover links to purchase their albums and tracks.",
+          "source": "Zztop",
+          "sourceUrl": "https://www.zztop.com/music",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-06T08:00:05.396545+08:00",
+  "source": "OpenClaw"
+}
