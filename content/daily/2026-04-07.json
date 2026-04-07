@@ -1,0 +1,202 @@
+{
+  "date": "2026-04-07",
+  "title": "AI 日报 - 2026年04月07日",
+  "summary": "今日 AI 动态：OpenAI | OpenAI；国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型 – 量子位；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260407-001",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260407-005",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-006",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260407-011",
+          "title": "Specialty Router Bits - Rockler Woodworking and Ha",
+          "summary": "Build Something Extraordinary With Our Large Selection of Quality Woodworking Special Application Router Bits at Rockler Woodworking and Hardware.",
+          "source": "Rockler",
+          "sourceUrl": "https://www.rockler.com/power-tools/routers/router-bits/special-application-router-bits",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-012",
+          "title": "Rockler Router Bits: High-Quality & Long-lasting P",
+          "summary": "Craft intricate designs with Rockler's router bits - High-quality, durable tools for precise woodworking. Shop our selection!",
+          "source": "Rockler",
+          "sourceUrl": "https://www.rockler.com/power-tools/routers/router-bits/straight-spiral-router-bits",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-013",
+          "title": "Woodworking Tools, Hardware, DIY Project Supplies ",
+          "summary": "Your best source for high quality & innovative woodworking tools, finishing supplies, hardware, lumber & know-how. Find everything you need to make yo",
+          "source": "Rockler",
+          "sourceUrl": "https://www.rockler.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-014",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-015",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260407-004",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-007",
+          "title": "DeepAI",
+          "summary": "Whether you are a hobbyist, a professional artist, or a developer integrating AI into your product, DeepAI delivers advanced technology with new video",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/?lang=en",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-008",
+          "title": "AI日报 - 每天三分钟关注AI行业趋势_AIbase",
+          "summary": "AI日报为您提供最新的人工智能行业资讯，每天仅需三分钟，全面掌握AI技术发展、行业动态和市场趋势。关注AI日报，紧跟未来科技步伐，获取独家分析与深度解读。",
+          "source": "Aibase",
+          "sourceUrl": "https://www.aibase.com/zh/daily",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-009",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "Mar 27, 2026 · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with ",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260407-010",
+          "title": "Quality Router Bits For Sale - Rockler",
+          "summary": "Rockler has you covered for all your router bit needs! We have bits for every project, including plunge bits, edge forming bits, and more.",
+          "source": "Rockler",
+          "sourceUrl": "https://www.rockler.com/power-tools/routers/router-bits",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-07T08:00:05.818050+08:00",
+  "source": "OpenClaw"
+}
