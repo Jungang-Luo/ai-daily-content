@@ -1,0 +1,214 @@
+{
+  "date": "2026-04-09",
+  "title": "AI 日报 - 2026年04月09日",
+  "summary": "今日 AI 动态：OpenAI | OpenAI；国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术；Google Gemini；大模型 – 量子位...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260409-001",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-003",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260409-004",
+          "title": "Google Gemini",
+          "summary": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+          "source": "Google",
+          "sourceUrl": "https://gemini.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-005",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260409-011",
+          "title": "智谱发布可持续工作 8 小时的旗舰模型 Glm-5.1，同时提价 10%",
+          "summary": "IT之家 4 月 8 日消息，智谱正式发布新一代开源模型 GLM-5.1，官方称这是目前全球最强的开源模型。据官方介绍，其是唯一达到 8 小时级持续工作的开源模型，在最接近真实软件开发的 SWE-bench Pro 基准测试中，GLM-5.1 实现国产模型首次超越 Opus 4.6。",
+          "source": "IT 之家",
+          "sourceUrl": "https://www.ithome.com/0/936/851.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260409-006",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260409-008",
+          "title": "The Voronezh city administration approved a rally ",
+          "summary": "The Voronezh city administration has withdrawn its permission for a rally on 4 October in memory of the shooting of the parliament in 1993.",
+          "source": "Ovd",
+          "sourceUrl": "https://ovd.info/en/express-news/2025/09/27/voronezh-city-administration-approved-rally-memory-1993-parliament-shooting",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-014",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-015",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-016",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260409-007",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.m.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-009",
+          "title": "Voronezh - Wikipedia",
+          "summary": "Owing to the Voronezh Admiralty Wharf, for a short time, Voronezh became the largest city of South Russia and the economic center of a large and ferti",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Voronezh",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-010",
+          "title": "Voronezh | Voronezh Region, Volga River, Black Ear",
+          "summary": "Vegetables, especially potatoes, are important around Voronezh, the oblast headquarters, and orchards abound. Dairy and beef cattle, pigs, and sheep a",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/place/Voronezh-Russia",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-012",
+          "title": "Festivals and Events in Vorónezh: Celebrating Loca",
+          "summary": "Discover the vibrant festivals and events in Vorónezh, celebrating the rich local culture and traditions. Join the festivities and experience the joy!",
+          "source": "Fabrikantgruppen",
+          "sourceUrl": "https://www.fabrikantgruppen.com/pages/festivals-and-events-in-vor-nezh-celebrating-local-culture-1cf2d223.php",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260409-013",
+          "title": "Ahead of Duma Vote, Affluent Voronezh Remains Loya",
+          "summary": "In Voronezh, this local renaissance saw the region give the president almost 80% of its vote in his 2018 re-election, without the abnormally high turn",
+          "source": "Themoscowtimes",
+          "sourceUrl": "https://www.themoscowtimes.com/2021/09/06/ahead-of-duma-vote-affluent-voronezh-remains-loyal-to-putin-and-stability-a74958",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-09T08:00:06.378996+08:00",
+  "source": "OpenClaw"
+}
