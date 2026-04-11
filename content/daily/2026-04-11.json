@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-11",
+  "title": "AI 日报 - 2026年04月11日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；AI | AI快讯：OpenAI GPT-5.4发布，Harness Engineering成202；大模型 – 量子位；Open AI发布新一代大模型\"o1\"：会像人类一样\"花时间思考\"-36氪；千问大模型_AI大模型_一...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260411-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260411-003",
+          "title": "AI | AI快讯：OpenAI GPT-5.4发布，Harness Engineering成202",
+          "summary": "今日AI领域重要快讯OpenAI发布GPT-5.4旗舰模型：新版本在推理、编程和计算机控制能力上取得重大突破，支持与Microsoft Excel和Google Sheets深度集成，企业自动化应用场景进一步拓宽。 AI竞争进入Harness Engineer…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022600714564769235",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260411-007",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260411-008",
+          "title": "Open AI发布新一代大模型\"o1\"：会像人类一样\"花时间思考\"-36氪",
+          "summary": "Open AI发布的新一代大模型\"o1\"，在接收到用户询问后，在作出回答钱，会像人类一样\"花时间思考\"，用时约10—20秒，进而产生一个内部思路链 ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/2948022000573063",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260411-010",
+          "title": "千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云",
+          "summary": "Wan2.7-Image 一个模型搞定图像生成到编辑全流程。人更真、色更准、字更稳，开启可控视觉创作新体验。 ... Qwen3.6-Plus在Qwen3.5基础上全面升级，重点增强Agentic Coding智能体编程能力，提升深度推理与多模态识别（OCR/万物识别），以更高效率开启效果增强新阶段",
+          "source": "Aliyun",
+          "sourceUrl": "https://www.aliyun.com/product/tongyi",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260411-016",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260411-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "2 days ago · AI system learns to keep warehouse robot traffic running smoothly This new approach adapts to decide which robots should get the right of",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260411-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260411-005",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260411-006",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260411-009",
+          "title": "MIT researchers introduce generative AI for databa",
+          "summary": "Jul 8, 2024 · Researchers from MIT and elsewhere developed an easy-to-use tool that enables someone to perform complicated statistical analyses on tab",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2024/mit-researchers-introduce-generative-ai-databases-0708",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260411-014",
+          "title": "多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样 ...",
+          "summary": "2025年3月17日 · 多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样？ 如何检测论文 AI 率？ 检测结果准确吗？ 近日，西南大学、中国人民大学纷纷发布关于本科毕业论文（设计）检测的最新规 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/15169887147",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260411-011",
+          "title": "Seth Meyers | NBC",
+          "summary": "Seth Meyers helped the March 7 SNL host recreate a pivotal, but forgotten, moment in his career.",
+          "source": "Nbc",
+          "sourceUrl": "https://www.nbc.com/nbc-insider/people/seth-meyers",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260411-012",
+          "title": "Late Night with Seth Meyers News | NBC",
+          "summary": "Get the latest Late Night with Seth Meyers news from the source. Exclusive photos, videos, interviews and contests.",
+          "source": "Nbc",
+          "sourceUrl": "https://www.nbc.com/nbc-insider/show/late-night-with-seth-meyers",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260411-013",
+          "title": "Is Late Night with Seth Meyers New This Week? Abou",
+          "summary": "Are new episodes of Late Night with Seth Meyers airing this week? Find out when the show and \"A Closer Look\" are coming back in April, here.",
+          "source": "Nbc",
+          "sourceUrl": "https://www.nbc.com/nbc-insider/is-late-night-with-seth-meyers-new-this-week-hiatus-schedule",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260411-015",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个 ...",
+          "summary": "文科生崛起没有，我不知道，但是我知道新闻学魅力时刻永不过时！ 单单看这个报道，就是一个典型的新闻学魅力时刻的产物。 标题党说AI时代文科生更吃香了，被大厂月薪3万疯抢！ 可通篇的内容都是， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2016095792616744489",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260411-017",
+          "title": "Google Docs",
+          "summary": "Create and edit web-based documents, spreadsheets, and presentations. Store documents online and access them from any computer.",
+          "source": "Google",
+          "sourceUrl": "https://docs.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-11T08:00:05.765128+08:00",
+  "source": "OpenClaw"
+}
