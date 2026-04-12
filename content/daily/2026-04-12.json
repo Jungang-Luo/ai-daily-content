@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-12",
+  "title": "AI 日报 - 2026年04月12日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术；大模型 – 量子位；Ai大模型，最近有这些新进展 - ...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260412-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260412-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260412-005",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260412-007",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260412-008",
+          "title": "Ai大模型，最近有这些新进展 - 今日头条",
+          "summary": "近日全球科技公司\"你追我赶\"竞相发布了新版本人工智能（AI）大模型这些模型或具备更快速的回答能力或有更强的多模态能力或增强了推理与生成能力持续带来更加智能的使用体验并为各行各业注入新动能一起来回顾↓↓↓当地时间4月23日OpenAI发布了全",
+          "source": "Toutiao",
+          "sourceUrl": "https://www.toutiao.com/article/7496833734324142644/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260412-010",
+          "title": "开源（open source）是什么？为什么要开源？",
+          "summary": "2021年11月3日 · 为此，开源项目应当形成一个强大的技术核心，这个技术核心对怀有梦想追求的开发者产生引力，形成开源社区并支持参与者在其中的各个部分创造自己的价值。 每个人都从别人乃至自 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/tardis/bd/ans/2204771631",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260412-011",
+          "title": "开源（open source）是什么？为什么要开源？ - 知乎",
+          "summary": "开源算法的代码，在很大程度上降低了生态壁垒。 但是，目前大家基本上用的都是美国的Pytorch，TensorFlow或者Caffe。 非常希望大家也能多支持，多参与国产生态平台下的开源工作， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/343707546",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260412-012",
+          "title": "有哪些开源的源码网站？ - 知乎",
+          "summary": "2020年11月26日 · 介绍：SegmentFault 思否是中国领先的新一代开发者社区和专业的技术媒体。我们为中文开发者提供纯粹、高质的技术交流平台以及最前沿的技术行业动态，帮助更多的开发者获得认知 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/321941064",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260412-013",
+          "title": "如何看待字节的工作流平台Coze开源？意味着什么？",
+          "summary": "开源版的 Coze 好用吗？字节为什么要开源？会给 Agent 赛道的其他玩家带来什么影响？我来聊聊自己的个人看法。 Coze 这次究竟开源了什么？ Coze 今天开源了两个项目，Coze Studio 和 Coze Loop。 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1932458873215779897",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260412-014",
+          "title": "开源项目 OpenClaw 仅用 3 个月登顶 GitHub Star 榜首，对 ...",
+          "summary": "2026年3月7日 · 开源个人 AI 助手 OpenClaw 仅用 3 个月就以 248000 颗 star，超越了存在 35 年的 Linux，登顶 GitHub St…",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2012114647591904496",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260412-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "3 days ago · AI system learns to keep warehouse robot traffic running smoothly This new approach adapts to decide which robots should get the right of",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260412-004",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260412-006",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260412-009",
+          "title": "Explained: Generative AI | MIT News | Massachusett",
+          "summary": "Nov 9, 2023 · What do people mean when they say “generative AI,” and why are these systems finding their way into practically every application imagin",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2023/explained-generative-ai-1109",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260412-015",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260412-016",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个 ...",
+          "summary": "文科生崛起没有，我不知道，但是我知道新闻学魅力时刻永不过时！ 单单看这个报道，就是一个典型的新闻学魅力时刻的产物。 标题党说AI时代文科生更吃香了，被大厂月薪3万疯抢！ 可通篇的内容都是， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2016095792616744489",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260412-017",
+          "title": "google mail",
+          "summary": "We would like to show you a description here but the site won’t allow us.",
+          "source": "Google",
+          "sourceUrl": "https://mail.google.com/mail/u/1/?hl=en",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-12T08:00:06.111192+08:00",
+  "source": "OpenClaw"
+}
