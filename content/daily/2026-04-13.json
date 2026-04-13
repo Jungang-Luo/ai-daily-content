@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-13",
+  "title": "AI 日报 - 2026年04月13日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型 – 量子位；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术；大模型最新进展...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260413-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260413-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260413-005",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260413-006",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260413-008",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260413-012",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260413-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "4 days ago · AI system learns to keep warehouse robot traffic running smoothly This new approach adapts to decide which robots should get the right of",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260413-004",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260413-009",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260413-010",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260413-011",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260413-007",
+          "title": "Introducing the MIT Generative AI Impact Consortiu",
+          "summary": "Feb 3, 2025 · The MIT Generative AI Impact Consortium is a collaboration between MIT, founding member companies, and researchers across disciplines wh",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/introducing-mit-generative-ai-impact-consortium-0203",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260413-013",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个 ...",
+          "summary": "文科生崛起没有，我不知道，但是我知道新闻学魅力时刻永不过时！ 单单看这个报道，就是一个典型的新闻学魅力时刻的产物。 标题党说AI时代文科生更吃香了，被大厂月薪3万疯抢！ 可通篇的内容都是， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2016095792616744489",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260413-014",
+          "title": "Upload YouTube videos - Computer - YouTube Help - ",
+          "summary": "You can upload videos to YouTube in a few easy steps. Use the instructions below to upload your videos from a computer or mobile device. Note: Uploadi",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform%3DDesktop",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260413-015",
+          "title": "Get help signing in to YouTube - YouTube Help - Go",
+          "summary": "To make sure you’re getting the directions for your account, select from the options below.",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/youtube/troubleshooter/3219097?hl=en",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260413-016",
+          "title": "YouTube Partner Program overview & eligibility",
+          "summary": "The YouTube Partner Program (YPP) gives creators greater access to YouTube resources and monetization features, and access to our Creator Support team",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/youtube/answer/72851?hl=en&co=GENIE.Platform%3DDesktop",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260413-017",
+          "title": "Customize your YouTube channel layout - YouTube He",
+          "summary": "You can customize the layout of your YouTube channel so that viewers can view your channel trailer, featured video, featured sections, including “For ",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/youtube/answer/3219384?hl=en",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-13T08:00:05.576280+08:00",
+  "source": "OpenClaw"
+}
