@@ -1,0 +1,202 @@
+{
+  "date": "2026-04-15",
+  "title": "AI 日报 - 2026年04月15日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；大模型 – 量子位；二零二六年四月十四日ai新闻快讯 - 假装摸石头；大模型最新进展；阿里集中发布七款大模型 与英伟达在Physical AI领域达成合作_财新网_财新网...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260415-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-005",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-006",
+          "title": "二零二六年四月十四日ai新闻快讯 - 假装摸石头",
+          "summary": "二零二六年四月十四日AI新闻快讯 综述 GPT-6时代正式开启，AI安全与具身智能进入产业深水区。 今日（4月14日），OpenAI正式发布GPT-6（代号Spud），这是AI发展史上的又一里程碑事件。与此同时，以Claude Mythos和Project Glasswing为代表的AI安全体系加速",
+          "source": "Gaovi",
+          "sourceUrl": "https://www.gaovi.com/index.php/archives/232/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-008",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-009",
+          "title": "阿里集中发布七款大模型 与英伟达在Physical AI领域达成合作_财新网_财新网",
+          "summary": "9月24日，阿里云智能CTO（首席技术官）周靖人在2025云栖大会上，发布了多项技术进展，包括7款大模型产品更新，覆盖语言、语音、视觉、多模态、代码等模型领域，以及大模型应用开发平台阿里云百炼和阿里云AI基础设施升级。",
+          "source": "Caixin",
+          "sourceUrl": "https://www.caixin.com/2025-09-24/102365840.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260415-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "6 days ago · AI system learns to keep warehouse robot traffic running smoothly This new approach adapts to decide which robots should get the right of",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260415-003",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260415-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-007",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-015",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260415-010",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-011",
+          "title": "Welcome to the Minecraft Official Site | Minecraft",
+          "summary": "Explore new gaming adventures, accessories, & merchandise on the Minecraft Official Site. Buy & download the game here, or check the site for the late",
+          "source": "Minecraft",
+          "sourceUrl": "https://www.minecraft.net/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-012",
+          "title": "Bem-vindos ao site oficial do Minecraft",
+          "summary": "Explore novas aventuras, acessórios e produtos dos jogos no site oficial de Minecraft. Compre e baixe o jogo aqui ou acesse o site para ver as últimas",
+          "source": "Minecraft",
+          "sourceUrl": "https://www.minecraft.net/pt-br",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-013",
+          "title": "Download Minecraft & Server Software | Minecraft",
+          "summary": "Download Minecraft for Windows, Mac, and more. Download server software for Java and Bedrock to start playing with friends. Learn more about the Minec",
+          "source": "Minecraft",
+          "sourceUrl": "https://www.minecraft.net/en-us/download",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260415-014",
+          "title": "Baixe o Minecraft e o software de servidor | Minec",
+          "summary": "Baixe o Minecraft para Windows, Mac e muito mais. Baixe o software do servidor para Java e Bedrock para jogar com seus amigos. Saiba mais sobre o Mine",
+          "source": "Minecraft",
+          "sourceUrl": "https://www.minecraft.net/pt-br/download",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-15T08:00:05.901813+08:00",
+  "source": "OpenClaw"
+}
