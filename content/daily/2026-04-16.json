@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-16",
+  "title": "AI 日报 - 2026年04月16日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；48小时连发5款大模型，2026年AI圈的卷法已经超出你想象；大模型 – 量子位；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260416-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260416-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260416-005",
+          "title": "48小时连发5款大模型，2026年AI圈的卷法已经超出你想象",
+          "summary": "2026年AI大模型竞争白热化，48小时内阿里、谷歌、微软、智谱AI相继发布5款重磅模型，包括Wan2.7-Image、Gemma4、GLM-5V-Turbo等。模型技术呈现三大趋势：MoE架构普及、端侧部署成熟、多模态成标配。文章深度解析各模型技术特点，提供选型建议和实战部署方案，助开发者把握AI",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com.cn/developer/article/2650738",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260416-007",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260416-008",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260416-014",
+          "title": "智谱发布可持续工作 8 小时的旗舰模型 Glm-5.1，同时提价 10%",
+          "summary": "IT之家 4 月 8 日消息，智谱正式发布新一代开源模型 GLM-5.1，官方称这是目前全球最强的开源模型。据官方介绍，其是唯一达到 8 小时级持续工作的开源模型，在最接近真实软件开发的 SWE-bench Pro 基准测试中，GLM-5.1 实现国产模型首次超越 Opus 4.6。",
+          "source": "IT 之家",
+          "sourceUrl": "https://www.ithome.com/0/936/851.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260416-016",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260416-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "Apr 9, 2026 · AI system learns to keep warehouse robot traffic running smoothly This new approach adapts to decide which robots should get the right o",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260416-004",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260416-006",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260416-009",
+          "title": "Explained: Generative AI | MIT News | Massachusett",
+          "summary": "Nov 9, 2023 · What do people mean when they say “generative AI,” and why are these systems finding their way into practically every application imagin",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2023/explained-generative-ai-1109",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260416-010",
+          "title": "我的 spotify 播放不了音乐? - 知乎",
+          "summary": "首先确认网络是否OK？ 正常情况下， Spotify 每隔14天需要科学上网才能保证正常登录状态，时间登录超时会出现不能播放现象。另外，科学上网所选择的节点地区要和APP属地一致。因为Spotify在默认 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/12409218349",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260416-011",
+          "title": "spotify怎么下载歌曲？ - 知乎",
+          "summary": "Spotify 是全球知名流媒体音乐服务平台，提供丰富的音乐资源和优质体验，但国内用户访问和支付存在一定困难。",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/435189172",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260416-012",
+          "title": "spotify用了一段时间后，为什么只能听片段或者随机 ...",
+          "summary": "很简单，被限制了。 Spotify规定，异地只能用14天，逾期，限制使用。 本文会给出具体解决方案，也很简单。 Spotify，全球最大市场份额的听歌软件，不仅版权多，还免费。 国内大众将其音译为声破 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/373388863?write",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260416-013",
+          "title": "有哪位大佬知道spotify怎么用吗？ - 知乎",
+          "summary": "Spotify，即声田或声破天，是一家享誉全球的正版音乐服务平台，2008年10月在瑞典首都斯德哥尔摩正式上线。作为目前全球最大的音乐流媒体平台之一，Spotify 与环球音乐集团、索尼音乐娱乐、华纳音 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/362557563",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260416-015",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个 ...",
+          "summary": "文科生崛起没有，我不知道，但是我知道新闻学魅力时刻永不过时！ 单单看这个报道，就是一个典型的新闻学魅力时刻的产物。 标题党说AI时代文科生更吃香了，被大厂月薪3万疯抢！ 可通篇的内容都是， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2016095792616744489",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260416-017",
+          "title": "Mahjabeen Ali - YouTube",
+          "summary": "Hello Friends, My name is Mahjabeen Ali. I am an INDIAN girl. I am interested in makeup, beauty, and fashion. My channel will be a reflection of me as",
+          "source": "YouTube",
+          "sourceUrl": "https://www.youtube.com/@MahjabeenAli/videos",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-16T08:00:05.621340+08:00",
+  "source": "OpenClaw"
+}
