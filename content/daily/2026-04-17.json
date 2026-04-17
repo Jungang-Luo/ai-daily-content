@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-17",
+  "title": "AI 日报 - 2026年04月17日",
+  "summary": "今日 AI 动态：大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；48小时连发5款大模型，2026年AI圈的卷法已经超出你想象；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260417-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260417-003",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260417-005",
+          "title": "48小时连发5款大模型，2026年AI圈的卷法已经超出你想象",
+          "summary": "2026年AI大模型竞争白热化，48小时内阿里、谷歌、微软、智谱AI相继发布5款重磅模型，包括Wan2.7-Image、Gemma4、GLM-5V-Turbo等。模型技术呈现三大趋势：MoE架构普及、端侧部署成熟、多模态成标配。文章深度解析各模型技术特点，提供选型建议和实战部署方案，助开发者把握AI",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com.cn/developer/article/2650738",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260417-007",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260417-008",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260417-010",
+          "title": "智谱发布可持续工作 8 小时的旗舰模型 Glm-5.1，同时提价 10%",
+          "summary": "IT之家 4 月 8 日消息，智谱正式发布新一代开源模型 GLM-5.1，官方称这是目前全球最强的开源模型。据官方介绍，其是唯一达到 8 小时级持续工作的开源模型，在最接近真实软件开发的 SWE-bench Pro 基准测试中，GLM-5.1 实现国产模型首次超越 Opus 4.6。",
+          "source": "IT 之家",
+          "sourceUrl": "https://www.ithome.com/0/936/851.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260417-015",
+          "title": "2026年4月ai圈动态盘点：融资天花板、模型闪电战与智能体 ...",
+          "summary": "这一项目的热度反映了 Agentic AI（智能体AI） 趋势的加速——AI正从\"对话工具\"向能够自主完成任务的\"数字员工\"演进。 八、英伟达GTC 2026：开源模型与智能体平台 时间：2026年3月17日 英伟达 在GTC 2026大会上发布了多项产品更新：",
+          "source": "Xueqiu",
+          "sourceUrl": "https://xueqiu.com/4092447343/383054216",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260417-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "Apr 9, 2026 · AI system learns to keep warehouse robot traffic running smoothly This new approach adapts to decide which robots should get the right o",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260417-004",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260417-009",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260417-011",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260417-013",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260417-006",
+          "title": "Responding to the climate impact of generative AI ",
+          "summary": "Sep 30, 2025 · MIT experts discuss strategies and innovations aimed at mitigating the amount of greenhouse gas emissions generated by the training, de",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/responding-to-generative-ai-climate-impact-0930",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260417-012",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个 ...",
+          "summary": "文科生崛起没有，我不知道，但是我知道新闻学魅力时刻永不过时！ 单单看这个报道，就是一个典型的新闻学魅力时刻的产物。 标题党说AI时代文科生更吃香了，被大厂月薪3万疯抢！ 可通篇的内容都是， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2016095792616744489",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260417-014",
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体 ...",
+          "summary": "2026年3月18日 · 科大讯飞公司即使2025年有盈利，但依然可能裁员。 原因很简单，资本都是逐利的，并且希望利润最大化，AI可以取代一部分人的工作，AI成本低，裁员这事就无可厚非，国内外的科技巨 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2017541603019940502",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260417-016",
+          "title": "Alongamentos para Melhorar a Flexibilidade: Guia d",
+          "summary": "2024年7月16日 · Ao explorar este guia de fisioterapia sobre alongamentos, você será conduzido através de práticas comprovadas para aumentar sua flexibili",
+          "source": "Com",
+          "sourceUrl": "https://reabilitando.com.br/alongamentos-para-melhorar-a-flexibilidade-guia-de-fisioterapia/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260417-017",
+          "title": "7 alongamentos para fazer em casa e destravar o co",
+          "summary": "2025年2月26日 · Por esses motivos, a especialista separou sete alongamentos para fazer em casa e melhorar a qualidade de vida. Confira: 1 - Costas, peito",
+          "source": "Com",
+          "sourceUrl": "https://www.terra.com.br/vida-e-estilo/saude/7-alongamentos-para-fazer-em-casa-e-destravar-o-corpo,b9017278dc2f6c10b7208d77abccf4dac8b3cyhm.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-17T08:00:05.827016+08:00",
+  "source": "OpenClaw"
+}
