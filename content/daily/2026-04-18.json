@@ -1,0 +1,202 @@
+{
+  "date": "2026-04-18",
+  "title": "AI 日报 - 2026年04月18日",
+  "summary": "今日 AI 动态：OpenAI | OpenAI；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报；每日ai资讯 - 猫目；杀疯了!Claude Opus 4.7 突袭发布，多项能力登顶第一...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260418-001",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260418-004",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "本期AI行业速报聚焦两大模型动态：通义千问开源稀疏MoE模型Qwen3.6-35B-A3B，展现强大智能体编程能力；同时，Anthropic正式发布旗舰模型Claude Opus 4.7。",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-006",
+          "title": "每日ai资讯 - 猫目",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-008",
+          "title": "杀疯了!Claude Opus 4.7 突袭发布，多项能力登顶第一",
+          "summary": "2026年4月17日，Anthropic发布Claude Opus 4.7旗舰AI模型，性能全面升级不加价。编程能力提升至64.3%基准分，支持复杂系统开发；视觉识别精度大幅提高，可解析技术图纸和UI界面；新增自我验证机制和Xhigh推理档位，稳定性更强。性价比超高，成为AI领域新标杆。",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com/developer/news/3844958",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260418-011",
+          "title": "How to test your Internet speed in South Africa – ",
+          "summary": "How to test your Internet speeds The best way to test your South African Internet connection is with the MyBroadband Speed Test app, which is availabl",
+          "source": "Co",
+          "sourceUrl": "https://mybroadband.co.za/news/industrynews/533831-how-to-test-your-internet-speed-in-south-africa.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-012",
+          "title": "South Africa’s top Internet speed test app – MyBro",
+          "summary": "The MyBroadband Speed Test app is trusted by thousands of South Africans – and for good reason.",
+          "source": "Co",
+          "sourceUrl": "https://mybroadband.co.za/news/industrynews/567664-south-africas-top-internet-speed-test-app.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-013",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-014",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-015",
+          "title": "2026年度最佳 Ai 工具指南-36氪",
+          "summary": "工欲善其事，必先利其器 是不是国产AI不在评选范围内？还是后续会出个国产AI工具指南？",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3623796784661760",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260418-003",
+          "title": "DeepAI",
+          "summary": "Whether you are a hobbyist, a professional artist, or a developer integrating AI into your product, DeepAI delivers advanced technology with new video",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/?lang=en",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-005",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-007",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "4 days ago · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with in",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-009",
+          "title": "What Is Artificial Intelligence? Definition, Uses,",
+          "summary": "Mar 14, 2026 · Artificial intelligence (AI) is the theory and development of computer systems capable of performing tasks that historically required h",
+          "source": "Coursera",
+          "sourceUrl": "https://www.coursera.org/articles/what-is-artificial-intelligence?msockid=3f1af8fbd531638c2b26efc4d49d6219",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260418-010",
+          "title": "MyBroadband Speed Test",
+          "summary": "Test your Internet connection bandwidth and latency to servers in Johannesburg, Cape Town and Durban on the MyBroadband Speed Test.",
+          "source": "Co",
+          "sourceUrl": "https://speedtest.mybroadband.co.za/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-18T08:00:05.838996+08:00",
+  "source": "OpenClaw"
+}
