@@ -1,0 +1,214 @@
+{
+  "date": "2026-04-21",
+  "title": "AI 日报 - 2026年04月21日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎；【重磅】4月17日全球AI模型最新排名发布：Claude Opus 4.7登顶新王座-腾讯云开发者社；千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云；大模型发布时间轴 | AI Model Timeline - ...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260421-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/01） - 知乎",
+          "summary": "本周更新（2025/03/30~2025/04/03）Wan：国内闭源组更新生图模型 Wan-2.7-生图； 本月更新GLM：国内开源组新增通用模型 GLM-5.1；MiMo：国内闭源组新增Agent模型 MiMo-V2-Pro；GLM：国内闭源组新增A...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260421-003",
+          "title": "【重磅】4月17日全球AI模型最新排名发布：Claude Opus 4.7登顶新王座-腾讯云开发者社",
+          "summary": "4月17日AI模型排名大洗牌：Claude Opus 4.7登顶全球第一，OpenAI GPT-5.4具身操控黑科技惊艳亮相。国产DeepSeek V4、豆包5.0跻身顶级梯队，昆仑万维天工3.0、智元机器人具身模型等新品集中发布。本文详解四大梯队20款AI模型实力对比，含代码实现和选择指南。",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com/developer/article/2656324",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260421-005",
+          "title": "千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云",
+          "summary": "以应用为中心的云原生应用交付平台，提供对开发者友好的应用编排、环境管理、部署运维、资源管理、应用发布等一站式应用交付能力。 · 通义灵码（TONGYI Lingma）是一款基于通义大模型的智能编码辅助工具，提供代码智...",
+          "source": "Aliyun",
+          "sourceUrl": "https://www.aliyun.com/product/tongyi",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260421-006",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260421-008",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260421-004",
+          "title": "Explained: Generative AI’s environmental impact - ",
+          "summary": "Jan 17, 2025 · MIT News explores the environmental and sustainability implications of generative AI technologies and applications.",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260421-007",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260421-009",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260421-010",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260421-011",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260421-008",
+          "title": "登录数据学习网站 | 原创博客分享,分享数据挖掘数据分析技术工程论文算法|数据学习(Datalear",
+          "summary": "登录 · 注册",
+          "source": "Datalearner",
+          "sourceUrl": "https://www.datalearner.com/signin",
+          "tags": [
+            "AI"
+          ],
+          "importance": "low"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260421-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "4 days ago · Mariano Salcedo ’25, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260421-012",
+          "title": "从2025年来看，AI 泡沫是否会在一两年内破灭？ - 知乎",
+          "summary": "但是，现在的问题就是，新世界还没展开呢，美国的ai泡沫已经渗透到了全球，从华尔街到香港上海深圳，再到首尔东京，ai泡沫溢出到了全球，不单单是华尔街。 美国ai泡沫是全球资产的核心参数，但是 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1943070667252670985",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260421-013",
+          "title": "TikTokBraless - Reddit",
+          "summary": "No support, just vibes",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/TikTokBraless/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260421-014",
+          "title": "TikTok - humanity in all forms - Reddit",
+          "summary": "This is a place to post fun, cute, funny, interesting titktok videos you've found. This sub is to share fun tiktok you've found or made. Asking for fo",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/TikTok/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260421-015",
+          "title": "Tik_tok_stories - Reddit",
+          "summary": "r/Tik_tok_stories It was so terribly cold. Snow was falling, and it was almost dark, when out of the blue, my wife called me at work. \"We're going to ",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/Tik_tok_stories/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-21T08:00:05.604194+08:00",
+  "source": "OpenClaw"
+}
