@@ -1,0 +1,236 @@
+{
+  "date": "2026-04-22",
+  "title": "AI 日报 - 2026年04月22日",
+  "summary": "今日 AI 动态：大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；Ai大模型，最近有这些新进展 - 今日头条；48小时连发5款大模型，2026年AI圈的卷法已经超出你想象；【重磅】4月17日全球AI模型最新排名发布：...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260422-002",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "本期速报聚焦两大模型更新：Kimi K2.6发布，在长周期编码和智能体集群能力上取得突破；同时，Qwen3.6-Max-Preview预览版发布，强化了智能体编码和世界知识。 此外，社区涌现了实用的成本优化技巧和AI教育实践。",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-004",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260422-006",
+          "title": "Ai大模型，最近有这些新进展 - 今日头条",
+          "summary": "近日全球科技公司\"你追我赶\"竞相发布了新版本人工智能（AI）大模型这些模型或具备更快速的回答能力或有更强的多模态能力或增强了推理与生成能力持续带来更加智能的使用体验并为各行各业注入新动能一起来回顾↓↓↓当地时间4月23日OpenAI发布了全",
+          "source": "Toutiao",
+          "sourceUrl": "https://www.toutiao.com/article/7496833734324142644/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-008",
+          "title": "48小时连发5款大模型，2026年AI圈的卷法已经超出你想象",
+          "summary": "2026年AI大模型竞争白热化，48小时内阿里、谷歌、微软、智谱AI相继发布5款重磅模型，包括Wan2.7-Image、Gemma4、GLM-5V-Turbo等。模型技术呈现三大趋势：MoE架构普及、端侧部署成熟、多模态成标配。文章深度解析各模型技术特点，提供选型建议和实战部署方案，助开发者把握AI",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com.cn/developer/article/2650738",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-010",
+          "title": "【重磅】4月17日全球AI模型最新排名发布：Claude Opus 4.7登顶新王座-腾讯云开发者社",
+          "summary": "4月17日AI模型排名大洗牌：Claude Opus 4.7登顶全球第一，OpenAI GPT-5.4具身操控黑科技惊艳亮相。国产DeepSeek V4、豆包5.0跻身顶级梯队，昆仑万维天工3.0、智元机器人具身模型等新品集中发布。本文详解四大梯队20款AI模型实力对比，含代码实现和选择指南。",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com/developer/article/2656324",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260422-013",
+          "title": "【Ai】2026年4月开源模型排行榜 - Csdn博客",
+          "summary": "总结 截至 2026 年 4 月 21 日，开源模型已在多个领域达到或超越闭源商业模型： 文字/编码：国产模型（Qwen、GLM、MiniMax、Kimi、DeepSeek）已占据开源榜单头部，与 Llama 4 形成双雄格局。 视频： HappyHorse 1.0 是历史上首个在 Artifici",
+          "source": "Csdn",
+          "sourceUrl": "https://blog.csdn.net/weixin_40970718/article/details/160376124",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-015",
+          "title": "2026 开源双雄对决：Kimi K2.6 vs GLM-5.1 · Lixx Blog",
+          "summary": "2026 年 4 月，Kimi K2.6 和 GLM-5.1 相继发布，都强调长周期编码和 Agent 能力，但路线截然不同。本文基于双方官方评测数据，从编码、推理、Agent、多模态、生态五个维度进行深度对比。",
+          "source": "Lixx",
+          "sourceUrl": "https://lixx.cn/posts/tech/kimik2.6-vs-glm5.1/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-017",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260422-003",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-005",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-009",
+          "title": "Explained: Generative AI | MIT News | Massachusett",
+          "summary": "Nov 9, 2023 · What do people mean when they say “generative AI,” and why are these systems finding their way into practically every application imagin",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2023/explained-generative-ai-1109",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260422-016",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-018",
+          "title": "目前有哪些主流的AI？ - 知乎",
+          "summary": "2、AI 办公类 ①Prezo： prezo.ai 一款AI辅助的演示工具，快速制作PPT ②天工AI搜索： search.tiangong.cn 一款AI搜索引擎，快速查找内容 ③酷表chatExcel： 通过聊天来操作Excel表格的AI …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/591009674",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260422-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "5 days ago · Mariano Salcedo ’25, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260422-007",
+          "title": "Responding to the climate impact of generative AI ",
+          "summary": "Sep 30, 2025 · MIT experts discuss strategies and innovations aimed at mitigating the amount of greenhouse gas emissions generated by the training, de",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/responding-to-generative-ai-climate-impact-0930",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260422-011",
+          "title": "Forum E-sudoku.fr",
+          "summary": "2012年11月21日 · Forum officiel du site e-sudoku.fr . Echangez vos meilleurs tactiques de Sudoku. Toutes les news du sudoku autour de chez vous et dans l",
+          "source": "E-Sudoku",
+          "sourceUrl": "http://forum.e-sudoku.fr/viewtopic.php?t=989",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-012",
+          "title": "Forum E-sudoku.fr",
+          "summary": "2025年1月6日 · Sudoku Lettres (grille 6 du tournoi du round 2 de l'archive GP2018 sur gp.worldpuzzle) 2. Surplus (Grille de la semaine sur clubsudoku) - ",
+          "source": "E-Sudoku",
+          "sourceUrl": "http://forum.e-sudoku.fr/viewtopic.php?t=998",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260422-014",
+          "title": "Forum E-sudoku.fr • Panneau de l’utilisateur",
+          "summary": "Forum officiel du site e-sudoku.fr . Echangez vos meilleurs tactiques de Sudoku. Toutes les news du sudoku autour de chez vous et dans le monde. Echan",
+          "source": "E-Sudoku",
+          "sourceUrl": "http://forum.e-sudoku.fr/ucp.php?mode=delete_cookies",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-22T08:00:05.105198+08:00",
+  "source": "OpenClaw"
+}
