@@ -1,0 +1,258 @@
+{
+  "date": "2026-04-23",
+  "title": "AI 日报 - 2026年04月23日",
+  "summary": "今日 AI 动态：OpenAI | OpenAI；ChatGPT；每日ai资讯 - 猫目；AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头；I’m starting something new inside OpenAI! | Kevin ...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260423-001",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-003",
+          "title": "ChatGPT",
+          "summary": "Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
+          "source": "Chatgpt",
+          "sourceUrl": "https://chatgpt.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-006",
+          "title": "每日ai资讯 - 猫目",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-008",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260423-011",
+          "title": "I’m starting something new inside OpenAI! | Kevin ",
+          "summary": "OpenAI’s products have been my life since I joined, and they’re in great hands. We’ll share more about OpenAI for Science in the coming months.",
+          "source": "Linkedin",
+          "sourceUrl": "https://www.linkedin.com/posts/kevinweil_im-starting-something-new-inside-openai-activity-7368704715615891456-cIG3/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260423-012",
+          "title": "如何看阿里最新开源的Qwen3.6 Flash（Qwen3.6-35B-A3B ...",
+          "summary": "6 天之前 · 另一个问题是： 开源的是35B，社区最想要的是27B。 从评论区的反应来看，大量用户期待的其实是 Qwen3.6-27B——一个稠密模型，适合微调，适合更精细的任务。 35B-A3B 虽然性价比高， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2028243224301454445",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-013",
+          "title": "Kimi K2.6 开源：一个人，和他的 300 Agents_腾讯新闻",
+          "summary": "Moonshot 也是月下，但在看完 Kimi 的最新发布后，觉得下半句有了Kimi 点兵，多多益善Kimi 今天发了 K2.6，开源在 HuggingFace：Kimi K2.6 发布并开源，全面 ...",
+          "source": "腾讯",
+          "sourceUrl": "https://news.qq.com/rain/a/20260421A000CY00",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-014",
+          "title": "除了微软 Office，还有哪些免费或开源的办公软件值得推荐？",
+          "summary": "2025年10月12日 · 1、开源办公软件虽然跟WPS一样，核心功能仍只对标Office 2003～2007的过渡阶段，但也一直保持更新以修正兼容性和功能上的小问题，因此，团队在使用时，务必统一部署、统一更 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1958491090140259365",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-015",
+          "title": "2026 开源双雄对决：Kimi K2.6 vs GLM-5.1 · Lixx Blog",
+          "summary": "2026 年 4 月，Kimi K2.6 和 GLM-5.1 相继发布，都强调长周期编码和 Agent 能力，但路线截然不同。本文基于双方官方评测数据，从编码、推理、Agent、多模态、生态五个维度进行深度对比。",
+          "source": "Lixx",
+          "sourceUrl": "https://lixx.cn/posts/tech/kimik2.6-vs-glm5.1/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-016",
+          "title": "开源（open source）是什么？为什么要开源？ - 知乎",
+          "summary": "开源算法的代码，在很大程度上降低了生态壁垒。 但是，目前大家基本上用的都是美国的Pytorch，TensorFlow或者Caffe。 非常希望大家也能多支持，多参与国产生态平台下的开源工作， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/343707546",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260423-002",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-004",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260423-010",
+          "title": "每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai",
+          "summary": "在 xix.ai 获取有关人工智能、机器学习、深度学习等领域的最新 AI 新闻、实时更新和专家见解。每天精心挑选，专为开发者、研究人员和科技爱好者呈现。",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/live",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-017",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-019",
+          "title": "2026年度最佳 Ai 工具指南-36氪",
+          "summary": "是不是国产AI不在评选范围内？还是后续会出个国产AI工具指南？",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3623796784661760",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260423-005",
+          "title": "DeepAI",
+          "summary": "Whether you are a hobbyist, a professional artist, or a developer integrating AI into your product, DeepAI delivers advanced technology with new video",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/?lang=en",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-007",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-009",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "1 day ago · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with int",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-018",
+          "title": "从2025年来看，AI 泡沫是否会在一两年内破灭？ - 知乎",
+          "summary": "但是，现在的问题就是，新世界还没展开呢，美国的ai泡沫已经渗透到了全球，从华尔街到香港上海深圳，再到首尔东京，ai泡沫溢出到了全球，不单单是华尔街。 美国ai泡沫是全球资产的核心参数，但是 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1943070667252670985",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260423-020",
+          "title": "TradingView — Track All Markets",
+          "summary": "Discover TradingView, a powerful platform for charting, trading, and connecting with a global community of traders and investors. Free to join.",
+          "source": "Tradingview",
+          "sourceUrl": "https://www.tradingview.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-23T08:00:05.536192+08:00",
+  "source": "OpenClaw"
+}
