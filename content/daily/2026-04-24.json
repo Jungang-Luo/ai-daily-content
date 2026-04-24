@@ -1,0 +1,259 @@
+{
+  "date": "2026-04-24",
+  "title": "AI 日报 - 2026年04月24日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/22） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；大模型最新进展；AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头；大黑ai速报...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260424-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/22） - 知乎",
+          "summary": "本周更新（2026/04/20~2026/04/24）：OpenAI：更新 GPT-Image 2的简介；Step：国内闭源组新增音频模型 StepAudio 2.5 TTS；Kimi：国内开源组更新通用模型 Kimi-K2.6，推理模型 Kimi-K2.6 thinking； 本月更新...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260424-005",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-006",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260424-008",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "本期速报聚焦两大模型更新：Kimi K2.6发布，在长周期编码和智能体集群能力上取得突破；同时，Qwen3.6-Max-Preview预览版发布，强化了智能体编码和世界知识。此外，社区涌现了实用的成本优化技巧和AI教育实践。",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260424-011",
+          "title": "【Ai】2026年4月开源模型排行榜 - Csdn博客",
+          "summary": "总结 截至 2026 年 4 月 21 日，开源模型已在多个领域达到或超越闭源商业模型： 文字/编码：国产模型（Qwen、GLM、MiniMax、Kimi、DeepSeek）已占据开源榜单头部，与 Llama 4 形成双雄格局。 视频： HappyHorse 1.0 是历史上首个在 Artifici",
+          "source": "Csdn",
+          "sourceUrl": "https://blog.csdn.net/weixin_40970718/article/details/160376124",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-014",
+          "title": "2026 开源双雄对决：Kimi K2.6 vs GLM-5.1 · Lixx Blog",
+          "summary": "2026 年 4 月，Kimi K2.6 和 GLM-5.1 相继发布，都强调长周期编码和 Agent 能力，但路线截然不同。本文基于双方官方评测数据，从编码、推理、Agent、多模态、生态五个维度进行深度对比。",
+          "source": "Lixx",
+          "sourceUrl": "https://lixx.cn/posts/tech/kimik2.6-vs-glm5.1/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-015",
+          "title": "Kimi K2.6 与 GLM 5.1、Qwen 3.6 Plus 及 MiniMax M2.7 .",
+          "summary": "在这份 2026 年开源编码模型深度解析中，我们将对比 Kimi K2.6、GLM 5.1、Qwen 3.6 Plus 和 MiniMax M2.7。通过探讨核心基准测试、真实开发应用场景、上下文限制、智能体稳定性以及 Atlas Cloud 定价，帮助你为后端开发、前端开发、机器学习工程以及长效运",
+          "source": "Atlascloud",
+          "sourceUrl": "https://www.atlascloud.ai/zh/blog/guides/kimi-k2-6-vs-glm-5-1-vs-qwen-3-6-plus-vs-minimax-m2-7-coding-2026",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-017",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260424-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-007",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-016",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-018",
+          "title": "2026年度最佳 Ai 工具指南-36氪",
+          "summary": "图像生成：Nano Banana 总的来说，目前最佳的 AI 图像生成工具是 Nano Banana（尤其是全新的 Pro 版本）。 理由如下： 它对提示词的理解非常到位。",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3623796784661760",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-019",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260424-008",
+          "title": "登录数据学习网站 | 原创博客分享,分享数据挖掘数据分析技术工程论文算法|数据学习(Datalear",
+          "summary": "登录 · 注册",
+          "source": "Datalearner",
+          "sourceUrl": "https://www.datalearner.com/signin",
+          "tags": [
+            "AI"
+          ],
+          "importance": "low"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260424-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "2 days ago · A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hal",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260424-009",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-010",
+          "title": "Operador de intersección implícita: @ - Soporte té",
+          "summary": "Si devuelve un rango o matriz, quitar el símbolo @ provocará un desbordamiento a las celdas adyacentes. Si quita una @ agregada automáticamente y post",
+          "source": "Microsoft",
+          "sourceUrl": "https://support.microsoft.com/es-es/office/operador-de-intersecci%C3%B3n-impl%C3%ADcita-ce3be07b-0101-4450-a24e-c1c999be2b34",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-012",
+          "title": "Cómo escribir el símbolo de potencia (^) con el te",
+          "summary": "En este artículo, te mostramos cómo insertar el símbolo de potencia (^) en Windows, Mac, Linux y dispositivos móviles, junto con sus usos en distintos",
+          "source": "Achotech",
+          "sourceUrl": "https://achotech.com/como-escribir-el-simbolo-de-potencia/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260424-013",
+          "title": "¿Qué Hace un Símbolo de Intercalación Significa en",
+          "summary": "El símbolo de intercalación (^) símbolo por lo general se presenta para la exponenciación en Microsoft Excel. La exponenciación es una operación matem",
+          "source": "Consejosytrucos",
+          "sourceUrl": "https://www.consejosytrucos.net/noticias-730262/que-hace-un-simbolo-de-intercalacion-significa-en-microsoft-excel/?Item=730262&Text=que-hace-un-simbolo-de-intercalacion-significa-en-microsoft-excel",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-24T08:00:05.468679+08:00",
+  "source": "OpenClaw"
+}
