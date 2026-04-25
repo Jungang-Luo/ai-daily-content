@@ -1,0 +1,259 @@
+{
+  "date": "2026-04-25",
+  "title": "AI 日报 - 2026年04月25日",
+  "summary": "今日 AI 动态：【重磅】4月17日全球AI模型最新排名发布：Claude Opus 4.7登顶新王座-腾讯云开发者社；2026年4月AI大爆发!8款重磅新品速递；每日AI资讯 - 猫目 - maomu.com；48小时连发5款大模型，2026年AI圈的卷法已经超出你想象；大模型发布时间轴 | AI Model Ti...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260425-002",
+          "title": "【重磅】4月17日全球AI模型最新排名发布：Claude Opus 4.7登顶新王座-腾讯云开发者社",
+          "summary": "4月17日AI模型排名大洗牌：Claude Opus 4.7登顶全球第一，OpenAI GPT-5.4具身操控黑科技惊艳亮相。国产DeepSeek V4、豆包5.0跻身顶级梯队，昆仑万维天工3.0、智元机器人具身模型等新品集中发布。本文详解四大梯队20款AI模型实力对比，含代码实现和选择指南。",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com/developer/article/2656324",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260425-004",
+          "title": "2026年4月AI大爆发!8款重磅新品速递",
+          "summary": "🔥 AI圈4月大事件来了!阿里、字节、谷歌、华为齐发力，新产品密集发布 **📅 4月10日重量级发布** 🎬 **阿里云视频大模型「欢乐马」** 支持120秒长视频生成，中文视频创作再升级 🎤 **字节豆包全双工语音AI** 自然交互体验全面升级，对话更流畅 💰 **微信支付AI接入工具箱** 一键",
+          "source": "Aiproducthub",
+          "sourceUrl": "https://aiproducthub.cn/wpnote/2026-april-ai-products-roundup/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260425-006",
+          "title": "每日AI资讯 - 猫目 - maomu.com",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-008",
+          "title": "48小时连发5款大模型，2026年AI圈的卷法已经超出你想象",
+          "summary": "2026年AI大模型竞争白热化，48小时内阿里、谷歌、微软、智谱AI相继发布5款重磅模型，包括Wan2.7-Image、Gemma4、GLM-5V-Turbo等。模型技术呈现三大趋势：MoE架构普及、端侧部署成熟、多模态成标配。文章深度解析各模型技术特点，提供选型建议和实战部署方案，助开发者把握AI",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com.cn/developer/article/2650738",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-010",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260425-013",
+          "title": "DeepSeek-V4 预览：百万级上下文与智能体升级 - Atlas ...",
+          "summary": "DeepSeek-V4 预览版发布：支持 100 万 token 上下文、智能体升级及开源权重 今日（4 月 24 日），DeepSeek 正式发布并开源了其全新模型系列 DeepSeek-V4 的预览版本。",
+          "source": "Atlascloud",
+          "sourceUrl": "https://www.atlascloud.ai/zh/blog/ai-updates/deepseek-v4-preview-launch",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-014",
+          "title": "DeepSeek-V4终于发布，开源再次比肩世界顶级闭源模型",
+          "summary": "终于发布了! 4月24日，中国深度求索公司正式上线全新系列模型DeepSeek-V4预览版，并同步开源。 该系列模型以百万字超长上下文为核心亮点，在Agent能力、世界知识和推理性能三大维度，均实现国内与开源领域的领先。 双版本同步更新满足不同场景",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/economy/2026_04_24_814797.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260425-017",
+          "title": "2026 开源双雄对决：Kimi K2.6 vs GLM-5.1 · Lixx Blog",
+          "summary": "2026 年 4 月，Kimi K2.6 和 GLM-5.1 相继发布，都强调长周期编码和 Agent 能力，但路线截然不同。本文基于双方官方评测数据，从编码、推理、Agent、多模态、生态五个维度进行深度对比。",
+          "source": "Lixx",
+          "sourceUrl": "https://lixx.cn/posts/tech/kimik2.6-vs-glm5.1/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260425-003",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-005",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-018",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-019",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "爱诗科技闪电发布周 Day 2 PixVerse推出三项更新：快应用、团队版与CLI工具。 快应用首批上线\"广告大师\"，支持商品图一键生成广告视频；团队版支持2-100人协作，提供共享积分池、四级权限及独立空间；CLI工具让开发者通过命令行调用视频生成能力 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260425-020",
+          "title": "‎App Instagram - App Store",
+          "summary": "Descarga Instagram de Instagram, Inc. en App Store. Mira capturas de pantalla, valoraciones y reseñas, consejos de usuarios y más apps como Instagram.",
+          "source": "Apple",
+          "sourceUrl": "https://apps.apple.com/es/app/instagram/id389801252",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260425-009",
+          "title": "Introducing the MIT Generative AI Impact Consortiu",
+          "summary": "Feb 3, 2025 · The MIT Generative AI Impact Consortium is a collaboration between MIT, founding member companies, and researchers across disciplines wh",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/introducing-mit-generative-ai-impact-consortium-0203",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-016",
+          "title": "Accounting Software Options for Farmers - Farm Man",
+          "summary": "When it is time to move beyond spreadsheets and paper records, accounting software options are endless. The MSU Extension article Choosing the Right A",
+          "source": "Msu",
+          "sourceUrl": "https://www.canr.msu.edu/resources/accounting-software-options-for-farmers",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260425-001",
+          "title": "Massachusetts Institute of Technology - MIT News",
+          "summary": "3 days ago · A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hal",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260425-007",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-011",
+          "title": "6 Best Farm Accounting Software Options - Fit Smal",
+          "summary": "We reviewed the best farm accounting software, such as Farmbooks, EasyFarm, and Quickbooks Online, to help you find which fits your needs.",
+          "source": "Fitsmallbusiness",
+          "sourceUrl": "https://fitsmallbusiness.com/best-farm-accounting-software/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-012",
+          "title": "Farm Accounting Software Built for Farmers | Tract",
+          "summary": "Get true farm financial clarity. Traction Ag’s farm accounting software tracks income, expenses, payroll, and inventory—all in one easy-to-use platfor",
+          "source": "Tractionag",
+          "sourceUrl": "https://www.tractionag.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260425-015",
+          "title": "Best Farm Accounting Software of 2024 - NerdWallet",
+          "summary": "Our top picks for farm accounting software include FarmRaise, Farm Biz, FarmBooks and Traction. Xero and QuickBooks also offer strong farm accounting ",
+          "source": "Nerdwallet",
+          "sourceUrl": "https://www.nerdwallet.com/business/software/best/farm-accounting-software",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-25T08:00:05.035670+08:00",
+  "source": "OpenClaw"
+}
