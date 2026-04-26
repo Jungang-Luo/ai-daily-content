@@ -1,0 +1,270 @@
+{
+  "date": "2026-04-26",
+  "title": "AI 日报 - 2026年04月26日",
+  "summary": "今日 AI 动态：每日ai资讯 - 猫目；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术；DeepSeek-V4发布引轰动，外媒感叹：中国AI实力飞速增长；OpenAI；Google認輸？砸400億美元押注Anthropic AI「三強爭霸」終結、OpenAI孤立無援？...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260426-002",
+          "title": "每日ai资讯 - 猫目",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-004",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260426-006",
+          "title": "DeepSeek-V4发布引轰动，外媒感叹：中国AI实力飞速增长",
+          "summary": "4月24日，深度求索正式发布全新系列人工智能（AI）大模型DeepSeek-V4的预览版本并同步开源。根据深度求索发布的技术报告，DeepSeek-V4拥有百万字超长上下文，在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/internation/2026_04_24_814855.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260426-010",
+          "title": "OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-011",
+          "title": "Google認輸？砸400億美元押注Anthropic AI「三強爭霸」終結、OpenAI孤立無援？",
+          "summary": "Google 宣布最高投資 Anthropic 400 億美元，並提供 5GW 算力，顯示 AI 競爭重心從模型性能轉向算力與生態。隨亞馬遜、微軟、輝達相繼布局，產業格局正由「御三家」轉向 Anthropic 對決 OpenAI 的兩強競爭。",
+          "source": "Yahoo",
+          "sourceUrl": "https://hk.finance.yahoo.com/news/google%E8%AA%8D%E8%BC%B8-%E7%A0%B8400%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%BC%E6%B3%A8anthropic-ai-%E4%B8%89%E5%BC%B7%E7%88%AD%E9%9C%B8-%E7%B5%82%E7%B5%90-110005989.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260426-012",
+          "title": "终于来了!DeepSeekV4预览版本正式发布：Agent、世界 ...",
+          "summary": "4月24日，澎湃新闻记者获悉，外界关注的全新系列模型DeepSeek-V4的预览版本正式上线并同步开源。 DeepSeek-V4拥有百万字超长上下文，在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。 模型按大小分为两个版本：",
+          "source": "澎湃新闻",
+          "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_33042587",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260426-013",
+          "title": "开源（open source）是什么？为什么要开源？ - 知乎",
+          "summary": "开源算法的代码，在很大程度上降低了生态壁垒。 但是，目前大家基本上用的都是美国的Pytorch，TensorFlow或者Caffe。 非常希望大家也能多支持，多参与国产生态平台下的开源工作， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/343707546",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-014",
+          "title": "【Ai】2026年4月开源模型排行榜 - Csdn博客",
+          "summary": "总结 截至 2026 年 4 月 21 日，开源模型已在多个领域达到或超越闭源商业模型： 文字/编码：国产模型（Qwen、GLM、MiniMax、Kimi、DeepSeek）已占据开源榜单头部，与 Llama 4 形成双雄格局。 视频： HappyHorse 1.0 是历史上首个在 Artifici",
+          "source": "Csdn",
+          "sourceUrl": "https://blog.csdn.net/weixin_40970718/article/details/160376124",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-015",
+          "title": "开源（open source）是什么？为什么要开源？",
+          "summary": "2021年11月3日 · 为此，开源项目应当形成一个强大的技术核心，这个技术核心对怀有梦想追求的开发者产生引力，形成开源社区并支持参与者在其中的各个部分创造自己的价值。 每个人都从别人乃至自 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/tardis/bd/ans/2204771631",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-016",
+          "title": "2026 开源双雄对决：Kimi K2.6 vs GLM-5.1 · Lixx Blog",
+          "summary": "2026 年 4 月，Kimi K2.6 和 GLM-5.1 相继发布，都强调长周期编码和 Agent 能力，但路线截然不同。本文基于双方官方评测数据，从编码、推理、Agent、多模态、生态五个维度进行深度对比。",
+          "source": "Lixx",
+          "sourceUrl": "https://lixx.cn/posts/tech/kimik2.6-vs-glm5.1/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260426-003",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-005",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-008",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-017",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-018",
+          "title": "人工智能 - 知乎",
+          "summary": "人工智能（Artificial Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。人工智能是计算机科学的一个分支，它企图了解智 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/topic/19551275",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260426-009",
+          "title": "Introducing the MIT Generative AI Impact Consortiu",
+          "summary": "Feb 3, 2025 · The MIT Generative AI Impact Consortium is a collaboration between MIT, founding member companies, and researchers across disciplines wh",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/introducing-mit-generative-ai-impact-consortium-0203",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260426-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "2 days ago · Mariano Salcedo ’25, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260426-007",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-019",
+          "title": "从2025年来看，AI 泡沫是否会在一两年内破灭？ - 知乎",
+          "summary": "但是，现在的问题就是，新世界还没展开呢，美国的ai泡沫已经渗透到了全球，从华尔街到香港上海深圳，再到首尔东京，ai泡沫溢出到了全球，不单单是华尔街。 美国ai泡沫是全球资产的核心参数，但是 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1943070667252670985",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-020",
+          "title": "抖音95152怎么转人工服务 - 百度知道",
+          "summary": "2025年7月9日 · 抖音95152怎么转人工服务以下是拨打抖音客服电话95152转人工服务的详细步骤及注意事项，综合最新信息整理：转人工服务步骤拨打号码用手机拨通抖音官方客服热线 95152，注意需在 …",
+          "source": "Baidu",
+          "sourceUrl": "https://zhidao.baidu.com/question/932015438498846739.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260426-021",
+          "title": "人工念什么 - 百度知道",
+          "summary": "2013年12月16日 · 人工是一个汉语词汇，拼音是rén gōng。语出晋 陶潜 《饮酒》诗之十五：“贫居乏人工，灌木荒余宅。” 基本释义： 1. [man-made]∶泛指人造的;人为的 例如：人工湖 2. [artificial]∶人力,手工 …",
+          "source": "Baidu",
+          "sourceUrl": "https://zhidao.baidu.com/question/1988076915285086027.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-26T08:00:05.147868+08:00",
+  "source": "OpenClaw"
+}
