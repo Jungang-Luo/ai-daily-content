@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-27",
+  "title": "AI 日报 - 2026年04月27日",
+  "summary": "今日 AI 动态：ChatGPT；每日ai资讯 - 猫目；OpenAI | OpenAI；Ai新闻资讯 - 最新人工智能技术动态与热点资讯 | Ai铺子；Google Gemini...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260427-001",
+          "title": "ChatGPT",
+          "summary": "Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
+          "source": "Chatgpt",
+          "sourceUrl": "https://chatgpt.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-002",
+          "title": "每日ai资讯 - 猫目",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-003",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-004",
+          "title": "Ai新闻资讯 - 最新人工智能技术动态与热点资讯 | Ai铺子",
+          "summary": "AI铺子每日追踪ChatGPT、Gemini等大模型最新动态，深度解读AI技术突破、企业应用案例及行业政策变化，5分钟掌握AI领域关键进展!",
+          "source": "Aipuzi",
+          "sourceUrl": "https://www.aipuzi.cn/ai-news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-005",
+          "title": "Google Gemini",
+          "summary": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+          "source": "Google",
+          "sourceUrl": "https://gemini.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260427-012",
+          "title": "【Ai】2026年4月开源模型排行榜 - Csdn博客",
+          "summary": "根据截至 2026 年 4 月 21 日 的最新公开信息，以下是市面上已开源模型的分类排名。排名主要依据权威基准测试分数（如 SWE-Bench、Elo 评分、LMSYS 盲测等）、社区活跃度及工程化落地能力。",
+          "source": "Csdn",
+          "sourceUrl": "https://blog.csdn.net/weixin_40970718/article/details/160376124",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-013",
+          "title": "DeepSeek V4终于发布，打破最强闭源垄断，明确携手华为芯片",
+          "summary": "Agent能力比肩Opus 4.6，百万上下文成标配 刚刚，DeepSeek-V4来了! 预览版正式上线并同步开源。 一共两个版本： DeepSeek-V4-Pro：对标顶级闭源模型，1.6T ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3780290045121801",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260427-006",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260427-014",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-015",
+          "title": "2026年度最佳 Ai 工具指南-36氪",
+          "summary": "图像生成：Nano Banana 总的来说，目前最佳的 AI 图像生成工具是 Nano Banana（尤其是全新的 Pro 版本）。 理由如下： 它对提示词的理解非常到位。",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3623796784661760",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-016",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-017",
+          "title": "2026年4月ai产品爆发 这10款新工具你一定要知道",
+          "summary": "豆包全双工语音AI 字节跳动这个真的牛 全双工意味着可以像真人一样自然对话 不再是一问一答的机械感 打断 插话都行 语音交互体验全面升级 微信支付AI工具箱 开发者福音 一键打通AI应用支付闭环 接入微信支付so easy 做AI产品的同学可以省好多开发时间",
+          "source": "Aiproducthub",
+          "sourceUrl": "https://aiproducthub.cn/wpnote/ai-products-april-2026/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260427-007",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-008",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "3 days ago · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with in",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-009",
+          "title": "AliExpress - Compra online de Electrónica, Moda, C",
+          "summary": "Dar rienda suelta a lo que te apasiona no debería costarte una fortuna. En AliExpress puedes escoger entre más de 111 millones de ofertas de calidad e",
+          "source": "Aliexpress",
+          "sourceUrl": "https://es.aliexpress.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-010",
+          "title": "Aliexpress español-AliExpress",
+          "summary": "Descubre qué es AliExpress España y cómo acceder a la plataforma en español, con opciones de idioma, moneda y soporte adaptados a usuarios hispanohabl",
+          "source": "Aliexpress",
+          "sourceUrl": "https://es.aliexpress.com/w/wholesale-aliexpress-espa%C3%B1ol.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260427-011",
+          "title": "Aliexpress.español-AliExpress",
+          "summary": "AliExpress España Se refiere a la presencia de AliExpress en el mercado español, incluyendo opciones de envío desde España y productos populares en la",
+          "source": "Aliexpress",
+          "sourceUrl": "https://es.aliexpress.com/w/wholesale-aliexpress.espa%C3%B1ol.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-27T08:00:05.347940+08:00",
+  "source": "OpenClaw"
+}
