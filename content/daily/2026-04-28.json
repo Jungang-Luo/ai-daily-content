@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-28",
+  "title": "AI 日报 - 2026年04月28日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/24） - 知乎；AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头；DeepSeek-V4发布引轰动，外媒感叹：中国AI实力飞速增长；大模型 – 量子位；近百万字素材秒级处理 国产开源大模型...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260428-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/24） - 知乎",
+          "summary": "2025年2月发布的全模态视...本相比，Omni模型更侧重多模态元素一致性控制深度融合。 · 可灵视频 3.0：可灵 AI - 新一代 AI 创意生产力平台...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260428-003",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260428-005",
+          "title": "DeepSeek-V4发布引轰动，外媒感叹：中国AI实力飞速增长",
+          "summary": "4月24日，深度求索正式发布全新系列人工智能（AI）大模型DeepSeek-V4的预览版本并同步开源。根据深度求索发布的技术报告，DeepSeek-V4拥有百万字超长上下文，在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/internation/2026_04_24_814855.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260428-007",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260428-008",
+          "title": "近百万字素材秒级处理 国产开源大模型再升级_新闻频道_央视网 (cctv.com)",
+          "summary": "近日，国产自主研发的人工智能大模型DeepSeek正式发布全新V4系列版本，在百万级超长上下文处理、全球实时知识储备、复杂逻辑推理等核心技术维度实现跨越式升级。这款国产开源大模型的实际性能表现如何？总台记者进行了实测。 DeepSeek-V4系列大模型发布",
+          "source": "Cctv",
+          "sourceUrl": "https://news.cctv.com/2026/04/27/ARTIzmXAVqppgIMSZs2mMHjh260427.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260428-013",
+          "title": "【Ai】2026年4月开源模型排行榜 - Csdn博客",
+          "summary": "总结 截至 2026 年 4 月 21 日，开源模型已在多个领域达到或超越闭源商业模型： 文字/编码：国产模型（Qwen、GLM、MiniMax、Kimi、DeepSeek）已占据开源榜单头部，与 Llama 4 形成双雄格局。 视频： HappyHorse 1.0 是历史上首个在 Artifici",
+          "source": "Csdn",
+          "sourceUrl": "https://blog.csdn.net/weixin_40970718/article/details/160376124",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260428-004",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260428-006",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260428-014",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260428-015",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260428-016",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "爱诗科技闪电发布周 Day 2 PixVerse推出三项更新：快应用、团队版与CLI工具。 快应用首批上线\"广告大师\"，支持商品图一键生成广告视频；团队版支持2-100人协作，提供共享积分池、四级权限及独立空间；CLI工具让开发者通过命令行调用视频生成能力 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260428-005",
+          "title": "登录数据学习网站 | 原创博客分享,分享数据挖掘数据分析技术工程论文算法|数据学习(Datalear",
+          "summary": "登录 · 注册",
+          "source": "Datalearner",
+          "sourceUrl": "https://www.datalearner.com/signin",
+          "tags": [
+            "AI"
+          ],
+          "importance": "low"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260428-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "4 days ago · Mariano Salcedo ’25, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260428-009",
+          "title": "Teaching AI models to say “I’m not sure” - MIT New",
+          "summary": "5 days ago · MIT CSAIL&#039;s “Reinforcement Learning with Calibration Rewards” technique improves AI confidence estimates without sacrificing perform",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260428-010",
+          "title": "Reddit - Dive into anything",
+          "summary": "Reddit is a network of communities where people can dive into their interests, hobbies and passions. There's a community for whatever you're intereste",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260428-011",
+          "title": "Amazon.com",
+          "summary": "Manage your Amazon account settings, orders, payments, and preferences for a personalized shopping experience.",
+          "source": "Amazon",
+          "sourceUrl": "https://www.amazon.com/your-account",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260428-012",
+          "title": "Amazon.com",
+          "summary": "Access and manage your Amazon account, including orders, membership settings, and payment options.",
+          "source": "Amazon",
+          "sourceUrl": "https://www.amazon.com/gp/css/your-account-access",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-28T08:00:05.551964+08:00",
+  "source": "OpenClaw"
+}
