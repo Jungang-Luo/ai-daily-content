@@ -1,0 +1,237 @@
+{
+  "date": "2026-04-29",
+  "title": "AI 日报 - 2026年04月29日",
+  "summary": "今日 AI 动态：AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头；Policy: Generative AI (e.g., ChatGPT) is banned；每日ai资讯 - 猫目；DeepSeek-V4发布引轰动，外媒感叹：中国AI实力飞速增长；近百万字素材...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260429-002",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260429-003",
+          "title": "Policy: Generative AI (e.g., ChatGPT) is banned",
+          "summary": "Dec 5, 2022 · All use of generative AI (e.g., ChatGPT 1 and other LLMs) is banned when posting content on Stack Overflow. This includes \"asking\" the q",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://meta.stackoverflow.com/questions/421831/policy-generative-ai-e-g-chatgpt-is-banned",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-004",
+          "title": "每日ai资讯 - 猫目",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-006",
+          "title": "DeepSeek-V4发布引轰动，外媒感叹：中国AI实力飞速增长",
+          "summary": "4月24日，深度求索正式发布全新系列人工智能（AI）大模型DeepSeek-V4的预览版本并同步开源。根据深度求索发布的技术报告，DeepSeek-V4拥有百万字超长上下文，在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/internation/2026_04_24_814855.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260429-008",
+          "title": "近百万字素材秒级处理 国产开源大模型再升级_新闻频道_央视网 (cctv.com)",
+          "summary": "近日，国产自主研发的人工智能大模型DeepSeek正式发布全新V4系列版本，在百万级超长上下文处理、全球实时知识储备、复杂逻辑推理等核心技术维度实现跨越式升级。这款国产开源大模型的实际性能表现如何？总台记者进行了实测。 DeepSeek-V4系列大模型发布",
+          "source": "Cctv",
+          "sourceUrl": "https://news.cctv.com/2026/04/27/ARTIzmXAVqppgIMSZs2mMHjh260427.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260429-013",
+          "title": "【Ai】2026年4月开源模型排行榜 - Csdn博客",
+          "summary": "总结 截至 2026 年 4 月 21 日，开源模型已在多个领域达到或超越闭源商业模型： 文字/编码：国产模型（Qwen、GLM、MiniMax、Kimi、DeepSeek）已占据开源榜单头部，与 Llama 4 形成双雄格局。 视频： HappyHorse 1.0 是历史上首个在 Artifici",
+          "source": "Csdn",
+          "sourceUrl": "https://blog.csdn.net/weixin_40970718/article/details/160376124",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-018",
+          "title": "2026年4月21日 Ai前沿资讯速览 - Csdn博客",
+          "summary": "📌 二、开源项目与开发者工具 1. OpenClaw突破35万Star：AI Agent 进入\"操作系统\"时代 核心事实：OpenClaw（GitHub星标35.4万）成为开源AI史上增长最快的项目，支持操作浏览器、编辑文档、跨平台执行任务，全程本地运行，数据永不上传。其核心特点是可代替用户执行任务",
+          "source": "Csdn",
+          "sourceUrl": "https://blog.csdn.net/internetear/article/details/160373289",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260429-010",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-014",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-015",
+          "title": "AI资讯速递 - 2026-04-23 - yumingwen - 博客园",
+          "summary": "重要意义： 这一产品解决了自生成AI热潮以来一直困扰受监管行业的问题：如何访问前沿AI模型而不必放弃数据控制权。 产品预计6-7月正式推出，将为企业AI部署带来新的安全范式。 Meta升级脸书群组搜索架构，社区知识发现效率大幅提升",
+          "source": "Cnblogs",
+          "sourceUrl": "https://www.cnblogs.com/yumingwen/p/19912767",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-016",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-017",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "爱诗科技闪电发布周 Day 2 PixVerse推出三项更新：快应用、团队版与CLI工具。 快应用首批上线\"广告大师\"，支持商品图一键生成广告视频；团队版支持2-100人协作，提供共享积分池、四级权限及独立空间；CLI工具让开发者通过命令行调用视频生成能力 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260429-001",
+          "title": "Aligning AI with human values - MIT News",
+          "summary": "Feb 4, 2025 · MIT senior Audrey Lorvo&#039;s research into AI safety aims to reduce risks associated with artificial intelligence, its implementation,",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/audrey-lorvo-aligning-ai-human-values-0204",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260429-005",
+          "title": "French Proficiency Test and Personalised StudyPlan",
+          "summary": "Test your French proficiency against the CEFR standard at Kwiziq French. Improve your French level with corrections, explanations, personalised recomm",
+          "source": "Kwiziq",
+          "sourceUrl": "https://french.kwiziq.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-007",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "2 days ago · A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hal",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260429-009",
+          "title": "How Do I Disable AI Code Suggestions in PyCharm?",
+          "summary": "Jan 16, 2024 · The AI completion functionality might come from several providers, including but not limited to paid AI Assistant and free bundled Full",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/questions/77826188/how-do-i-disable-ai-code-suggestions-in-pycharm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-011",
+          "title": "Où se trouve dossier temporaire [Résolu] - Forum W",
+          "summary": "Afficher la suite Moi aussi Posez votre question Partager A voir également: Où trouver les fichiers temporaires ? Fichier temporaire - Meilleures répo",
+          "source": "Commentcamarche",
+          "sourceUrl": "https://forums.commentcamarche.net/forum/affich-1549534-ou-se-trouve-dossier-temporaire",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260429-012",
+          "title": "Vérifiez la variable d'environnement TEMP - Commen",
+          "summary": "Vérifiez la variable d'environnement TEMP \" je clique sur OK 2- Le cadre de Word s'installe à l'écran puis, de nouveau, la même fenêtre , avec le même",
+          "source": "Commentcamarche",
+          "sourceUrl": "https://forums.commentcamarche.net/forum/affich-3790286-verifiez-la-variable-d-environnement-temp",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-29T08:00:06.542604+08:00",
+  "source": "OpenClaw"
+}
