@@ -1,0 +1,237 @@
+{
+  "date": "2026-04-30",
+  "title": "AI 日报 - 2026年04月30日",
+  "summary": "今日 AI 动态：每日AI资讯、热点、动态、融资、产品发布 | AI工具集；新浪AI热点小时报丨2026年04月29日07时_今日实时AI热点速递|AI Agent|AI智能|；国内外知名大模型及应用——模型/应用维度（2026/04/24） - 知乎；Ai新闻资讯 - 最新人工智能技术动态与热点资讯 | Ai铺子；...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260430-001",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "阶跃星辰正式推出新一代图像生成编辑模型 Step Image Edit 2。模型仅3.5B参数，在实际表现中超越12B-20B级开源图像编辑大模型，单次生图只需0.5-2秒，在KRIS-Bench榜单轻量级图像编辑模型综...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260430-002",
+          "title": "新浪AI热点小时报丨2026年04月29日07时_今日实时AI热点速递|AI Agent|AI智能|",
+          "summary": "据多家媒体报道，人工智能巨头OpenAI正式发布最新图像生成模型ChatGPT Images 2.0。这是一款能够处理复杂的视觉任务，并生成精准、立即可用的视觉效果的先进模型。不同于早期AI生成图...",
+          "source": "新浪",
+          "sourceUrl": "https://k.sina.com.cn/article_7857201856_1d45362c001904ug5e.html?from=tech",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-004",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/24） - 知乎",
+          "summary": "2025年2月发布的全模态视...本相比，Omni模型更侧重多模态元素一致性控制深度融合。 · 可灵视频 3.0：可灵 AI - 新一代 AI 创意生产力平台...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-005",
+          "title": "Ai新闻资讯 - 最新人工智能技术动态与热点资讯 | Ai铺子",
+          "summary": "AI铺子每日追踪ChatGPT、Gemini等大模型最新动态，深度解读AI技术突破、企业应用案例及行业政策变化，5分钟掌握AI领域关键进展!",
+          "source": "Aipuzi",
+          "sourceUrl": "https://www.aipuzi.cn/ai-news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-008",
+          "title": "必应ai日报 | 每日ai前沿资讯与大模型技术动态",
+          "summary": "必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260430-012",
+          "title": "【Ai】2026年4月开源模型排行榜 - Csdn博客",
+          "summary": "总结 截至 2026 年 4 月 21 日，开源模型已在多个领域达到或超越闭源商业模型： 文字/编码：国产模型（Qwen、GLM、MiniMax、Kimi、DeepSeek）已占据开源榜单头部，与 Llama 4 形成双雄格局。 视频： HappyHorse 1.0 是历史上首个在 Artifici",
+          "source": "Csdn",
+          "sourceUrl": "https://blog.csdn.net/weixin_40970718/article/details/160376124",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260430-006",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-007",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-009",
+          "title": "MIT researchers introduce generative AI for databa",
+          "summary": "Jul 8, 2024 · Researchers from MIT and elsewhere developed an easy-to-use tool that enables someone to perform complicated statistical analyses on tab",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2024/mit-researchers-introduce-generative-ai-databases-0708",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-015",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-016",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260430-017",
+          "title": "多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样 ...",
+          "summary": "2025年3月17日 · 多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样？ 如何检测论文 AI 率？ 检测结果准确吗？ 近日，西南大学、中国人民大学纷纷发布关于本科毕业论文（设计）检测的最新规 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/15169887147",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-008",
+          "title": "登录数据学习网站 | 原创博客分享,分享数据挖掘数据分析技术工程论文算法|数据学习(Datalear",
+          "summary": "登录 · 注册",
+          "source": "Datalearner",
+          "sourceUrl": "https://www.datalearner.com/signin",
+          "tags": [
+            "AI"
+          ],
+          "importance": "low"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260430-003",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "1 day ago · A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hall",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260430-010",
+          "title": "Vectoriser fichier CANVA - Forum Illustrator - Com",
+          "summary": "On me demande de vectoriser sur adobe Illustrator (en pdf) un fichier realisé sur CANVA. Sous quel format dois-je télécharger mon fichier sur CANVA (p",
+          "source": "Commentcamarche",
+          "sourceUrl": "https://forums.commentcamarche.net/forum/affich-37817010-vectoriser-fichier-canva",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-011",
+          "title": "Hướng Dẫn Cách Tạo Bảng Trong Canva Một Cách Nhanh",
+          "summary": "Canva là công cụ thiết kế đồ họa phổ biến, giúp người dùng dễ dàng tạo ra các bảng thời khóa biểu, bảng công việc hay bảng dữ liệu mà không cần kiến t",
+          "source": "Tinhte",
+          "sourceUrl": "https://tinhte.vn/thread/huong-dan-cach-tao-bang-trong-canva-mot-cach-nhanh-chong.3917461/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-013",
+          "title": "Importer un document Canva sur Libre Office",
+          "summary": "Bonjour. Canva n'est pas à proprement parler un outil de bureautique, mais bien un outil de design. Tu dois étudier le mode d'emploi de Canva ou reche",
+          "source": "Commentcamarche",
+          "sourceUrl": "https://forums.commentcamarche.net/forum/affich-38116326-importer-un-document-canva-sur-libre-office",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260430-014",
+          "title": "Dich vu tạo ảnh Al yêu thích nhất: Canva - Tinhte.",
+          "summary": "Canva, một nền tảng thiết kế đồ họa trực tuyến, đã tích hợp các công cụ trí tuệ nhân tạo (AI) để hỗ trợ người dùng tạo hình ảnh một cách nhanh chóng v",
+          "source": "Tinhte",
+          "sourceUrl": "https://tinhte.vn/thread/dich-vu-tao-anh-al-yeu-thich-nhat-canva.3903994/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-30T08:00:08.781883+08:00",
+  "source": "OpenClaw"
+}
