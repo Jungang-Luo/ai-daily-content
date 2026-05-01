@@ -1,0 +1,259 @@
+{
+  "date": "2026-05-01",
+  "title": "AI 日报 - 2026年05月01日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/24） - 知乎；大模型 – 量子位；AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头；大模型最新进展；AI大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260501-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/24） - 知乎",
+          "summary": "025年2月发布的全模态视...本相比，Omni模型更侧重多模态元素一致性控制深度融合。 · 可灵视频 3.0：可灵 AI - 新一代 AI 创意生产力平台...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-005",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-006",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260501-008",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-010",
+          "title": "AI大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎",
+          "summary": "核心更新： GLM-4.6模型发布与开源：正式发布并开源新一代大模型GLM-4.6，在Agentic Coding等核心能力上实现大幅跃升 代码能力国内领先：在公开基准与真实编程任务中，GLM-4.6的代码能力已对齐Claude Sonnet 4，超过DeepSeek-V3.2-Exp，成为国内最强",
+          "source": "Volcengine",
+          "sourceUrl": "https://developer.volcengine.com/articles/7577300596110295078",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260501-011",
+          "title": "开源（open source）是什么？为什么要开源？ - 知乎",
+          "summary": "开源算法的代码，在很大程度上降低了生态壁垒。 但是，目前大家基本上用的都是美国的Pytorch，TensorFlow或者Caffe。 非常希望大家也能多支持，多参与国产生态平台下的开源工作， …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/343707546",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-012",
+          "title": "如何看阿里最新开源的Qwen3.6 Flash（Qwen3.6-35B-A3B ...",
+          "summary": "2026年4月16日 · Qwen3.6-35B-A3B 综合评测得分 这次开源的核心亮点： Agentic Coding 能力大幅提升：前端工作流和仓库级代码推理，明显上了一个台阶 Thinking Preservation（思维保留）：全新特 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/2028243224301454445",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-013",
+          "title": "开源（open source）是什么？为什么要开源？",
+          "summary": "2021年11月3日 · 为此，开源项目应当形成一个强大的技术核心，这个技术核心对怀有梦想追求的开发者产生引力，形成开源社区并支持参与者在其中的各个部分创造自己的价值。 每个人都从别人乃至自 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/tardis/bd/ans/2204771631",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-014",
+          "title": "有哪些开源的源码网站？ - 知乎",
+          "summary": "2020年11月26日 · 介绍：SegmentFault 思否是中国领先的新一代开发者社区和专业的技术媒体。我们为中文开发者提供纯粹、高质的技术交流平台以及最前沿的技术行业动态，帮助更多的开发者获得认知 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/321941064",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260501-003",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-004",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-007",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-018",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-019",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "爱诗科技闪电发布周 Day 2 PixVerse推出三项更新：快应用、团队版与CLI工具。 快应用首批上线\"广告大师\"，支持商品图一键生成广告视频；团队版支持2-100人协作，提供共享积分池、四级权限及独立空间；CLI工具让开发者通过命令行调用视频生成能力，接入 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260501-020",
+          "title": "多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样 ...",
+          "summary": "2025年3月17日 · 多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样？ 如何检测论文 AI 率？ 检测结果准确吗？ 近日，西南大学、中国人民大学纷纷发布关于本科毕业论文（设计）检测的最新规 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/15169887147",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260501-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "4 days ago · A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hal",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260501-009",
+          "title": "欢迎阅览 2026 年 4 月 29 日《全球 Ai 资讯早报》。今日 Ai 行业呈现出\"政策与市场",
+          "summary": "📌 今日速览 国家级定调： 中央政治局会议明确全面实施\"人工智能+\"行动，AI 战略升级为国家核心增长引擎。 DeepSeek 效应： DeepSeek-V4 发布即适配国产芯片， 寒武纪 、 摩尔线程 等国产算力龙头集体进入盈利爆发期。 地缘新博弈： Meta 因中方监管原因撤回对 AI 独角兽 ",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2032753019381663730",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-015",
+          "title": "知乎 - 有问题，就会有答案",
+          "summary": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-016",
+          "title": "Adobe Illustrator (AI)如何倾斜文字-百度经验",
+          "summary": "编辑于2020-09-12，内容仅供参考并受版权保护",
+          "source": "Baidu",
+          "sourceUrl": "https://jingyan.baidu.com/article/5bbb5a1b45df2c52eaa17941.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260501-017",
+          "title": "知乎知学堂 - 知乎",
+          "summary": "这个赛道主要是通过抖音发视频，然后 视频里的内容就是从小说复制粘贴出来的，通过匹配AI生成的视频或者群里提供的视频素材组合成短视频发布，就可以带货小说。 我刚开始做的时候，450块就急…",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/education/learning",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-01T08:00:05.520631+08:00",
+  "source": "OpenClaw"
+}
