@@ -1,0 +1,226 @@
+{
+  "date": "2026-05-02",
+  "title": "AI 日报 - 2026年05月02日",
+  "summary": "今日 AI 动态：大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；必应ai日报 | 每日ai前沿资讯与大模型技术动态；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术；AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260502-001",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260502-005",
+          "title": "必应ai日报 | 每日ai前沿资讯与大模型技术动态",
+          "summary": "必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260502-007",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260502-009",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260502-010",
+          "title": "Policy: Generative AI (e.g., ChatGPT) is banned",
+          "summary": "Dec 5, 2022 · All use of generative AI (e.g., ChatGPT 1 and other LLMs) is banned when posting content on Stack Overflow. This includes \"asking\" the q",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://meta.stackoverflow.com/questions/421831/policy-generative-ai-e-g-chatgpt-is-banned",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260502-012",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260502-003",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260502-008",
+          "title": "Explained: Generative AI | MIT News | Massachusett",
+          "summary": "Nov 9, 2023 · What do people mean when they say “generative AI,” and why are these systems finding their way into practically every application imagin",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2023/explained-generative-ai-1109",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260502-011",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260502-013",
+          "title": "人工智能 - 知乎",
+          "summary": "人工智能（Artificial Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。人工智能是计算机科学的一个分支，它企图了解智 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/topic/19551275",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260502-014",
+          "title": "人工智能那么火~如今AI的应用场景都有哪些？ - 知乎",
+          "summary": "在这个典型场景中，AI算法部署在云端，而站点通过5G接入网络，进而能获得灵活的AI算力支持。 可以说，5G通信是AI算力得以灵活覆盖到各站点的媒介，设备不需要具备强大算力，只需要加装基础的 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/282715644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260502-002",
+          "title": "Aligning AI with human values - MIT News",
+          "summary": "Feb 4, 2025 · MIT senior Audrey Lorvo&#039;s research into AI safety aims to reduce risks associated with artificial intelligence, its implementation,",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/audrey-lorvo-aligning-ai-human-values-0204",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260502-004",
+          "title": "How Do I Disable AI Code Suggestions in PyCharm?",
+          "summary": "Jan 16, 2024 · The AI completion functionality might come from several providers, including but not limited to paid AI Assistant and free bundled Full",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/questions/77826188/how-do-i-disable-ai-code-suggestions-in-pycharm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260502-006",
+          "title": "Learn French Faster with our AI language coach",
+          "summary": "Test your French proficiency against the CEFR standard at Kwiziq French. Improve your French level with corrections, explanations, personalised recomm",
+          "source": "Kwiziq",
+          "sourceUrl": "https://french.kwiziq.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260502-015",
+          "title": "Full stop - Wikipedia",
+          "summary": "The full stop (Commonwealth English), period (North American English), or full point (.), is a punctuation mark used for several purposes, most often ",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.m.wikipedia.org/wiki/Full_stop",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260502-016",
+          "title": "What is full stop punctuation and how to use it. -",
+          "summary": "A full stop, or a period, is a punctuation mark. Learn about its meaning and origin and check out some examples of how to use it.",
+          "source": "Adobe",
+          "sourceUrl": "https://www.adobe.com/acrobat/resources/full-stop-punctuation.html?msockid=2415565472366cd11a4b411973086dd9",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260502-017",
+          "title": "FULL STOP Definition & Meaning - Merriam-Webster",
+          "summary": "The meaning of FULL STOP is a point . used to show the end of a sentence or an abbreviation : period —used interjectionally to emphasize the finality ",
+          "source": "Merriam-Webster",
+          "sourceUrl": "https://www.merriam-webster.com/dictionary/full%20stop",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-02T08:00:05.983033+08:00",
+  "source": "OpenClaw"
+}
