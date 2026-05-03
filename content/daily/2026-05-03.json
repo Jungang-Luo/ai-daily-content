@@ -1,0 +1,237 @@
+{
+  "date": "2026-05-03",
+  "title": "AI 日报 - 2026年05月03日",
+  "summary": "今日 AI 动态：大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术；必应ai日报 | 每日ai前...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260503-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260503-004",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260503-006",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260503-008",
+          "title": "必应ai日报 | 每日ai前沿资讯与大模型技术动态",
+          "summary": "必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260503-010",
+          "title": "Ai大模型最新动态研究报告（2025年11月报） - 文章 - 开发者社区 - 火山引擎",
+          "summary": "核心更新： GLM-4.6模型发布与开源：正式发布并开源新一代大模型GLM-4.6，在Agentic Coding等核心能力上实现大幅跃升 代码能力国内领先：在公开基准与真实编程任务中，GLM-4.6的代码能力已对齐Claude Sonnet 4，超过DeepSeek-V3.2-Exp，成为国内最强",
+          "source": "Volcengine",
+          "sourceUrl": "https://developer.volcengine.com/articles/7577300596110295078",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260503-014",
+          "title": "终于来了!DeepSeekV4预览版本正式发布：Agent、世界 ...",
+          "summary": "4月24日，澎湃新闻记者获悉，外界关注的全新系列模型DeepSeek-V4的预览版本正式上线并同步开源。 DeepSeek-V4拥有百万字超长上下文，在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。 模型按大小分为两个版本：",
+          "source": "澎湃新闻",
+          "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_33042587",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260503-015",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260503-003",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260503-005",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260503-007",
+          "title": "Explained: Generative AI | MIT News | Massachusett",
+          "summary": "Nov 9, 2023 · What do people mean when they say “generative AI,” and why are these systems finding their way into practically every application imagin",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2023/explained-generative-ai-1109",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260503-016",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260503-017",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "爱诗科技闪电发布周 Day 2 PixVerse推出三项更新：快应用、团队版与CLI工具。 快应用首批上线\"广告大师\"，支持商品图一键生成广告视频；团队版支持2-100人协作，提供共享积分池、四级权限及独立空间；CLI工具让开发者通过命令行调用视频生成能力，接入 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260503-018",
+          "title": "多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样 ...",
+          "summary": "2025年3月17日 · 多所高校毕业论文将检测 AI 率，论文的「AI 味」到底啥样？ 如何检测论文 AI 率？ 检测结果准确吗？ 近日，西南大学、中国人民大学纷纷发布关于本科毕业论文（设计）检测的最新规 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/15169887147",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260503-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "2 days ago · A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hal",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260503-009",
+          "title": "Improving AI models’ ability to explain their pred",
+          "summary": "Mar 9, 2026 · A new technique transforms any computer vision model into one that can explain its predictions using a set of concepts a human could und",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260503-011",
+          "title": "Men's trail running shoes - Brooks Running",
+          "summary": "Find the best trail running shoes for men at Brooks Running. Popular shoes like the Cascadia & Caldera provide traction & stability on rough terrain.",
+          "source": "Brooksrunning",
+          "sourceUrl": "https://www.brooksrunning.com/en_us/mens/shoes/trail-shoes/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260503-012",
+          "title": "3 Best Brooks Trail Running Shoes in 2025 - RunRep",
+          "summary": "The 3 best Brooks trail running shoes based on extensive wear and lab testing. We award the best overall, best lightweight and best shock absorption.",
+          "source": "Runrepeat",
+          "sourceUrl": "https://runrepeat.com/guides/best-brooks-trail-running-shoes",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260503-013",
+          "title": "Brooks Trail-Running Shoes - REI Co-op",
+          "summary": "Regular, Wide Compare Top Rated Brooks Ghost Trail-Running Shoes - Men's $150.00 (126) 126 reviews with an average rating of 4.5 out of 5 stars Heel t",
+          "source": "Rei",
+          "sourceUrl": "https://www.rei.com/b/brooks/c/trail-running-shoes",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-03T08:00:05.520238+08:00",
+  "source": "OpenClaw"
+}
