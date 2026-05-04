@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-04",
+  "title": "AI 日报 - 2026年05月04日",
+  "summary": "今日 AI 动态：国内外知名大模型及应用——模型/应用维度（2026/04/24） - 知乎；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；必应ai日报 | 每日ai前沿资讯与大模型技术动态；大模型 – 量子位；AI大模型周报：腾讯阿里同日发布世界模型，字节Seedan...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260504-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/24） - 知乎",
+          "summary": "2025年2月发布的全模态视...本相比，Omni模型更侧重多模态元素一致性控制深度融合。 · 可灵视频 3.0：可灵 AI - 新一代 AI 创意生产力平台...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260504-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260504-005",
+          "title": "必应ai日报 | 每日ai前沿资讯与大模型技术动态",
+          "summary": "必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260504-007",
+          "title": "大模型 – 量子位",
+          "summary": "中美AI竞争 大模型 模型混战 · 联创跑了并不耽误xAI发新模型 · 衡宇 2026-02-18 · Grok 大模型 马斯克 · 另有顶级offer附赠 · 鹭羽 2026-02-05 · 大模型 盛大 长期记忆 · 迎接大模型应用爆发，给每个用户配赛博秘书 ·",
+          "source": "量子位",
+          "sourceUrl": "https://www.qbitai.com/tag/%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260504-008",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260504-014",
+          "title": "终于来了!DeepSeekV4预览版本正式发布：Agent、世界 ...",
+          "summary": "4月24日，澎湃新闻记者获悉，外界关注的全新系列模型DeepSeek-V4的预览版本正式上线并同步开源。 DeepSeek-V4拥有百万字超长上下文，在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先。 模型按大小分为两个版本：",
+          "source": "澎湃新闻",
+          "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_33042587",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260504-004",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260504-006",
+          "title": "Explained: Generative AI | MIT News | Massachusett",
+          "summary": "Nov 9, 2023 · What do people mean when they say “generative AI,” and why are these systems finding their way into practically every application imagin",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2023/explained-generative-ai-1109",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260504-009",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260504-011",
+          "title": "OEMTOOLS Translucent No Spill Coolant Filling Funn",
+          "summary": "The coolant funnel kit is an effective and useful tool for bleeding and refilling a vehicle's coolant system. Reviewers praised its ability to easily ",
+          "source": "Autozone",
+          "sourceUrl": "https://www.autozone.com/p/oemtools-coolant-funnel-kit-87007/802197",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260504-015",
+          "title": "No-Spill Radiator Funnel Kit - Harbor Freight Tool",
+          "summary": "Five versatile radiator adapters and caps fit most cars, pickups, trucks, and tractors. The set includes a straight extension and two 45° elbows for a",
+          "source": "Harborfreight",
+          "sourceUrl": "https://www.harborfreight.com/no-spill-radiator-funnel-kit-58423.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260504-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "3 days ago · A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hal",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260504-010",
+          "title": "Amazon.com: Spill Free Funnel",
+          "summary": "Maintain your vehicle's cooling system with confidence using our spill-proof coolant funnels. Prevent leaks and enjoy a clean, controlled refill.",
+          "source": "Amazon",
+          "sourceUrl": "https://www.amazon.com/spill-free-funnel/s?k=spill+free+funnel",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260504-012",
+          "title": "Lisle Translucent Metal, Plastic Spill-Free Funnel",
+          "summary": "Find the right Lisle Translucent Metal, Plastic Spill-Free Funnel for your vehicle at O'Reilly Auto Parts. Place your order online and pick it up at y",
+          "source": "Oreillyauto",
+          "sourceUrl": "https://www.oreillyauto.com/detail/c/lisle/lisle-translucent-plastic-metal-spill-free-funnel/lis0/24780",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260504-013",
+          "title": "24780 Spill-Free Funnel, 18 pc. | Lisle Corporatio",
+          "summary": "The funnel eliminates squeaky belts caused by coolant overflow and protects the environment. Five different colored radiator adapters and six caps to ",
+          "source": "Lislecorp",
+          "sourceUrl": "https://www.lislecorp.com/specialty-tools/24780-spill-free-funnel-18-pc",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260504-016",
+          "title": "Facebook - log in or sign up",
+          "summary": "Log into Facebook to start sharing and connecting with your friends, family, and people you know.",
+          "source": "Facebook",
+          "sourceUrl": "https://secure.facebook.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-04T08:00:05.215657+08:00",
+  "source": "OpenClaw"
+}
