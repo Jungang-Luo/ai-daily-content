@@ -1,0 +1,225 @@
+{
+  "date": "2026-05-05",
+  "title": "AI 日报 - 2026年05月05日",
+  "summary": "今日 AI 动态：大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；必应ai日报 | 每日ai前沿资讯与大模型技术动态；AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头；氪星晚报丨11家ai大模型产品今日起将陆续上线，腾讯...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260505-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260505-004",
+          "title": "必应ai日报 | 每日ai前沿资讯与大模型技术动态",
+          "summary": "必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260505-006",
+          "title": "AI大模型周报：腾讯阿里同日发布世界模型，字节Seedance 2.0 API全面开放，云服务三巨头",
+          "summary": "9.总结 过去一周的AI大模型行业，世界模型成为最热门的赛道，腾讯和阿里在同一天发布新品，将竞争维度从二维图像推向三维空间。 字节跳动的Seedance 2.0 API全面开放，将视频生成能力推向商业化落地。",
+          "source": "网易",
+          "sourceUrl": "https://www.163.com/dy/article/KQNTQ3CQ05118I96.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260505-008",
+          "title": "氪星晚报丨11家ai大模型产品今日起将陆续上线，腾讯华为讯飞等也将开放；苹果据称正引入3d打印技术，",
+          "summary": "万科郁亮：预计今年全国商品住宅新开工面积将回到2006年水平；AI操控无人机能力超越人类冠军 从多位独立信源处获悉，国内将有11家大模型陆续 ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/2411817040897025",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260505-010",
+          "title": "Ai大模型，最近有这些新进展 - 今日头条",
+          "summary": "近日全球科技公司\"你追我赶\"竞相发布了新版本人工智能（AI）大模型这些模型或具备更快速的回答能力或有更强的多模态能力或增强了推理与生成能力持续带来更加智能的使用体验并为各行各业注入新动能一起来回顾↓↓↓当地时间4月23日OpenAI发布了全",
+          "source": "Toutiao",
+          "sourceUrl": "https://www.toutiao.com/article/7496833734324142644/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260505-013",
+          "title": "DeepSeek-V4终于发布，开源再次比肩世界顶级闭源模型",
+          "summary": "终于发布了! 4月24日，中国深度求索公司正式上线全新系列模型DeepSeek-V4预览版，并同步开源。 该系列模型以百万字超长上下文为核心亮点，在Agent能力、世界知识和推理性能三大维度，均实现国内与开源领域的领先。 双版本同步更新满足不同场景",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/economy/2026_04_24_814797.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260505-016",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260505-003",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260505-005",
+          "title": "Explained: Generative AI | MIT News | Massachusett",
+          "summary": "Nov 9, 2023 · What do people mean when they say “generative AI,” and why are these systems finding their way into practically every application imagin",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2023/explained-generative-ai-1109",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260505-009",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260505-015",
+          "title": "如何彻底禁用搜狗输入法的旺仔AI？ - 知乎",
+          "summary": "2025年8月6日 · 如何彻底禁用搜狗输入法的旺仔AI？ 首先，国内的产品经理都是敌特-通过弹窗这类方式对用户主权的侵犯指挥导致用户对这个产品愤怒 并且通常这类产品还会阻止用户禁用弹窗 现在的情 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/1903860201389548284",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260505-017",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "爱诗科技闪电发布周 Day 2 PixVerse推出三项更新：快应用、团队版与CLI工具。 快应用首批上线\"广告大师\"，支持商品图一键生成广告视频；团队版支持2-100人协作，提供共享积分池、四级权限及独立空间；CLI工具让开发者通过命令行调用视频生成能力，接入 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260505-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "4 days ago · A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hal",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260505-007",
+          "title": "Teaching AI models to say “I’m not sure” - MIT New",
+          "summary": "Apr 22, 2026 · MIT CSAIL&#039;s “Reinforcement Learning with Calibration Rewards” technique improves AI confidence estimates without sacrificing perfo",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260505-011",
+          "title": "Símbolo de almohadilla (#) - Todo Signos",
+          "summary": "El símbolo de almohadilla (#), también conocido como numeral, hash, gato o cuadradillo, es uno de los signos más versátiles y ampliamente utilizados e",
+          "source": "Todosignos",
+          "sourceUrl": "https://todosignos.com/simbolo-de-almohadilla/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260505-012",
+          "title": "Hashtag - Wikipedia, la enciclopedia libre",
+          "summary": "Un hashtag (pronunciado [xaʃtaɣ]; también traducido como etiqueta, 1 2 almohadilla, gato o numeral) es una palabra clave clicable. Técnicamente, es un",
+          "source": "Wikipedia",
+          "sourceUrl": "https://es.wikipedia.org/wiki/Hashtag",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260505-014",
+          "title": "Cómo escribir el símbolo numeral (#) o almohadilla",
+          "summary": "El símbolo #, conocido como numeral, almohadilla o incluso gato, es más habitual de lo que parece. Lo encontramos en redes sociales para crear hashtag",
+          "source": "Achotech",
+          "sourceUrl": "https://achotech.com/como-escribir-el-simbolo-numeral-o-almohadilla-o-hashtag/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-05T08:00:08.004725+08:00",
+  "source": "OpenClaw"
+}
