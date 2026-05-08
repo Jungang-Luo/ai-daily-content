@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-08",
+  "title": "AI 日报 - 2026年05月08日",
+  "summary": "今日 AI 动态：2026年最新AI大模型全景解析：性能迭代与场景落地新突破；阿里集中发布七款大模型 与英伟达在Physical AI领域达成合作_财新网_财新网；OpenAI - Reddit；谷歌跪了？400亿砸向死敌，AI御三家终结，OpenAI孤立无援-36氪；Name and shame: OpenAI :...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260508-002",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260508-008",
+          "title": "阿里集中发布七款大模型 与英伟达在Physical AI领域达成合作_财新网_财新网",
+          "summary": "9月24日，阿里云智能CTO（首席技术官）周靖人在2025云栖大会上，发布了多项技术进展，包括7款大模型产品更新，覆盖语言、语音、视觉、多模态、代码等模型领域，以及大模型应用开发平台阿里云百炼和阿里云AI基础设施升级。",
+          "source": "Caixin",
+          "sourceUrl": "https://www.caixin.com/2025-09-24/102365840.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260508-009",
+          "title": "OpenAI - Reddit",
+          "summary": "OpenAI is an AI research and deployment company. OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity. We are a",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/OpenAI/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260508-010",
+          "title": "谷歌跪了？400亿砸向死敌，AI御三家终结，OpenAI孤立无援-36氪",
+          "summary": "谷歌豪掷400亿美元加注Anthropic，自家Gemini正面对垒的「敌人」。当Claude年化收入一年暴涨30倍冲到300亿，当算力成为AI下半场唯一硬通货，与其用Gemini ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3784243425565953",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260508-011",
+          "title": "Name and shame: OpenAI : r/cscareerquestions - Red",
+          "summary": "Aug 20, 2023 · 4-8 hour unpaid take home assignment, creating a solution using the openAI APIs amongst other methods, then writing a paper of what met",
+          "source": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/cscareerquestions/comments/15wf2w9/name_and_shame_openai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260508-014",
+          "title": "DeepSeek-V4终于发布，开源再次比肩世界顶级闭源模型",
+          "summary": "终于发布了! 4月24日，中国深度求索公司正式上线全新系列模型DeepSeek-V4预览版，并同步开源。 该系列模型以百万字超长上下文为核心亮点，在Agent能力、世界知识和推理性能三大维度，均实现国内与开源领域的领先。 双版本同步更新满足不同场景",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/economy/2026_04_24_814797.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260508-003",
+          "title": "Explained: Generative AI | MIT News | Massachusett",
+          "summary": "Nov 9, 2023 · What do people mean when they say “generative AI,” and why are these systems finding their way into practically every application imagin",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2023/explained-generative-ai-1109",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260508-004",
+          "title": "AI最新资讯_人工智能新闻头条_AI行业动态 | AIBase",
+          "summary": "提供全球AI最新资讯、人工智能新闻头条、大语言模型动态。涵盖机器学习、深度学习、AGI等前沿科技，每日更新AI行业趋势分析。一站式获取权威AI资讯平台。",
+          "source": "Aibase",
+          "sourceUrl": "https://news.aibase.com/zh/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260508-005",
+          "title": "AI tool generates high-quality images faster than ",
+          "summary": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than stat",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260508-006",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260508-007",
+          "title": "AI Assist - Stack Overflow",
+          "summary": "stackoverflow.ai is an AI-powered search and discovery tool designed to modernize the Stack Overflow experience by helping developers get answers inst",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/ai-assist",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260508-001",
+          "title": "Artificial intelligence | MIT News | Massachusetts",
+          "summary": "1 day ago · A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hall",
+          "source": "MIT",
+          "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260508-012",
+          "title": "Outlook",
+          "summary": "Outlook ... Outlook",
+          "source": "Outlook",
+          "sourceUrl": "https://outlook.com/welearn365.com",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260508-013",
+          "title": "Outlook",
+          "summary": "Manage your newsletters and subscriptions efficiently with Outlook.",
+          "source": "Outlook",
+          "sourceUrl": "https://www.outlook.com/newsletters",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260508-015",
+          "title": "Outlook",
+          "summary": "Access your calendar and manage events seamlessly with Outlook.",
+          "source": "Outlook",
+          "sourceUrl": "https://outlook.com/owa/services.fnal.govowa/calendar/PPDQuarium@fnal.gov/Calendar/calendar.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260508-016",
+          "title": "AI日报 - 每天三分钟关注AI行业趋势_AIbase",
+          "summary": "AI日报为您提供最新的人工智能行业资讯，每天仅需三分钟，全面掌握AI技术发展、行业动态和市场趋势。关注AI日报，紧跟未来科技步伐，获取独家分析与深度解读。",
+          "source": "Aibase",
+          "sourceUrl": "https://www.aibase.com/zh/daily",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-08T08:00:06.449556+08:00",
+  "source": "OpenClaw"
+}
