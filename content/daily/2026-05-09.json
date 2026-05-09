@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-09",
+  "title": "AI 日报 - 2026年05月09日",
+  "summary": "今日 AI 动态：ChatGPT；2026年最新AI大模型全景解析：性能迭代与场景落地新突破；OpenAI | OpenAI；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260509-001",
+          "title": "ChatGPT",
+          "summary": "ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
+          "source": "Chatgpt",
+          "sourceUrl": "https://chatgpt.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260509-002",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260509-003",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260509-006",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260509-008",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260509-013",
+          "title": "DeepSeek-V4终于发布，开源再次比肩世界顶级闭源模型",
+          "summary": "终于发布了! 4月24日，中国深度求索公司正式上线全新系列模型DeepSeek-V4预览版，并同步开源。 该系列模型以百万字超长上下文为核心亮点，在Agent能力、世界知识和推理性能三大维度，均实现国内与开源领域的领先。 双版本同步更新满足不同场景",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/economy/2026_04_24_814797.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260509-015",
+          "title": "DeepSeek V4终于发布，打破最强闭源垄断，明确携手华为芯片",
+          "summary": "Agent能力比肩Opus 4.6，百万上下文成标配 刚刚，DeepSeek-V4来了! 预览版正式上线并同步开源。 一共两个版本： DeepSeek-V4-Pro：对标顶级闭源模型，1.6T ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3780290045121801",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260509-018",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260509-004",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260509-007",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "2 days ago · Artificial intelligence (AI) is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with ",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260509-010",
+          "title": "每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai",
+          "summary": "在 xix.ai 获取有关人工智能、机器学习、深度学习等领域的最新 AI 新闻、实时更新和专家见解。每天精心挑选，专为开发者、研究人员和科技爱好者呈现。",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/live",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260509-011",
+          "title": "Fazer o download do Google Tradutor e usá-lo",
+          "summary": "Com o app Google Tradutor, é possível traduzir texto, escrita à mão, fotos e fala em mais de 200 idiomas. Você também pode usar o Tradutor na web. É p",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/translate/answer/6350850?hl=pt-BR&co=GENIE.Platform%3DDesktop",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260509-014",
+          "title": "Traduzir palavras escritas - Computador - Ajuda do",
+          "summary": "Traduzir palavras escritas Você pode usar o app Google Tradutor para traduzir palavras ou frases escritas. Também é possível usar esse serviço em um n",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/translate/answer/6142478?hl=pt-PT&co=GENIE.Platform%3DDesktop",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260509-005",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.m.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260509-009",
+          "title": "What is Artificial Intelligence (AI)? | Google Clo",
+          "summary": "Artificial intelligence (AI) is a set of technologies that empowers computers to learn, reason, and perform a variety of advanced tasks in ways that u",
+          "source": "Google",
+          "sourceUrl": "https://cloud.google.com/learn/what-is-artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260509-012",
+          "title": "Ajuda do Google Translate",
+          "summary": "Central de Ajuda oficial do Google Translate, onde você pode encontrar dicas e tutoriais sobre como usar o produto e outras respostas a perguntas freq",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/translate/?hl=pt-BR",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260509-016",
+          "title": "Google Translate Ajuda",
+          "summary": "Como podemos ajudá-lo? Pesquisar tópicos da ajuda Começar a utilizar o Google Tradutor Transfira e utilize o Google Tradutor Transferir idiomas para u",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/translate/?hl=pt",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260509-017",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "2 天之前 · Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-09T08:00:05.131117+08:00",
+  "source": "OpenClaw"
+}
