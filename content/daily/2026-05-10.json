@@ -1,0 +1,248 @@
+{
+  "date": "2026-05-10",
+  "title": "AI 日报 - 2026年05月10日",
+  "summary": "今日 AI 动态：2026年最新AI大模型全景解析：性能迭代与场景落地新突破；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；今日AI热点炸屏！4大重磅动态齐发，行业迎来关键变革_模型_Qwen_ …；国内外知名大模型及应用——模型/应用维度（2026/04/24） - ...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260510-001",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260510-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260510-003",
+          "title": "今日AI热点炸屏！4大重磅动态齐发，行业迎来关键变革_模型_Qwen_ …",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260510-005",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/04/24） - 知乎",
+          "summary": "2025年2月发布的全模态视...本相比，Omni模型更侧重多模态元素一致性控制深度融合。 · 可灵视频 3.0：可灵 AI - 新一代 AI 创意生产力平台...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260510-006",
+          "title": "氪星晚报丨11家ai大模型产品今日起将陆续上线，腾讯华为讯飞等也将开放；苹果据称正引入3d打印技术，",
+          "summary": "万科郁亮：预计今年全国商品住宅新开工面积将回到2006年水平；AI操控无人机能力超越人类冠军 从多位独立信源处获悉，国内将有11家大模型陆续 ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/2411817040897025",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260510-007",
+          "title": "DeepSeek-V4终于发布，开源再次比肩世界顶级闭源模型",
+          "summary": "终于发布了！ 4月24日，中国深度求索公司正式上线全新系列模型DeepSeek-V4预览版，并同步开源。 该系列模型以百万字超长上下文为核心亮点，在Agent能力、世界知识和推理性能三大维度，均实现 …",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/economy/2026_04_24_814797.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260510-008",
+          "title": "DeepSeek V4终于发布，打破最强闭源垄断，明确携手华为芯片",
+          "summary": "2026年4月24日 · Agent能力比肩Opus 4.6，百万上下文成标配 刚刚，DeepSeek-V4来了！ 预览版正式上线并同步开源。 一共两个版本： DeepSeek-V4-Pro：对标顶级闭源模型，1.6T ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3780290045121801",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260510-011",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "2 天之前 · 每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260510-004",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260510-009",
+          "title": "大黑AI速报 - 每4小时更新的AI行业快讯｜AI日报",
+          "summary": "1 天前 · 大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260510-010",
+          "title": "AI资讯 | 实时追踪人工智能行业最新动态与热点快讯 - AIHub",
+          "summary": "2026年4月14日 · AIHub AI资讯板块每日更新，聚焦人工智能行业最新新闻、产品发布、研究进展与趋势解读，为开发者、研究者、媒体与AI爱好者提供专业、及时的内容导航，助力掌握AI前沿趋势。",
+          "source": "Aihub",
+          "sourceUrl": "https://www.aihub.cn/en/news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260510-012",
+          "title": "该更新了!2026年产品经理必备的10款ai工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260510-013",
+          "title": "最新 AI 新闻与更新 & 精选信息 - xix.ai",
+          "summary": "1 天前 · 每天获取最新 AI 新闻、突破和行业分析。您获取最新人工智能更新和技术趋势的必备来源。",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/ainews/ainews",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260510-007",
+          "title": "登录数据学习网站 | 原创博客分享,分享数据挖掘数据分析技术工程论文算法|数据学习(Datalear",
+          "summary": "登录 · 注册",
+          "source": "Datalearner",
+          "sourceUrl": "https://www.datalearner.com/signin",
+          "tags": [
+            "AI"
+          ],
+          "importance": "low"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260510-014",
+          "title": "Trusted Banking for 175 Years | Comerica",
+          "summary": "Your partner for personal finance, business banking, and wealth management with a legacy of excellence and industry recognition.",
+          "source": "Comerica",
+          "sourceUrl": "https://www.comerica.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260510-015",
+          "title": "Comerica - Wikipedia",
+          "summary": "Comerica Incorporated is an American financial services company, headquartered in Dallas, Texas. It is the parent of Comerica Bank, a regional commerc",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Comerica",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260510-016",
+          "title": "Login to your account - Personal Finance and Busin",
+          "summary": "Welcome to Comerica Web Banking. Login to your account with user id and password then select your destination.",
+          "source": "Comerica",
+          "sourceUrl": "https://webbanking.comerica.com/Comerica/Login.aspx",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260510-017",
+          "title": "Fifth Third to lay off hundreds at former Comerica",
+          "summary": "1 日前 · Fifth Third Bank plans to permanently lay off 502 employees at its Farmington Hills office, the former Comerica Bank campus it gained in a merg",
+          "source": "Detroitnews",
+          "sourceUrl": "https://www.detroitnews.com/story/business/2026/05/08/fifth-third-to-lay-off-502-workers-at-former-comerica-campus-following-merger/89998064007/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260510-018",
+          "title": "Fifth Third CEO on Comerica integration: So far, s",
+          "summary": "2026年4月17日 · Fifth Third CEO Tim Spence said folding in Comerica has gone to plan so far, but the biggest point of risk is still on the horizon.",
+          "source": "Americanbanker",
+          "sourceUrl": "https://www.americanbanker.com/news/fifth-third-ceo-on-comerica-integration-so-far-so-good",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-10T08:00:04.934995+08:00",
+  "source": "OpenClaw"
+}
