@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-13",
+  "title": "AI 日报 - 2026年05月13日",
+  "summary": "今日 AI 动态：OpenAI | OpenAI；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；每日ai资讯、热点、动态、融资、产品发布 | Ai工具集；Ai大模型最新资讯 ｜ 2025年9月第...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260513-001",
+          "title": "OpenAI | OpenAI",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260513-002",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260513-004",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260513-006",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "2026移动云大会在苏州召开，中国移动围绕\"算力新动能、智能新空间\"为主题，设8大分论坛及8000㎡展区，吸引超10万人次观展。 中国移动发布三大首创：桌面级AI办公智能体MobileClaw、大模型聚合平台MoMA、支持电话交互的移动AI云电脑，和AI-eSIM卡及万亿级Token服务体验包，布局",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260513-008",
+          "title": "Ai大模型最新资讯 ｜ 2025年9月第1周 - 知乎",
+          "summary": "一、 市场动态 阿里通义在企业级大模型市场占比第一[1] 2025年上半年中国企业级大模型日均总消耗量为10.2万亿Tokens。阿里通义占比17.7%，成为中国企业选择最多的大模型。 商汤\"日日新\"大模型在文本与音视频融合…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1947392667626473463",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260513-010",
+          "title": "DeepSeek-V4终于发布，开源再次比肩世界顶级闭源模型",
+          "summary": "终于发布了! 4月24日，中国深度求索公司正式上线全新系列模型DeepSeek-V4预览版，并同步开源。 该系列模型以百万字超长上下文为核心亮点，在Agent能力、世界知识和推理性能三大维度，均实现国内与开源领域的领先。 双版本同步更新满足不同场景",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/economy/2026_04_24_814797.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260513-011",
+          "title": "DeepSeek V4终于发布，打破最强闭源垄断，明确携手华为芯片",
+          "summary": "2026年4月24日 · Agent能力比肩Opus 4.6，百万上下文成标配 刚刚，DeepSeek-V4来了！ 预览版正式上线并同步开源。 一共两个版本： DeepSeek-V4-Pro：对标顶级闭源模型，1.6T ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3780290045121801",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260513-012",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "1 天前 · 每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260513-013",
+          "title": "大黑AI速报 - 每4小时更新的AI行业快讯｜AI日报",
+          "summary": "1 天前 · 大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260513-014",
+          "title": "最新 AI 新闻与更新 & 精选信息 - xix.ai",
+          "summary": "1 天前 · 每天获取最新 AI 新闻、突破和行业分析。您获取最新人工智能更新和技术趋势的必备来源。 XIX.AI 的AI工具目录包含 25181 个AI工具 和 487 个工具分类。今日已更新 16 个AI工具",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/ainews/ainews",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260513-015",
+          "title": "该更新了！2026年产品经理必备的10款AI工具 - 知乎",
+          "summary": "2026年1月13日 · 如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种“低效”的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了， …",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260513-016",
+          "title": "2026年度最佳 AI 工具指南-36氪",
+          "summary": "2026年1月8日 · 图像生成：Nano Banana 总的来说，目前最佳的 AI 图像生成工具是 Nano Banana（尤其是全新的 Pro 版本）。 理由如下： 它对提示词的理解非常到位。",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3623796784661760",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260513-018",
+          "title": "Google App",
+          "summary": "Explore new ways to search. Download the Google app to experience Lens, AR, Search Labs, voice search, and more.",
+          "source": "Search",
+          "sourceUrl": "https://search.google/google-app/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260513-003",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260513-005",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "1 day ago · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with int",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260513-007",
+          "title": "What is Artificial Intelligence (AI)? | Google Clo",
+          "summary": "Artificial intelligence (AI) is a set of technologies that empowers computers to learn, reason, and perform a variety of advanced tasks in ways that u",
+          "source": "Google",
+          "sourceUrl": "https://cloud.google.com/learn/what-is-artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260513-009",
+          "title": "What is Artificial Intelligence? | Microsoft Azure",
+          "summary": "Learn what artificial intelligence (AI) is and how it works, explore the different types of AI, see examples of AI, and discover the benefits of AI.",
+          "source": "Microsoft",
+          "sourceUrl": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-artificial-intelligence/?msockid=0cf6a31db96f6c9b3999b445b8706dbe",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260513-017",
+          "title": "Google",
+          "summary": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're loo",
+          "source": "Google",
+          "sourceUrl": "https://www.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-13T08:00:05.611634+08:00",
+  "source": "OpenClaw"
+}
