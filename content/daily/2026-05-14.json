@@ -1,0 +1,248 @@
+{
+  "date": "2026-05-14",
+  "title": "AI 日报 - 2026年05月14日",
+  "summary": "今日 AI 动态：今日AI热点炸屏！4大重磅动态齐发，行业迎来关键变革_模型_Qwen_ …；AI大模型，最近有这些新进展 - 今日头条；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；国内外知名大模型及应用——模型/应用维度（2026/05/08） - 知乎；2026年...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260514-001",
+          "title": "今日AI热点炸屏！4大重磅动态齐发，行业迎来关键变革_模型_Qwen_ …",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260514-003",
+          "title": "AI大模型，最近有这些新进展 - 今日头条",
+          "summary": "近日全球科技公司\"你追我赶\"竞相发布了新版本人工智能（AI）大模型这些模型或具备更快速的回答能力或有更强的多模态能力或增强了推理与生成能力持续带来更加智能的使用体验并为各行各业注入新动能一起来回顾↓↓↓当地时间4月23日OpenAI发布了全",
+          "source": "Toutiao",
+          "sourceUrl": "https://www.toutiao.com/article/7496833734324142644/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260514-004",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260514-005",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/05/08） - 知乎",
+          "summary": "本周更新（2026/05/04~2026/05/08）：GPT：国外闭源组新增 GPT-5.5 Instant。 *注：目前由于Agent模型（包括专为openclaw优化的龙虾模型）还属于新兴品类，暂时和All in One模型一起归到通用类；混...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260514-006",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260514-009",
+          "title": "DeepSeek V4终于发布，打破最强闭源垄断，明确携手华为芯片",
+          "summary": "Agent能力比肩Opus 4.6，百万上下文成标配 刚刚，DeepSeek-V4来了! 预览版正式上线并同步开源。 一共两个版本： DeepSeek-V4-Pro：对标顶级闭源模型，1.6T ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/3780290045121801",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260514-011",
+          "title": "DeepSeek-V4终于发布，开源再次比肩世界顶级闭源模型",
+          "summary": "终于发布了!4月24日，中国深度求索公司正式上线全新系列模型DeepSeek-V4预览版，并同步开源。该系列模型以百万字超长上下文为核心亮点，在Agent ...",
+          "source": "腾讯",
+          "sourceUrl": "https://news.qq.com/rain/a/20260424A04WJO00",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260514-017",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260514-002",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "2 days ago · 2026移动云大会在苏州召开，中国移动围绕”算力新动能、智能新空间”为主题，设8大分论坛及8000㎡展区，吸引超10万人次观展。 中国移动发布三大首创：桌面级AI办公智能体MobileClaw、 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260514-007",
+          "title": "Pluto tv freezing - Xfinity Community Forum",
+          "summary": "@sherrylynn126 Is Pluto the only app that freezes for you when streaming? I am an Official Xfinity Employee. Official Employees are from multiple team",
+          "source": "Xfinity",
+          "sourceUrl": "https://forums.xfinity.com/conversations/customer-service/pluto-tv-freezing/67e8ac204b7c5c0e65a909c9",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260514-010",
+          "title": "The best Kodi builds for Amazon Firestick: Stream ",
+          "summary": "We analyse a range of Kodi builds to see which are best optimized for devices like the Amazon Firestick, evaluating appearance, user-friendliness, and",
+          "source": "Bleepingcomputer",
+          "sourceUrl": "https://www.bleepingcomputer.com/vpn/guides/best-kodi-builds-for-amazon-firestick/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260514-015",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260514-016",
+          "title": "AI人工智能学习网站大全 | AI工具集",
+          "summary": "1 天前 · AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/favorites/websites-to-learn-ai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260514-007",
+          "title": "登录数据学习网站 | 原创博客分享,分享数据挖掘数据分析技术工程论文算法|数据学习(Datalear",
+          "summary": "登录 · 注册",
+          "source": "Datalearner",
+          "sourceUrl": "https://www.datalearner.com/signin",
+          "tags": [
+            "AI"
+          ],
+          "importance": "low"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260514-008",
+          "title": "Pluto.tv freezing - Xfinity Community Forum",
+          "summary": "Pluto.tv freezing I've had such trouble with Pluto.tv (on demand) freezing, that I rarely bother trying it. E.g., last year, I tried watching a movie,",
+          "source": "Xfinity",
+          "sourceUrl": "https://forums.xfinity.com/conversations/on-demand/plutotv-freezing/66789a88d8ecff174a29637d",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260514-012",
+          "title": "Pluto TV On Demend | Xfinity Community Forum",
+          "summary": "When watching a movie on Pluto TV on demand, if you leave the movie, you need to start it again from the beginning. According to the Pluto support sit",
+          "source": "Xfinity",
+          "sourceUrl": "https://forums.xfinity.com/conversations/channels-and-programming/pluto-tv-on-demend/62464438f6cc380e6401eae0",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260514-013",
+          "title": "Hacker shares 3.2 million Pluto TV accounts for fr",
+          "summary": "A hacker is sharing what they state are 3.2 million Pluto TV user records that were stolen during a data breach.",
+          "source": "Bleepingcomputer",
+          "sourceUrl": "https://www.bleepingcomputer.com/news/security/hacker-shares-32-million-pluto-tv-accounts-for-free-on-forum/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260514-014",
+          "title": "Baidu - 文心一言",
+          "summary": "2 天之前 · 文心一言既是你的智能伙伴，可以陪你聊天、回答问题、画图识图；也是你的AI助手，可以提供灵感、撰写文案、阅读文档、智能翻译，帮你高效完成工作和学习任务。",
+          "source": "Baidu",
+          "sourceUrl": "https://yiyan.baidu.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260514-018",
+          "title": "一文读懂人工智能（AI）是什么？ - 知乎",
+          "summary": "2024年7月3日 · 一、 AI的定义 AI是人工智能（Artificial Intelligence）的缩写，它是一种模拟人类智能的技术，使机器能够像人一样学习、思考和做出决策，从而能够自主地执行各种任务。人工智能不仅仅 …",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/706749176",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-14T08:00:08.100273+08:00",
+  "source": "OpenClaw"
+}
