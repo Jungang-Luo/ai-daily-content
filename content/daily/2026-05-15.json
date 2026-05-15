@@ -1,0 +1,259 @@
+{
+  "date": "2026-05-15",
+  "title": "AI 日报 - 2026年05月15日",
+  "summary": "今日 AI 动态：每日AI资讯、热点、动态、融资、产品发布 | AI工具集；ChatGPT — 版本说明 | OpenAI Help Center；大模型迭代加速：2026年4月已经发布/预期发布的AI大模型 - 知乎；2026最新AI模型横评：谁才是你的最强“工作搭子”？ - 磊哥|www.javacn.site ...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260515-001",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "商汤办公小浣熊桌面版2.0升级发布，从”桌面入口”转型为”执行助手”，新增六大能力：直接读取本地20+格式文件、一句话操控浏览器、⌘K全局快捷唤起、连接飞书/企微/钉钉、本地跨会话记忆、定时自动执行任务。现Mac端已开启首批内测招募，限时免费使用，Windows端预计5月中下旬上线。来源：商汤小浣熊",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260515-002",
+          "title": "ChatGPT — 版本说明 | OpenAI Help Center",
+          "summary": "今天，我们发布 GPT-5.2，这是 ...们会继续定期为所有用户改进主模型，让它们更实用、更愉快。 GPT-5.2 Instant 是一款适合日常工作和学习的快速而强大的主力模型，在信息查询...",
+          "source": "OpenAI",
+          "sourceUrl": "https://help.openai.com/zh-hans-cn/articles/6825453-chatgpt-%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-003",
+          "title": "大模型迭代加速：2026年4月已经发布/预期发布的AI大模型 - 知乎",
+          "summary": "Gemma 4 是Google基于Gemini技术路线推出的最新开源模型系列，于2026年3月发布，包含2B、4B、26B、31B等多种规模。该系列主打轻量高性能与开源生态，在推理效率、token利用率和多模态能力...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2024418051664168470",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260515-004",
+          "title": "2026最新AI模型横评：谁才是你的最强“工作搭子”？ - 磊哥|www.javacn.site -",
+          "summary": "一边是 ChatGPT、Claude 等国外老牌霸主，一边是 DeepSeek、Kimi、通义千问 等国产新贵强势崛起。究竟是“外来的和尚好念经”，还是“国产之光”更懂中国心？ · 今天，我们实测了目前市面上最火的 8 款大模型，从逻辑推理、长文本处理、代码能力、日常交互等维度，为你送上一份保姆级选",
+          "source": "Cnblogs",
+          "sourceUrl": "https://www.cnblogs.com/vipstone/p/19496540",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-005",
+          "title": "AI大模型有哪些？2025年最全面最新15款主流大模型技术对比 | BetterYeah AI智能体",
+          "summary": "Gemma-3：2025年3月12日发布，号称\"单个GPU或TPU上运行的功能最强大模型\"，在AI大模型竞技场得分位居前十，尽管参数量不及其他顶级模型。",
+          "source": "Betteryeah",
+          "sourceUrl": "https://www.betteryeah.com/blog/comprehensive-comparison-of-15-mainstream-large-model-technologies",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260515-012",
+          "title": "DeepSeek-V4终于发布，开源再次比肩世界顶级闭源模型",
+          "summary": "终于发布了! 4月24日，中国深度求索公司正式上线全新系列模型DeepSeek-V4预览版，并同步开源。 该系列模型以百万字超长上下文为核心亮点，在Agent能力、世界知识和推理性能三大维度，均实现国内与开源领域的领先。 双版本同步更新满足不同场景",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/economy/2026_04_24_814797.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260515-014",
+          "title": "更新速报：AI 产品、模型与开源动态追踪（每 8 小时） | RadarAI",
+          "summary": "2 天之前 · 每 8 小时汇总最新 AI 产品、模型、工具与开源项目动态，提供摘要、标签与趋势线索，帮助你更快判断哪些变化值得继续跟进。",
+          "source": "Radarai",
+          "sourceUrl": "https://radarai.top/updates",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260515-011",
+          "title": "The Home Depot",
+          "summary": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, ",
+          "source": "Homedepot",
+          "sourceUrl": "https://www.homedepot.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-013",
+          "title": "最新 AI 新闻与更新 & 精选信息 - xix.ai",
+          "summary": "1 天前 · 每天获取最新 AI 新闻、突破和行业分析。您获取最新人工智能更新和技术趋势的必备来源。 XIX.AI 的AI工具目录包含 25236 个AI工具 和 487 个工具分类。今日已更新 8 个AI工具",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/ainews/ainews",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-015",
+          "title": "该更新了！2026年产品经理必备的10款AI工具 - 知乎",
+          "summary": "如果你还在用旧的画图工具、死磕PRD文档、埋头市场调研、手动调整原型，抱歉，2026年已经不欢迎这种\"低效\"的产品经理了。 其实2024年，AI已经对产品经理有不小的冲击了，而刚刚过去的2025年，几乎每隔2个月，就有一款新的AI产品出圈。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/1994405451719255048",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-016",
+          "title": "大黑AI速报 - 每4小时更新的AI行业快讯｜AI日报",
+          "summary": "1 天前 · 大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-017",
+          "title": "产品设计ai工具完全指南：2026年12款全流程ai设计工具 ...",
+          "summary": "2026年产品设计AI工具如何选？本文深度实测12款主流工具，覆盖原型设计、UI生成到开发交付全流程。结合真实案例和一手数据，为你提供场景化选型策略，让AI真正提升设计效率。",
+          "source": "Js",
+          "sourceUrl": "https://js.design/special/article/AI-tools-for-product-design.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260515-018",
+          "title": "学术论文-清华大学人工智能国际治理研究院中文",
+          "summary": "尽管我国已成为一个人工智能大国，但在核心理论创新、基础底座建设、关键软硬件和生态方面还有待提升，迈向人工智能强国还有很长的路要走。 在此情况下，如何在保障人工智能有力、有序、有益发展的同时，实现对人工智能的善治是亟需回应的关键问题。",
+          "source": "Tsinghua",
+          "sourceUrl": "https://aiig.tsinghua.edu.cn/yjcg/xslw.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-019",
+          "title": "人工智能 - 论文汇总丨超 100 篇 AI for Science 重要成果，一 ...",
+          "summary": "HyperAI 超神经长期关注 AI4S 领域的进展与突破，通过系统解读前沿论文的方式，记录这一浪潮中的关键节点。 一方面，我们希望将最新的研究成果与方法论进行结构化、普适化的整理，降低不同领域读者的理解门槛；另一方面，也希望通过持续输出，推动更多研究者、工程师与机构，真正认识到 AI 对科研生产力",
+          "source": "Segmentfault",
+          "sourceUrl": "https://segmentfault.com/a/1190000047618801",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-020",
+          "title": "16篇关于ai的最佳研究论文: Iclr 2024年杰出论文奖",
+          "summary": "每篇论文都代表着对该领域的重大贡献，解决了关键的挑战，拓展了知识的边界。 此外，它们为未来的研究工作提供了灵感，引导人工智能社区走向新颖的见解。 让我们期待着通过这些研究在人工智能领域进行更多的变革性创新。",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/13078980864",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260515-006",
+          "title": "windows - Como executar scripts no powershell - St",
+          "summary": "May 5, 2019 · Arquivos de script powershell normalmente usam a extensão .ps1 e seguem a especificação da liguagem. Seguindo a premissa que seu script ",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://pt.stackoverflow.com/questions/381450/como-executar-scripts-no-powershell",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-007",
+          "title": "Listar diretório específicos no Windows - Filtro n",
+          "summary": "Acontece que meu comando parou de listar os arquivos quando estava quase no final e não quero começar tudo de novo, pois são milhões de arquivos. Quer",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://pt.stackoverflow.com/questions/259850/listar-diret%C3%B3rio-espec%C3%ADficos-no-windows-filtro-na-listagem",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-008",
+          "title": "Como criar um executável \" *.exe\" em Python? - Sta",
+          "summary": "Apr 24, 2014 · Porém, se você estiver usando Windows 64 bit com Python 32 bit, os arquivos gerados serão 32 bit, e funcionarão no Windows 32 bit e tam",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://pt.stackoverflow.com/questions/13806/como-criar-um-execut%c3%a1vel-exe-em-python",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-009",
+          "title": "windows - Script batch para renomear extensão de a",
+          "summary": "Sep 17, 2018 · Devido um problema de rensomware, este vírus que criptografa os arquivos mais comuns acrescentando a extensão .igvm . Consegui renomear",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://pt.stackoverflow.com/questions/329949/script-batch-para-renomear-extens%c3%a3o-de-arquivos-de-maneira-recursiva",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260515-010",
+          "title": "Pastas no Jupyter - Stack Overflow em Português",
+          "summary": "Oct 7, 2021 · Sempre usei o pycharm, e estou usando o jupyter agora, e gostaria de saber onde ficam as pastas que eu crio nele. Entrei nele, criei alg",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://pt.stackoverflow.com/questions/530284/pastas-no-jupyter",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-15T08:00:06.101312+08:00",
+  "source": "OpenClaw"
+}
