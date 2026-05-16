@@ -1,0 +1,226 @@
+{
+  "date": "2026-05-16",
+  "title": "AI 日报 - 2026年05月16日",
+  "summary": "今日 AI 动态：今日AI热点炸屏！4大重磅动态齐发，行业迎来关键变革_模型_Qwen_ …；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；国内外知名大模型及应用——模型/应用维度（2026/05/13） - 知乎；氪星晚报丨11家ai大模型产品今日起将陆续上线，腾讯华...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260516-001",
+          "title": "今日AI热点炸屏！4大重磅动态齐发，行业迎来关键变革_模型_Qwen_ …",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260516-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260516-003",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/05/13） - 知乎",
+          "summary": "本周更新（2026/05/11~2026/05/15）：Enrie：国内闭源组更新通用模型 Enrie-5.1； 本月更新GPT：国外闭源组新增通用模型 GPT-5.5 Instant。 *注：目前由于Agent模型（包括专为openclaw优化的龙虾模型...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260516-005",
+          "title": "氪星晚报丨11家ai大模型产品今日起将陆续上线，腾讯华为讯飞等也将开放；苹果据称正引入3d打印技术，",
+          "summary": "万科郁亮：预计今年全国商品住宅新开工面积将回到2006年水平；AI操控无人机能力超越人类冠军 从多位独立信源处获悉，国内将有11家大模型陆续 ...",
+          "source": "36 氪",
+          "sourceUrl": "https://www.36kr.com/p/2411817040897025",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260516-006",
+          "title": "全球AI模型发布时间线 (持续更新)",
+          "summary": "Feb 6, 2026 · 发布 AI平台 Frontier，可部署具备权限管理的AI Agent，用于客户服务、数据分析等场景。 2026年2月5日，Anthropic 发布 通用语言模型 Claude Opus 4.6，上下文1M Token，支持多智能体 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/tardis/bd/art/14903006525",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260516-007",
+          "title": "DeepSeek-V4终于发布，开源再次比肩世界顶级闭源模型",
+          "summary": "终于发布了！ 4月24日，中国深度求索公司正式上线全新系列模型DeepSeek-V4预览版，并同步开源。 该系列模型以百万字超长上下文为核心亮点，在Agent能力、世界知识和推理性能三大维度，均实现 …",
+          "source": "Guancha",
+          "sourceUrl": "https://www.guancha.cn/economy/2026_04_24_814797.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260516-004",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260516-011",
+          "title": "AI人工智能学习网站大全 | AI工具集",
+          "summary": "2 天之前 · AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/favorites/websites-to-learn-ai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260516-012",
+          "title": "Google AI - How we're making AI helpful for everyo",
+          "summary": "Discover how Google AI is committed to enriching knowledge, solving complex challenges and helping people grow by building useful AI tools and technol",
+          "source": "Ai",
+          "sourceUrl": "https://ai.google/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260516-016",
+          "title": "Soutien pour appareils de bureau - Canon Canada",
+          "summary": "Parcourir les pilotes actuels, trouver un détaillant de service autorisé et accéder au service de soutien direct de Canon.",
+          "source": "Canon",
+          "sourceUrl": "https://www.canon.ca/fr/entreprise/Soutien-technique/Pilotes_a_telecharger",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260516-017",
+          "title": "Télécharger et installer le pilote d’imprimante - ",
+          "summary": "Télécharger et installer le pilote d’imprimante Cela s’applique-t-il à votre appareil? Cliquez ici pour le savoir.",
+          "source": "Brother",
+          "sourceUrl": "https://soutien.brother.ca/app/answers/detail/a_id/139442/~/t%C3%A9l%C3%A9charger-et-installer-le-pilote-d%E2%80%99imprimante.",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260516-009",
+          "title": "DeepSeek | 深度求索",
+          "summary": "2026年4月27日 · 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求 …",
+          "source": "Deepseek",
+          "sourceUrl": "https://www.deepseek.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260516-008",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "2 天之前 · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelli",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260516-010",
+          "title": "What is artificial intelligence (AI)? - IBM",
+          "summary": "2 天之前 · Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, dec",
+          "source": "Ibm",
+          "sourceUrl": "https://www.ibm.com/think/topics/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260516-013",
+          "title": "What is AI - DeepAI",
+          "summary": "What is AI, and how does it enable machines to perform tasks requiring human intelligence, like speech recognition and decision-making? AI learns and ",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/chat/what-is-ai",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260516-014",
+          "title": "Télécharger et installer les derniers pilotes d’im",
+          "summary": "Microsoft recommande de télécharger et d’installer le pilote d’imprimante le plus récent pour une imprimante. La méthode recommandée pour télécharger,",
+          "source": "Microsoft",
+          "sourceUrl": "https://support.microsoft.com/fr-fr/windows/t%C3%A9l%C3%A9charger-et-installer-les-derniers-pilotes-d-imprimante-4ff66446-a2ab-b77f-46f4-a6d3fe4bf661",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260516-015",
+          "title": "Téléchargement de logiciels et pilotes officiels H",
+          "summary": "Téléchargez les derniers pilotes, logiciels, micrologiciels et diagnostics pour vos produits HP sur le site officiel de l'assistance HP.",
+          "source": "Hp",
+          "sourceUrl": "https://support.hp.com/fr-fr/drivers",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-16T08:00:06.922059+08:00",
+  "source": "OpenClaw"
+}
