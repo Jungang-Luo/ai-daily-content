@@ -1,0 +1,225 @@
+{
+  "date": "2026-05-17",
+  "title": "AI 日报 - 2026年05月17日",
+  "summary": "今日 AI 动态：OpenAI | Research & Deployment；2026年最新AI大模型全景解析：性能迭代与场景落地新突破；Zhipu Ai Open Platform；必应ai日报 | 每日ai前沿资讯与大模型技术动态；每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260517-001",
+          "title": "OpenAI | Research & Deployment",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-002",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260517-004",
+          "title": "Zhipu Ai Open Platform",
+          "summary": "智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决 ...",
+          "source": "Open",
+          "sourceUrl": "https://open.bigmodel.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-008",
+          "title": "必应ai日报 | 每日ai前沿资讯与大模型技术动态",
+          "summary": "必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-010",
+          "title": "每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai",
+          "summary": "百度组建由青年研究人员领衔的模型委员会，以指导其大模型战略。 OpenAI的Codex现已登陆ChatGPT移动端，提供免费编程助手。 宝林开放其万亿参数Ring-2.6-1T模型，用于复杂任务执行。 xAI发布Grok Build的早期测试版，这是一款专注于规划的编程AI代理。",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/live",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260517-006",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260517-009",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "3 days ago · Artificial intelligence (AI) is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with ",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-013",
+          "title": "Facebook - Apps on Google Play",
+          "summary": "Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make th",
+          "source": "Google",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en-US",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-014",
+          "title": "‎Facebook App - App Store",
+          "summary": "Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Facebook.",
+          "source": "Apple",
+          "sourceUrl": "https://apps.apple.com/us/app/facebook/id284882215",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-015",
+          "title": "How to Log in to Facebook: Simple Steps & Troubles",
+          "summary": "Feb 19, 2026 · Visit the Facebook homepage in any browser and enter your login information to sign in on a computer. To log in on a mobile device, lau",
+          "source": "Wikihow",
+          "sourceUrl": "https://www.wikihow.com/Log-in-to-Facebook",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260517-016",
+          "title": "DeepSeek | 深度求索",
+          "summary": "2026年4月27日 · 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求 …",
+          "source": "Deepseek",
+          "sourceUrl": "https://www.deepseek.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-017",
+          "title": "全球AI发展最新评估——斯坦福2026年AI指数报告解读_腾讯新闻",
+          "summary": "2026年4月13日，斯坦福大学以人为本人工智能研究所（HAI）发布了第九版《AI指数年度报告》（《AI Index Report 2026》）。这份报告已成为全球追踪AI发展 ...",
+          "source": "腾讯",
+          "sourceUrl": "https://news.qq.com/rain/a/20260416A067T200",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260517-003",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-005",
+          "title": "What is AI - DeepAI",
+          "summary": "What is AI, and how does it enable machines to perform tasks requiring human intelligence, like speech recognition and decision-making? AI learns and ",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/chat/what-is-ai",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-007",
+          "title": "What is Artificial Intelligence (AI)? | Google Clo",
+          "summary": "Artificial intelligence (AI) is a set of technologies that empowers computers to learn, reason, and perform a variety of advanced tasks in ways that u",
+          "source": "Google",
+          "sourceUrl": "https://cloud.google.com/learn/what-is-artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-011",
+          "title": "Facebook",
+          "summary": "Connect and share with friends, family, and the world on Facebook.",
+          "source": "Facebook",
+          "sourceUrl": "https://www.facebook.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260517-012",
+          "title": "Facebook",
+          "summary": "Get started on Facebook Create an account to connect with friends, family and communities of people who share your interests.",
+          "source": "Facebook",
+          "sourceUrl": "https://l.facebook.com/r.php/?entry_point=login",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-17T08:00:03.067216+08:00",
+  "source": "OpenClaw"
+}
