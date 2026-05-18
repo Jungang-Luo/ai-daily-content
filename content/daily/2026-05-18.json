@@ -1,0 +1,181 @@
+{
+  "date": "2026-05-18",
+  "title": "AI 日报 - 2026年05月18日",
+  "summary": "今日 AI 动态：ChatGPT；国内外知名大模型及应用——模型/应用维度（2026/05/13） - 知乎；今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术；OpenAI | Research & Deployment；大模型最新进展...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260518-001",
+          "title": "ChatGPT",
+          "summary": "ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
+          "source": "Chatgpt",
+          "sourceUrl": "https://chatgpt.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260518-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/05/13） - 知乎",
+          "summary": "本周更新（2026/05/11~2026/05/15）：Enrie：国内闭源组更新通用模型 Enrie-5.1； 本月更新GPT：国外闭源组新增通用模型 GPT-5.5 Instant。 *注：目前由于Agent模型（包括专为openclaw优化的龙虾模型...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260518-003",
+          "title": "今日AI热点炸屏!4大重磅动态齐发，行业迎来关键变革_模型_Qwen_技术",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260518-004",
+          "title": "OpenAI | Research & Deployment",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260518-005",
+          "title": "大模型最新进展",
+          "summary": "Claude Cowork新增定时任务、插件系统及一站式管理功能，支持自动执行重复性工作、扩展专业能力，通过统一管理提升效率。 ... LM Studio推出LM Link功能，基于Tailscale mesh VPN技术实现本地大模型远程调用，设备间端到端加密，无需复杂配置即可共享模型，适用于办公",
+          "source": "OpenAI",
+          "sourceUrl": "https://www.53ai.com/keyword/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260518-012",
+          "title": "AI人工智能学习网站大全 | AI工具集",
+          "summary": "3 天之前 · AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/favorites/websites-to-learn-ai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260518-013",
+          "title": "百度AI开放平台-全球领先的人工智能服务平台",
+          "summary": "百度AI开放平台提供全球领先的语音、图像、NLP等多项人工智能技术，开放对话式人工智能系统、智能驾驶系统两大行业生态，共享AI领域最新的应用场景和解决方案，帮您提升竞争力，开创未来。",
+          "source": "Baidu",
+          "sourceUrl": "https://ai.baidu.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260518-011",
+          "title": "DeepSeek | 深度求索",
+          "summary": "2026年4月27日 · 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求 …",
+          "source": "Deepseek",
+          "sourceUrl": "https://www.deepseek.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260518-006",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260518-007",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "2 days ago · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with in",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260518-008",
+          "title": "Descargar y usar el Traductor de Google",
+          "summary": "Con la versión web o la aplicación del Traductor de Google, puedes traducir texto, frases escritas a mano, fotos y voz en más de 200 idiomas. Puedes o",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/translate/answer/6350850?hl=es&co=GENIE.Platform%3DDesktop",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260518-009",
+          "title": "Traducción de documentos | Al mejor precio | Cotiz",
+          "summary": "Traducción de documentos sin salir de casa. ¡Envíanos el documento que quieres traducir y en media hora te hacemos la cotización gratis!",
+          "source": "Linguaforum",
+          "sourceUrl": "https://www.linguaforum.eu/es/traduccion-de-documentos.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260518-010",
+          "title": "Novedades del Traductor de Google: más de 100 idio",
+          "summary": "Novedades del Traductor de Google: más de 100 idiomas nuevos Última actualización: 27 de junio del 2024 (creación del artículo). Hemos escuchado vuest",
+          "source": "Google",
+          "sourceUrl": "https://support.google.com/translate/answer/15139004?hl=es",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-18T08:00:03.944251+08:00",
+  "source": "OpenClaw"
+}
