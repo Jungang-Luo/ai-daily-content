@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-19",
+  "title": "AI 日报 - 2026年05月19日",
+  "summary": "今日 AI 动态：今日AI热点炸屏！4大重磅动态齐发，行业迎来关键变革_模型_Qwen_ …；2026年最新AI大模型全景解析：性能迭代与场景落地新突破；AI大模型，最近有这些新进展 - 今日头条；国产大模型\"集体\"更新后能力有多强？记者实测_新闻频道_央视网 (cctv.com)；每日AI资讯 - 猫目...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260519-001",
+          "title": "今日AI热点炸屏！4大重磅动态齐发，行业迎来关键变革_模型_Qwen_ …",
+          "summary": "据悉，国内18家大模型厂商联合233家上下游企业，共同发布《新一代人工智能产业功能规范管理倡议与实施要求》，推出史上最严AI行业自律标准，聚焦AI功能强制捆绑、收费不透明、数据安全等行业痛点，明确三大核心原则，保障用户自主选择权与信息安全 ...",
+          "source": "搜狐",
+          "sourceUrl": "https://www.sohu.com/a/1005312599_122562240",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260519-002",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260519-003",
+          "title": "AI大模型，最近有这些新进展 - 今日头条",
+          "summary": "近日全球科技公司\"你追我赶\"竞相发布了新版本人工智能（AI）大模型这些模型或具备更快速的回答能力或有更强的多模态能力或增强了推理与生成能力持续带来更加智能的使用体验并为各行各业注入新动能一起来回顾↓↓↓当地时间4月23日OpenAI发布了全",
+          "source": "Toutiao",
+          "sourceUrl": "https://www.toutiao.com/article/7496833734324142644/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-004",
+          "title": "国产大模型\"集体\"更新后能力有多强？记者实测_新闻频道_央视网 (cctv.com)",
+          "summary": "国产大模型都有哪些能力迭代呢？ 记者做了一个实测。 当前， 腾讯混元大模型 在海外开发者平台排名第一。 依托该模型赋能，只要输入一句话的指令， 没有任何技术背景的人也可以按需生成一个微信小程序的应用。 另一个大模型 Kimi K2.6 则主打智能体能力。",
+          "source": "Cctv",
+          "sourceUrl": "https://news.cctv.com/2026/05/17/ARTIUUekaDVugGawlh5fLIjH260517.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-005",
+          "title": "每日AI资讯 - 猫目",
+          "summary": "每日AI资讯是您获取2025年人工智能领域最新动态的首选。 我们每日更新全球及国内AI行业资讯，涵盖AI大模型突破（如GPT-5、文心一言升级）、技术应用（智能驾驶、医疗AI）、政策动向（中国AI监管新规）、企业进展（xAI、OpenAI最新融资）等热点内容。",
+          "source": "Maomu",
+          "sourceUrl": "https://maomu.com/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260519-012",
+          "title": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+          "summary": "1 天前 · AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-013",
+          "title": "Ai-321 - 豆包",
+          "summary": "Seedance 2.0 视频生成模型现已全面接入豆包，现在登录即可免费使用！ 豆包 是你的 AI 聊天智能对话问答助手，写作文案翻译编程工具。 豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任 …",
+          "source": "Doubao",
+          "sourceUrl": "https://www.doubao.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-014",
+          "title": "即梦AI - 即刻造梦",
+          "summary": "智能画布 多图AI融合 即梦AI一站式智能画布，集成AI拼图生成能力，并提供局部重绘、一键扩图、图像消除和抠图等多功能强大操作。 你可以在同一画布上实现多元素的无缝拼接，确保AI绘画的创作风格 …",
+          "source": "Jianying",
+          "sourceUrl": "https://jimeng.jianying.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-015",
+          "title": "Python中的str（x）是什么意思？ - 知乎",
+          "summary": "2023年7月3日 · str (x)是把x转化为字符型数据，这样的好处是可以实现字符的遍历、切片、拼接等功能。 x的范围可以是数值型、列表型、字典型等数据类型。 在Python中，字符型数据是以字符串形式表示 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/610171703",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260519-011",
+          "title": "DeepSeek | 深度求索",
+          "summary": "2026年4月27日 · 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求 …",
+          "source": "Deepseek",
+          "sourceUrl": "https://www.deepseek.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-016",
+          "title": "细胞STR鉴定是什么？ - 知乎",
+          "summary": "2009年起，NIH和ATCC呼吁研究者对细胞进行STR鉴定并着手建立细胞STR数据库。 如今，细胞STR鉴定已是鉴别细胞身份及交叉污染的金标准。 多数权威期刊也要求作者投稿时提供细胞STR鉴定证明。",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/question/504212387",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260519-006",
+          "title": "JSON - Wikipedia",
+          "summary": "JSON (JavaScript Object Notation, pronounced / ˈdʒeɪsən / or / ˈdʒeɪˌsɒn /) is an open standard file format and data interchange format that uses huma",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/JSON",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-007",
+          "title": "What is JSON - W3Schools",
+          "summary": "The JSON syntax is derived from JavaScript object notation syntax, but the JSON format is text only. Code for reading and generating JSON data can be ",
+          "source": "W3Schools",
+          "sourceUrl": "https://www.w3schools.com/whatis/whatis_json.asp",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-008",
+          "title": "JSON Editor Online: edit JSON, format JSON, query ",
+          "summary": "JSON Editor Online is the original and most copied JSON Editor on the web. Use it to view, edit, format, repair, compare, query, transform, validate, ",
+          "source": "Jsoneditoronline",
+          "sourceUrl": "https://jsoneditoronline.org/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-009",
+          "title": "JSON",
+          "summary": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse ",
+          "source": "Json",
+          "sourceUrl": "https://www.json.org/json-en.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260519-010",
+          "title": "Working with JSON - Learn web development | MDN - ",
+          "summary": "JSON is a text-based data format following JavaScript object syntax. It represents structured data as a string, which is useful when you want to trans",
+          "source": "Mozilla",
+          "sourceUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-19T08:00:04.564191+08:00",
+  "source": "OpenClaw"
+}
