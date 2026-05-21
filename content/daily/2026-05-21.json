@@ -1,0 +1,181 @@
+{
+  "date": "2026-05-21",
+  "title": "AI 日报 - 2026年05月21日",
+  "summary": "今日 AI 动态：ChatGPT；Ai大模型，最近有这些新进展 - 今日头条；Google Gemini；国产大模型\"集体\"更新后能力有多强？记者实测_新闻频道_央视网 (cctv.com)；2026年最新AI大模型全景解析：性能迭代与场景落地新突破...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260521-001",
+          "title": "ChatGPT",
+          "summary": "Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
+          "source": "Chatgpt",
+          "sourceUrl": "https://chatgpt.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260521-002",
+          "title": "Ai大模型，最近有这些新进展 - 今日头条",
+          "summary": "近日全球科技公司\"你追我赶\"竞相发布了新版本人工智能（AI）大模型这些模型或具备更快速的回答能力或有更强的多模态能力或增强了推理与生成能力持续带来更加智能的使用体验并为各行各业注入新动能一起来回顾↓↓↓当地时间4月23日OpenAI发布了全",
+          "source": "Toutiao",
+          "sourceUrl": "https://www.toutiao.com/article/7496833734324142644/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260521-003",
+          "title": "Google Gemini",
+          "summary": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+          "source": "Google",
+          "sourceUrl": "https://gemini.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260521-004",
+          "title": "国产大模型\"集体\"更新后能力有多强？记者实测_新闻频道_央视网 (cctv.com)",
+          "summary": "国产大模型都有哪些能力迭代呢？ 记者做了一个实测。 当前， 腾讯混元大模型 在海外开发者平台排名第一。 依托该模型赋能，只要输入一句话的指令， 没有任何技术背景的人也可以按需生成一个微信小程序的应用。 另一个大模型 Kimi K2.6 则主打智能体能力。",
+          "source": "Cctv",
+          "sourceUrl": "https://news.cctv.com/2026/05/17/ARTIUUekaDVugGawlh5fLIjH260517.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260521-006",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260521-011",
+          "title": "IKEA ROSENTORP Bar Stools – Set of 2 – Excellent C",
+          "summary": "FOR SALE - Vancouver - Selling IKEA ROSENTORP bar stools with seat cushions in great condition. Perfect for a kitchen island or bar area. Official IKE",
+          "source": "Jlaforums",
+          "sourceUrl": "http://www.jlaforums.com/viewtopic.php?t=674162560",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260521-013",
+          "title": "AI人工智能学习网站大全 | AI工具集",
+          "summary": "2 天之前 · AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/favorites/websites-to-learn-ai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260521-012",
+          "title": "DeepSeek | 深度求索",
+          "summary": "2026年4月27日 · 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求 …",
+          "source": "Deepseek",
+          "sourceUrl": "https://www.deepseek.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260521-005",
+          "title": "Artificial intelligence - Wikipedia",
+          "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learnin",
+          "source": "Wikipedia",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260521-007",
+          "title": "Artificial intelligence (AI) | Definition, Example",
+          "summary": "5 days ago · artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with in",
+          "source": "Britannica",
+          "sourceUrl": "https://www.britannica.com/technology/artificial-intelligence",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260521-008",
+          "title": "Someone to install IKEA closet - Talk of The Villa",
+          "summary": "2024年2月9日 · We were investigating customizing our primary bedroom closet and visited IKEA. We really liked the design options and they configured an e",
+          "source": "Talkofthevillages",
+          "sourceUrl": "https://www.talkofthevillages.com/forums/villages-florida-general-discussion-73/someone-install-ikea-closet-347512/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260521-009",
+          "title": "IKEA Stocksund Armchair w/ Bemz Cover — Fair Condi",
+          "summary": "Selling my IKEA Stocksund armchair fitted with a Bemz aftermarket slipcover. Bemz covers are made specifically for IKEA furniture and are a significan",
+          "source": "Jlaforums",
+          "sourceUrl": "http://www.jlaforums.com/viewtopic.php?t=674872038",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260521-010",
+          "title": "FOR SALE - Catskills, NY - JLA FORUMS",
+          "summary": "Google Groups Usenet Access Ended in February 2024 An era ended: Google Groups shut down new Usenet access. The original conversations that defined th",
+          "source": "Jlaforums",
+          "sourceUrl": "http://www.jlaforums.com/viewforum.php?f=507",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-21T08:00:05.225008+08:00",
+  "source": "OpenClaw"
+}
