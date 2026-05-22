@@ -1,0 +1,192 @@
+{
+  "date": "2026-05-22",
+  "title": "AI 日报 - 2026年05月22日",
+  "summary": "今日 AI 动态：2026年最新AI大模型全景解析：性能迭代与场景落地新突破；最新!2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发，Ai进入实用新纪元-腾讯云开发；国产大模型“集体”更新后能力有多强？记者实测_新闻频道_央视网 …；国内外知名大模型及应用——模型/应用维度（2026/05/20） - ...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260522-001",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260522-002",
+          "title": "最新!2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发，Ai进入实用新纪元-腾讯云开发",
+          "summary": "2026年3月全球大模型迎来技术爆发，OpenAI、谷歌等海外巨头与中国厂商同台竞技。国产大模型实现全球调用量反超、旗舰模型登顶国际盲测、端侧与行业应用全面落地三大突破。百万Token上下文成标配，原生多模态与电脑控制能力成熟，AI智能体（Agent）进入规模化商用阶段。大模型告别\"参数内卷 ...",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com/developer/article/2658619",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260522-003",
+          "title": "国产大模型“集体”更新后能力有多强？记者实测_新闻频道_央视网 …",
+          "summary": "4 days ago · 国产大模型都有哪些能力迭代呢？ 记者做了一个实测。 当前， 腾讯混元大模型 在海外开发者平台排名第一。 依托该模 …",
+          "source": "Cctv",
+          "sourceUrl": "https://news.cctv.com/2026/05/17/ARTIUUekaDVugGawlh5fLIjH260517.shtml",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260522-004",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/05/20） - 知乎",
+          "summary": "本周更新（2026/05/18~2026/05/22）：Qwen：国内闭源组更新通用模型 Qwen3.7-Max；Google Deepmind：国外闭源组更新通用模型 Gemini-3.5-Flash；新增生视频模型 Gemini Omni； 本月更新Enrie：国内闭源组更...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260522-005",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260522-011",
+          "title": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+          "summary": "1 天前 · AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260522-013",
+          "title": "AI工具箱官网 | 3000 + 免费 AI 工具集合 | AI软件一站式导航网站",
+          "summary": "2 天之前 · 写作没灵感？ 设计缺思路？ 学习效率低？ 日常琐事费时间？ 这里集结 AI 写作、编程、办公、设计、剪辑、学习辅助、生活服务等实用工具，找到趁手神器，让效率翻倍，轻松搞定从任务到生 …",
+          "source": "Ai-Kit",
+          "sourceUrl": "https://ai-kit.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260522-014",
+          "title": "百度AI开放平台-全球领先的人工智能服务平台",
+          "summary": "百度AI开放平台提供全球领先的语音、图像、NLP等多项人工智能技术，开放对话式人工智能系统、智能驾驶系统两大行业生态，共享AI领域最新的应用场景和解决方案，帮您提升竞争力，开创未来。",
+          "source": "Baidu",
+          "sourceUrl": "https://ai.baidu.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260522-012",
+          "title": "DeepSeek | 深度求索",
+          "summary": "2026年4月27日 · 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求 …",
+          "source": "Deepseek",
+          "sourceUrl": "https://www.deepseek.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260522-006",
+          "title": "Hướng Dẫn Cách Xóa Âm Thanh Video Trên Canva Chi T",
+          "summary": "Ứng dụng Canva đã trở nên quen thuộc với rất nhiều người, đặc biệt là những ai yêu thích thiết kế. Với giao diện thân thiện và dễ sử dụng, Canva không",
+          "source": "Tinhte",
+          "sourceUrl": "https://tinhte.vn/thread/huong-dan-cach-xoa-am-thanh-video-tren-canva-chi-tiet-nhat.3918509/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260522-007",
+          "title": "Code pour la couleur OR [Résolu] - Webmaster",
+          "summary": "Écriture Canva benjim - 26 sept. 2008 à 11:54 rex117 - 25 mars 2020 à 18:11 Bonjour, quelqu'un peut me donner le code pour la couleur OR , je suis ent",
+          "source": "Commentcamarche",
+          "sourceUrl": "https://forums.commentcamarche.net/forum/affich-8600783-code-pour-la-couleur-or",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260522-008",
+          "title": "Canva ra mắt mô hình AI thiết kế riêng, cung cấp b",
+          "summary": "Canva vừa tổ chức sự kiện lớn, công bố hàng loạt nâng cấp quan trọng cho nền tảng của mình, thể hiện rõ tham vọng cạnh tranh trực tiếp với Adobe. Đáng",
+          "source": "Tinhte",
+          "sourceUrl": "https://tinhte.vn/thread/canva-ra-mat-mo-hinh-ai-thiet-ke-rieng-cung-cap-bo-affinity-mien-phi-vinh-vien-va-ra-mat-nhieu.4070412/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260522-009",
+          "title": "Canva offre gratuitement sa suite graphique Affini",
+          "summary": "Canva-Affinity Canva, l'entreprise australienne bien connue dans le domaine de la conception graphique, fait une véritable percée en rendant son suite",
+          "source": "Commentcamarche",
+          "sourceUrl": "https://forums.commentcamarche.net/forum/affich-38266263-canva-rend-sa-suite-graphique-affinity-gratuite-pour-concurrencer-photoshop-illustrator-et-indesign",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260522-010",
+          "title": "Amazon Web Services gặp lỗi, một loạt ứng dụng phổ",
+          "summary": "Amazon Web Services gặp lỗi, một loạt ứng dụng phổ biến đứt kết nối: Facebook, Canva, Zoom, Slack... Người dùng Internet trên toàn cầu đã bị gián đoạn",
+          "source": "Tinhte",
+          "sourceUrl": "https://tinhte.vn/thread/amazon-web-services-gap-loi-mot-loat-ung-dung-pho-bien-dut-ket-noi-facebook-canva-zoom-slack.4066904/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-22T08:00:03.798366+08:00",
+  "source": "OpenClaw"
+}
