@@ -1,0 +1,203 @@
+{
+  "date": "2026-05-24",
+  "title": "AI 日报 - 2026年05月24日",
+  "summary": "今日 AI 动态：OpenAI | Research & Deployment；国内外知名大模型及应用——模型/应用维度（2026/05/20） - 知乎；2026年最新AI大模型全景解析：性能迭代与场景落地新突破；‎Google Gemini；Ai大模型，最近有这些新进展 - 今日头条...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260524-001",
+          "title": "OpenAI | Research & Deployment",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-002",
+          "title": "国内外知名大模型及应用——模型/应用维度（2026/05/20） - 知乎",
+          "summary": "本周更新（2026/05/18~2026/05/22）：Qwen：国内闭源组更新通用模型 Qwen3.7-Max；Google Deepmind：国外闭源组更新通用模型 Gemini-3.5-Flash；新增生视频模型 Gemini Omni； 本月更新Enrie：国内闭源组更...",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/670574382",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-003",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260524-004",
+          "title": "‎Google Gemini",
+          "summary": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+          "source": "Google",
+          "sourceUrl": "https://gemini.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-005",
+          "title": "Ai大模型，最近有这些新进展 - 今日头条",
+          "summary": "近日全球科技公司\"你追我赶\"竞相发布了新版本人工智能（AI）大模型这些模型或具备更快速的回答能力或有更强的多模态能力或增强了推理与生成能力持续带来更加智能的使用体验并为各行各业注入新动能一起来回顾↓↓↓当地时间4月23日OpenAI发布了全",
+          "source": "Toutiao",
+          "sourceUrl": "https://www.toutiao.com/article/7496833734324142644/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260524-008",
+          "title": "Levetiracetam XR - Epilepsy Foundation",
+          "summary": "What are the most common side effects of Levetiracetam XR? Keppra XR appears to be very safe. Some side effects that have been reported include:",
+          "source": "Epilepsy",
+          "sourceUrl": "https://www.epilepsy.com/tools-resources/seizure-medication-list/levetiracetam-xr",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-014",
+          "title": "AI人工智能学习网站大全 | AI工具集",
+          "summary": "1 天前 · AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/favorites/websites-to-learn-ai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-015",
+          "title": "Why French Bulldogs Are So Popular: Understanding ",
+          "summary": "2025年9月20日 · French Bulldogs have become one of the most popular dog breeds in recent years. Their unique appearance and charming personalities have c",
+          "source": "Onlyfrenchbulldog",
+          "sourceUrl": "https://onlyfrenchbulldog.com/blog/why-french-bulldogs-are-so-popular/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260524-010",
+          "title": "Keppra side effects - Epilepsy Foundation",
+          "summary": "RE: Keppra side effects Submitted by getnbetr on Mon, 2005-06-20 - 13:03 My daughter was diagnosed with pc sz in march, and from my research, there ar",
+          "source": "Epilepsy",
+          "sourceUrl": "https://www.epilepsy.com/connect/forum-archive/medication-issues/keppra-side-effects",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-013",
+          "title": "DeepSeek | 深度求索",
+          "summary": "2026年4月27日 · 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求 …",
+          "source": "Deepseek",
+          "sourceUrl": "https://www.deepseek.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260524-006",
+          "title": "DeepAI",
+          "summary": "Whether you are a hobbyist, a professional artist, or a developer integrating AI into your product, DeepAI delivers advanced technology with new video",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/?lang=en",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-007",
+          "title": "Levetiracetam | Epilepsy Foundation",
+          "summary": "What are the most common side effects of Levetiracetam? In the early tests of levetiracetam, people who took this medicine were only slightly more lik",
+          "source": "Epilepsy",
+          "sourceUrl": "https://www.epilepsy.com/tools-resources/seizure-medication-list/levetiracetam",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-009",
+          "title": "Summary of Anti-Seizure Medications | Epilepsy Fou",
+          "summary": "No one medicine dominates for effectiveness, and all have various side effects. Doctors and patients choose anti-seizure medications (ASMs), previousl",
+          "source": "Epilepsy",
+          "sourceUrl": "https://www.epilepsy.com/stories/summary-anti-seizure-medications",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-011",
+          "title": "Lowering Keppra dosage - Epilepsy Foundation",
+          "summary": "Re: Lowering Keppra dosage Submitted by MinKels on Thu, 2010-07-22 - 01:49 My neurologist is working with me to wean me off Keppra (bad side effects) ",
+          "source": "Epilepsy",
+          "sourceUrl": "https://www.epilepsy.com/connect/forum-archive/medication-issues/lowering-keppra-dosage",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260524-012",
+          "title": "Anyone on Lamictal AND Keppra? - Epilepsy Foundati",
+          "summary": "I'm on 150mg Lamictal in the morning, and 100mg at night. And we're starting off the dose of Keppra slowly, obviously. So...my question is to anyone t",
+          "source": "Epilepsy",
+          "sourceUrl": "https://www.epilepsy.com/connect/forum-archive/medication-issues/anyone-lamictal-and-keppra",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-24T08:00:03.802914+08:00",
+  "source": "OpenClaw"
+}
