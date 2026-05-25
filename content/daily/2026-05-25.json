@@ -1,0 +1,270 @@
+{
+  "date": "2026-05-25",
+  "title": "AI 日报 - 2026年05月25日",
+  "summary": "今日 AI 动态：2026年最新AI大模型全景解析：性能迭代与场景落地新突破；必应AI日报 | 每日AI前沿资讯与大模型技术动态；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；Ai大模型，最近有这些新进展 - 今日头条；最新!2026年3月全球大模型全景：国产登顶、百万...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260525-001",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260525-002",
+          "title": "必应AI日报 | 每日AI前沿资讯与大模型技术动态",
+          "summary": "2 days ago · 必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260525-004",
+          "title": "Ai大模型，最近有这些新进展 - 今日头条",
+          "summary": "近日全球科技公司\"你追我赶\"竞相发布了新版本人工智能（AI）大模型这些模型或具备更快速的回答能力或有更强的多模态能力或增强了推理与生成能力持续带来更加智能的使用体验并为各行各业注入新动能一起来回顾↓↓↓当地时间4月23日OpenAI发布了全",
+          "source": "Toutiao",
+          "sourceUrl": "https://www.toutiao.com/article/7496833734324142644/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-005",
+          "title": "最新!2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发，Ai进入实用新纪元-腾讯云开发",
+          "summary": "2026年3月全球大模型迎来技术爆发，OpenAI、谷歌等海外巨头与中国厂商同台竞技。国产大模型实现全球调用量反超、旗舰模型登顶国际盲测、端侧与行业应用全面落地三大突破。百万Token上下文成标配，原生多模态与电脑控制能力成熟，AI智能体（Agent）进入规模化商用阶段。大模型告别\"参数内卷 ...",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com/developer/article/2658619",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260525-010",
+          "title": "GitHub - Feh/nocache: minimize caching effects",
+          "summary": "minimize caching effects. Contribute to Feh/nocache development by creating an account on GitHub.",
+          "source": "GitHub",
+          "sourceUrl": "https://github.com/Feh/nocache",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-012",
+          "title": "Distributed Cache for .NET, Open Source - NCache -",
+          "summary": "NCache is an Open Source Distributed Cache for .NET. Use NCache for data caching and ASP.NET Core Sessions, and also for Pub/Sub Messaging and events.",
+          "source": "Alachisoft",
+          "sourceUrl": "https://www.alachisoft.com/ncache/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-019",
+          "title": "Audacity ® | Download for Windows",
+          "summary": "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free, open so",
+          "source": "Audacityteam",
+          "sourceUrl": "https://www.audacityteam.org/download/windows/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-020",
+          "title": "Audacity ® | Downloads",
+          "summary": "Audacity Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free",
+          "source": "Audacityteam",
+          "sourceUrl": "https://www.audacityteam.org/download/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-021",
+          "title": "Audacity Cloud Saving Platform",
+          "summary": "Audacity Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free",
+          "source": "Audacityteam",
+          "sourceUrl": "https://www.audacityteam.org/post-download/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260525-007",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260525-008",
+          "title": "regex - Adding ?nocache=1 to every url (including ",
+          "summary": "But what I would like to do is to apply ?nocache=1 to every URL related to the site (including the assets like style.css) so that I get the non cached",
+          "source": "Stackoverflow",
+          "sourceUrl": "https://stackoverflow.com/questions/38333569/adding-nocache-1-to-every-url-including-the-assets-like-stylesheet-behind-the",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-014",
+          "title": "Nocache - Free Software Directory",
+          "summary": "`nocache` tries to minimize the effect an application has on the Linux file system cache. Use case: backup processes that should not interfere with th",
+          "source": "Fsf",
+          "sourceUrl": "https://directory.fsf.org/wiki/Nocache",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-015",
+          "title": "nocache (1) — nocache — Debian jessie — Debian Man",
+          "summary": "The `nocache` tool tries to minimize the effect an application has on the Linux file system cache. This is done by intercepting the `open` and `close`",
+          "source": "Debian",
+          "sourceUrl": "https://manpages.debian.org/jessie/nocache/nocache.1.en.html",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-017",
+          "title": "man nocache (1): don't use Linux page cache on giv",
+          "summary": "man nocache (1): The `nocache` tool tries to minimize the effect an application has on the Linux file system cache. This is done by intercepting the `",
+          "source": "Manpages",
+          "sourceUrl": "https://manpages.org/nocache",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260525-018",
+          "title": "DeepSeek | 深度求索",
+          "summary": "2026年4月27日 · 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求 …",
+          "source": "Deepseek",
+          "sourceUrl": "https://www.deepseek.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260525-006",
+          "title": "AI资讯_获取AGI最新头条资讯_AIbase",
+          "summary": "AI 每日资讯汇集了国内外关于人工智能、大语言模型、多模态模型、机器学习、深度学习、计算机视觉、自然语言处理、数据科学和大数据的所有顶级新闻、视频等内容，一站式获取最新AI资讯。",
+          "source": "Aibase",
+          "sourceUrl": "https://www.aibase.com/zh/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-009",
+          "title": "Cache directive \"no-cache\" | An explaination of th",
+          "summary": "Cache directive \"no-cache\" An explaination of the HTTP Cache-Control header The Cache-Control header is used to specify directives for caching mechani",
+          "source": "No-Cache",
+          "sourceUrl": "https://no-cache.net/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-011",
+          "title": "Unscramble NOCACHE - Unscrambled 81 words from let",
+          "summary": "You can unscramble NOCACHE (ACCEHNO) into 81 words. Click to learn more about the unscrambled words in these 7 scrambled letters NOCACHE.",
+          "source": "Wordunscrambler",
+          "sourceUrl": "https://www.wordunscrambler.net/unscramble/nocache%20cheeze",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-013",
+          "title": "GoDaddy - View a non-cached version of my WordPres",
+          "summary": "If you don't see recent changes on your WordPress site due to a caching issue, here's how to view a non-cached version of your site in a browser.",
+          "source": "Godaddy",
+          "sourceUrl": "https://www.godaddy.com/help/view-a-non-cached-version-of-my-wordpress-site-42018",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260525-016",
+          "title": "nocache - Yarn",
+          "summary": "Middleware to destroy caching express, connect, nocache, caching, cache readme Middleware to turn off caching This Express middleware sets some HTTP r",
+          "source": "Yarnpkg",
+          "sourceUrl": "https://classic.yarnpkg.com/en/package/nocache",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-25T08:00:03.040286+08:00",
+  "source": "OpenClaw"
+}
