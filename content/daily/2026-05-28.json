@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-28",
+  "title": "AI 日报 - 2026年05月28日",
+  "summary": "今日 AI 动态：2026年最新AI大模型全景解析：性能迭代与场景落地新突破；大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；必应AI日报 | 每日AI前沿资讯与大模型技术动态；48小时连发5款大模型，2026年AI圈的卷法已经超出你想象；AI最新资讯_人工智能新闻头条_...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260528-002",
+          "title": "2026年最新AI大模型全景解析：性能迭代与场景落地新突破",
+          "summary": "步入2026年，AI大模型行业已从野蛮生长迈入精细化竞争新阶段，海内外科技巨头与创业公司持续发力，多款重磅新模型密集发布，在推理能力、多模态交互、场景适配性等核心维度实现突破性升级，不仅重塑了AI应用的边界…",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/2022324254427940644",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260528-003",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260528-004",
+          "title": "必应AI日报 | 每日AI前沿资讯与大模型技术动态",
+          "summary": "2 days ago · 必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260528-005",
+          "title": "48小时连发5款大模型，2026年AI圈的卷法已经超出你想象",
+          "summary": "2026年AI大模型竞争白热化，48小时内阿里、谷歌、微软、智谱AI相继发布5款重磅模型，包括Wan2.7-Image、Gemma4、GLM-5V-Turbo等。模型技术呈现三大趋势：MoE架构普及、端侧部署成熟、多模态成标配。文章深度解析各模型技术特点，提供选型建议和实战部署方案，助开发者把握AI",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com.cn/developer/article/2650738",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260528-007",
+          "title": "AI最新资讯_人工智能新闻头条_AI行业动态 | AIBase",
+          "summary": "在清华大学“AI医疗新范式”论坛上，百川智能CEO王小川发布新一代医疗大模型“Baichuan-M4”及AI家庭医生“百小医”。该模型登顶三大权威榜单，攻克了医疗AI的“事实性幻觉”问题，标志着AI在医疗垂直领域 …",
+          "source": "Aibase",
+          "sourceUrl": "https://news.aibase.com/zh/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260528-001",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260528-006",
+          "title": "大黑AI速报 - 每4小时更新的AI行业快讯｜AI日报",
+          "summary": "1 day ago · 大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260528-008",
+          "title": "每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai",
+          "summary": "在 xix.ai 获取有关人工智能、机器学习、深度学习等领域的最新 AI 新闻、实时更新和专家见解。每天精心挑选，专为开发者、研究人员和科技爱好者呈现。",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/live",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260528-012",
+          "title": "YouTube - Apps on Google Play",
+          "summary": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what’s popular in gamin",
+          "source": "Google",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en-US",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260528-014",
+          "title": "YouTube – Apps no Google Play",
+          "summary": "Instale o app YouTube oficial em smartphones e tablets Android. Veja o que as pessoas ao redor do mundo mais gostam de assistir: desde vídeos de músic",
+          "source": "Google",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=pt-BR",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": [
+        {
+          "id": "20260528-015",
+          "title": "DeepSeek | 深度求索",
+          "summary": "2026年4月27日 · 深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训 …",
+          "source": "Deepseek",
+          "sourceUrl": "https://www.deepseek.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260528-009",
+          "title": "YouTube",
+          "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "source": "YouTube",
+          "sourceUrl": "https://www.youtube.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260528-010",
+          "title": "YouTube",
+          "summary": "About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2",
+          "source": "YouTube",
+          "sourceUrl": "https://www.youtube.com/feed/homepage",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260528-011",
+          "title": "YouTube - YouTube",
+          "summary": "Uyen Ninh eats only white asparagus for 24 hours (German Cooking Challenge with @Uyen Ninh) YouTube and Uyen Ninh 898K views • 3 weeks ago CC",
+          "source": "YouTube",
+          "sourceUrl": "https://www.youtube.com/youtube",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260528-013",
+          "title": "YouTube Brasil - YouTube",
+          "summary": "Confira recursos, dicas e novidades sobre o YouTube! Te deixamos por dentro das atualizações mais importantes da plataforma e também compartilhamos as",
+          "source": "YouTube",
+          "sourceUrl": "https://www.youtube.com/youtubebrasil",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260528-016",
+          "title": "Google AI",
+          "summary": "2024年9月17日 · Discover the AI models behind our most impactful innovations, understand their capabilities, and find the right one when you're ready to ",
+          "source": "Developers",
+          "sourceUrl": "https://developers.google.cn/ai/discover/our-models/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-28T08:00:03.927192+08:00",
+  "source": "OpenClaw"
+}
