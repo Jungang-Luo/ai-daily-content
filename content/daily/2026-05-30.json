@@ -1,0 +1,202 @@
+{
+  "date": "2026-05-30",
+  "title": "AI 日报 - 2026年05月30日",
+  "summary": "今日 AI 动态：大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；全球AI模型发布时间线 (持续更新)；每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai；最新!2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发，Ai进入实用新纪元-腾讯云开发...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260530-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260530-003",
+          "title": "全球AI模型发布时间线 (持续更新)",
+          "summary": "2025年6月11日，Meta 发布 开源世界模型 V-JEPA 2，用视频数据训练，使机器人和AI Agent理解物理世界。 发布 AI视频编辑功能，基于Movie Gen和Llama Image模型，允许用户用多个预设AI提示编辑短 …",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/tardis/bd/art/14903006525",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260530-004",
+          "title": "每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai",
+          "summary": "科大讯飞在2026年BEYOND Expo上发布了搭载Spark大模型实现视觉交互的AI眼镜。 该产品支持122种语言的实时翻译，具备唇形动作降噪、智能演讲提示以及AI助手GlassClaw等功能。 重量仅40克，售价4299元，将于6月15日开启预售。",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/live",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260530-005",
+          "title": "最新!2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发，Ai进入实用新纪元-腾讯云开发",
+          "summary": "2026年3月全球大模型迎来技术爆发，OpenAI、谷歌等海外巨头与中国厂商同台竞技。国产大模型实现全球调用量反超、旗舰模型登顶国际盲测、端侧与行业应用全面落地三大突破。百万Token上下文成标配，原生多模态与电脑控制能力成熟，AI智能体（Agent）进入规模化商用阶段。大模型告别\"参数内卷 ...",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com/developer/article/2658619",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260530-006",
+          "title": "2026年AI大模型最新进展全景解读：GPT-5.3、Claude 4.6、Gemini 3.1 P",
+          "summary": "2026年，AI大模型的竞争已从\"能不能用\"进入\"谁更强、更便宜、更智能\"的新阶段。从OpenAI到Anthropic、从Google到DeepSeek，全球十一家主要AI厂商在短短数月内密集发布前沿模型，刷新了多项基准测试纪录。 本文将全面梳理2026年AI大模型的最新进展，涵盖核心能力突破、价格",
+          "source": "Iaipie",
+          "sourceUrl": "https://iaipie.com/ai-large-model-latest-progress-2026-may/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260530-001",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260530-007",
+          "title": "AI最新资讯_人工智能新闻头条_AI行业动态 | AIBase",
+          "summary": "提供全球AI最新资讯、人工智能新闻头条、大语言模型动态。涵盖机器学习、深度学习、AGI等前沿科技，每日更新AI行业趋势分析。一站式获取权威AI资讯平台。",
+          "source": "Aibase",
+          "sourceUrl": "https://news.aibase.com/zh/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260530-013",
+          "title": "REAL MADRID 2 - 1 FC BARCELONA | HIGHLIGHTS LALIGA",
+          "summary": "Real Madrid won #ElClásico 2-1 against FC Barcelona at the Santiago Bernabéu. Kylian Mbappé and Jude Bellingham scored for the home side, while …",
+          "source": "YouTube",
+          "sourceUrl": "https://www.youtube.com/watch?v=k2hXVxvZP7E",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260530-014",
+          "title": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+          "summary": "1 天前 · AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260530-015",
+          "title": "AI工具箱官网 | 3000 + 免费 AI 工具集合 | AI软件一站式导航网站",
+          "summary": "3 天之前 · 写作没灵感？ 设计缺思路？ 学习效率低？ 日常琐事费时间？ 这里集结 AI 写作、编程、办公、设计、剪辑、学习辅助、生活服务等实用工具，找到趁手神器，让效率翻倍，轻松搞定从任务到生 …",
+          "source": "Ai-Kit",
+          "sourceUrl": "https://ai-kit.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260530-008",
+          "title": "AI资讯_获取AGI最新头条资讯_AIbase",
+          "summary": "AI 每日资讯汇集了国内外关于人工智能、大语言模型、多模态模型、机器学习、深度学习、计算机视觉、自然语言处理、数据科学和大数据的所有顶级新闻、视频等内容，一站式获取最新AI资讯。",
+          "source": "Aibase",
+          "sourceUrl": "https://www.aibase.com/zh/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260530-009",
+          "title": "¿Quién tiene más títulos: Real Madrid o FC Barcelo",
+          "summary": "Compara los títulos entre Real Madrid y FC Barcelona, y descubre quién ha logrado más éxitos en la historia del fútbol español en este duelo",
+          "source": "Laliga",
+          "sourceUrl": "https://www.laliga.com/noticias/comparativa-titulos-real-madrid-vs-fc-barcelona",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260530-010",
+          "title": "Real Madrid o Barcelona: ¿quién tiene más títulos?",
+          "summary": "Real Madrid y FC Barcelona son los dos equipos más laureados del fútbol español en lo que a títulos ganados se refiere. En DAZN hacemos un repaso …",
+          "source": "Dazn",
+          "sourceUrl": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/real-madrid-o-barcelona-quien-tiene-mas-titulos/hxjqyc8a9x6l1icr460k57onf",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260530-011",
+          "title": "Barcelona vs. Real Madrid: Comparación de Títulos ",
+          "summary": "¿Quién ganó más torneos, Real Madrid o Barcelona (ambos de España)? Aquí está el detalle, frente a frente, de títulos internacionales y locales …",
+          "source": "Sobrefutbol",
+          "sourceUrl": "https://www.sobrefutbol.com/comparacion_equipos/barcelona_vs_real_madrid.htm",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260530-012",
+          "title": "Comparador: Real Madrid vs Barcelona | AS.com",
+          "summary": "Compara Real Madrid y Barcelona y consulta quién es mejor: datos, edades, títulos, palmarés, quién marcó más goles, dio más asistencias, cometió más …",
+          "source": "As",
+          "sourceUrl": "https://as.com/resultados/comparador/equipo/real_madrid_1/barcelona_3/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-30T08:00:03.254369+08:00",
+  "source": "OpenClaw"
+}
