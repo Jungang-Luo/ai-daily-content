@@ -1,0 +1,202 @@
+{
+  "date": "2026-05-31",
+  "title": "AI 日报 - 2026年05月31日",
+  "summary": "今日 AI 动态：大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态；最新!2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发，Ai进入实用新纪元-腾讯云开发；每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai；48小时连发5款大模型，2026年A...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260531-002",
+          "title": "大模型发布时间轴 | AI Model Timeline - 实时追踪全球AI大模型发布动态",
+          "summary": "实时追踪全球重要AI大模型发布信息，包括GPT、Claude、Qwen、GLM等主流模型的详细评测和分析。",
+          "source": "Github",
+          "sourceUrl": "https://bytepioneer-ai.github.io/LLM-Timeline/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260531-004",
+          "title": "最新!2026年3月全球大模型全景：国产登顶、百万上下文、智能体爆发，Ai进入实用新纪元-腾讯云开发",
+          "summary": "2026年3月全球大模型迎来技术爆发，OpenAI、谷歌等海外巨头与中国厂商同台竞技。国产大模型实现全球调用量反超、旗舰模型登顶国际盲测、端侧与行业应用全面落地三大突破。百万Token上下文成标配，原生多模态与电脑控制能力成熟，AI智能体（Agent）进入规模化商用阶段。大模型告别\"参数内卷 ...",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com/developer/article/2658619",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-005",
+          "title": "每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai",
+          "summary": "科大讯飞在2026年BEYOND Expo上发布了搭载Spark大模型实现视觉交互的AI眼镜。 该产品支持122种语言的实时翻译，具备唇形动作降噪、智能演讲提示以及AI助手GlassClaw等功能。 重量仅40克，售 …",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/live",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-006",
+          "title": "48小时连发5款大模型，2026年AI圈的卷法已经超出你想象",
+          "summary": "2026年AI大模型竞争白热化，48小时内阿里、谷歌、微软、智谱AI相继发布5款重磅模型，包括Wan2.7-Image、Gemma4、GLM-5V-Turbo等。模型技术呈现三大趋势：MoE架构普及、端侧部署成熟、多模态成标配。文章深度解析各模型技术特点，提供选型建议和实战部署方案，助开发者把握AI",
+          "source": "Tencent",
+          "sourceUrl": "https://cloud.tencent.com.cn/developer/article/2650738",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-007",
+          "title": "必应AI日报 | 每日AI前沿资讯与大模型技术动态",
+          "summary": "3 days ago · 必应旗下AI资讯平台，每日精选全球人工智能领域最新进展、AGI技术突破及行业应用案例，同步解读AI大模型与商业服务动态，助您3分钟掌握AI发展趋势。",
+          "source": "Aivertical",
+          "sourceUrl": "https://aivertical.chinacloudsites.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": []
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260531-001",
+          "title": "每日AI资讯、热点、动态、融资、产品发布 | AI工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260531-003",
+          "title": "AI最新资讯_人工智能新闻头条_AI行业动态 | AIBase",
+          "summary": "提供全球AI最新资讯、人工智能新闻头条、大语言模型动态。涵盖机器学习、深度学习、AGI等前沿科技，每日更新AI行业趋势分析。一站式获取权威AI资讯平台。",
+          "source": "Aibase",
+          "sourceUrl": "https://news.aibase.com/zh/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-009",
+          "title": "大黑AI速报 - 每4小时更新的AI行业快讯｜AI日报",
+          "summary": "2 days ago · 大黑AI速报（AI日报/AI快讯）：每4小时自动更新，涵盖模型动态、产品工具、技巧教程、硬件动态、行业资讯，快速了解最新AI ...",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-014",
+          "title": "Outlook help & learning - support.microsoft.com",
+          "summary": "Get help with Outlook for Windows, the Outlook app, Outlook.com, and more. Find training videos, how-to articles, and Outlook support content",
+          "source": "Microsoft",
+          "sourceUrl": "https://support.microsoft.com/en-us/outlook",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-015",
+          "title": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+          "summary": "2 天之前 · AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录 …",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260531-008",
+          "title": "AI资讯_获取AGI最新头条资讯_AIbase",
+          "summary": "AI 每日资讯汇集了国内外关于人工智能、大语言模型、多模态模型、机器学习、深度学习、计算机视觉、自然语言处理、数据科学和大数据的所有顶级新闻、视频等内容，一站式获取最新AI资讯。",
+          "source": "Aibase",
+          "sourceUrl": "https://www.aibase.com/zh/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-010",
+          "title": "Contact Us - Microsoft Support",
+          "summary": "Contact Microsoft Support. Find solutions to common problems, or get help from a support agent.",
+          "source": "Microsoft",
+          "sourceUrl": "https://support.microsoft.com/en-us/contactus",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-011",
+          "title": "Microsoft 365 Customer Service and Support",
+          "summary": "The type of support Microsoft provides for consumers depends on the product you're calling about and if you have a product for home or for business us",
+          "source": "Microsoft",
+          "sourceUrl": "https://support.microsoft.com/en-us/office/microsoft-365-customer-service-and-support-96162163-b3aa-498b-bbbb-5e757b0f31da",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-012",
+          "title": "Account help - support.microsoft.com",
+          "summary": "Get help for the account you use with Microsoft. Find how to set up Microsoft account, protect it, and use it to manage your services and subscription",
+          "source": "Microsoft",
+          "sourceUrl": "https://support.microsoft.com/en-us/account",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260531-013",
+          "title": "Windows Update Assistant - Microsoft Support",
+          "summary": "Summary The Windows Update Assistant helps you manually download and install the latest Windows feature update on a compatible PC. Feature updates int",
+          "source": "Microsoft",
+          "sourceUrl": "https://support.microsoft.com/en-us/topic/windows-update-assistant-3550dfb2-a015-7765-12ea-fba2ac36fb3f",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-05-31T08:00:05.288043+08:00",
+  "source": "OpenClaw"
+}
