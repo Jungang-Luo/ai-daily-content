@@ -1,0 +1,258 @@
+{
+  "date": "2026-06-01",
+  "title": "AI 日报 - 2026年06月01日",
+  "summary": "今日 AI 动态：OpenAI | Research & Deployment；ChatGPT；‎Google Gemini；大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报；全球ai模型发布时间线 (持续更新)...",
+  "categories": [
+    {
+      "name": "大模型动态",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "20260601-001",
+          "title": "OpenAI | Research & Deployment",
+          "summary": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and benef",
+          "source": "OpenAI",
+          "sourceUrl": "https://openai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-003",
+          "title": "ChatGPT",
+          "summary": "Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
+          "source": "Chatgpt",
+          "sourceUrl": "https://chatgpt.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-005",
+          "title": "‎Google Gemini",
+          "summary": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+          "source": "Google",
+          "sourceUrl": "https://gemini.google.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-006",
+          "title": "大黑ai速报 - 每4小时更新的ai行业快讯｜Ai日报",
+          "summary": "本期社区热议AI开发者频繁切换工具的现象，同时Claude Code的UltraCode模式和Hooks系统成为新焦点。在模型与硬件方面，τ0-WM开源具身世界模型和机器人原生世界动作模型发布，亚马逊专家则指出Token浪费是成本黑洞。",
+          "source": "OpenAI",
+          "sourceUrl": "https://news.daheiai.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-008",
+          "title": "全球ai模型发布时间线 (持续更新)",
+          "summary": "2025年6月26日，阿里巴巴 发布开源 推理AI模型 HumanOmniV2。 2025年6月26日，Sapient Intelligence 发布开源 推理思考AI模型 Hierarchical Reasoning Model (HRM)，参数量27M (0.027B)，模仿大脑的分层处理与多时",
+          "source": "知乎",
+          "sourceUrl": "https://www.zhihu.com/tardis/bd/art/14903006525",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "name": "开源项目",
+      "icon": "⚡",
+      "items": [
+        {
+          "id": "20260601-011",
+          "title": "GitHub - GitHubDaily/GitHubDaily: 坚持分享 GitHub 上高质量",
+          "summary": "2023年7月25日 · 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting …",
+          "source": "GitHub",
+          "sourceUrl": "https://github.com/GitHubDaily/GitHubDaily",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-012",
+          "title": "开源中国 - 开源中国 - Gitee",
+          "summary": "自 2013 年上线以来，Gitee 共服务了 1200 万开发者用户，累计托管仓库超过 2800 万个，是国内首屈一指的开源软件技术交流平台； …",
+          "source": "Gitee",
+          "sourceUrl": "https://gitee.com/oschina",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-013",
+          "title": "OSCHINA - 开源 × AI · 开发者生态社区",
+          "summary": "4 天之前 · OSCHINA.NET 是面向开发者的开源与 AI 生态社区。 我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作 …",
+          "source": "Oschina",
+          "sourceUrl": "https://www.oschina.net/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-014",
+          "title": "什么是开源？ - 知乎",
+          "summary": "2017年6月23日 · “开源（open source）”这个词，指的是事物规划为可以公开访问的，因此人们可以修改并分享。 这个词最初是起源 …",
+          "source": "知乎",
+          "sourceUrl": "https://zhuanlan.zhihu.com/p/27501070",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-015",
+          "title": "立创开源硬件平台 - 深圳创电优选科技有限公司",
+          "summary": "2026年1月1日 · 简介：触摸无极调光，无频闪无需烧录程序，焊接简单有教程，送朋友，当挂件都可。 Type-C接口，成本不算邮费五 …",
+          "source": "Oshwhub",
+          "sourceUrl": "https://oshwhub.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "AI 工具更新",
+      "icon": "🛠️",
+      "items": [
+        {
+          "id": "20260601-002",
+          "title": "AI最新资讯_人工智能新闻头条_AI行业动态 | AIBase",
+          "summary": "提供全球AI最新资讯、人工智能新闻头条、大语言模型动态。涵盖机器学习、深度学习、AGI等前沿科技，每日更新AI行业趋势分析。一站式获取权威AI资讯平台。",
+          "source": "Aibase",
+          "sourceUrl": "https://news.aibase.com/zh/news",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-004",
+          "title": "每日ai资讯、热点、动态、融资、产品发布 | Ai工具集",
+          "summary": "AI工具集每日更新AI行业的最新资讯、新闻、热点、融资、产品动态，让你随时了解人工智能领域的最新趋势、更新突破和热门 ...",
+          "source": "Ai-Bot",
+          "sourceUrl": "https://ai-bot.cn/daily-ai-news/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "id": "20260601-010",
+          "title": "每日人工智能新闻与实时更新 | 每日人工智能头条 - xix.ai",
+          "summary": "在 xix.ai 获取有关人工智能、机器学习、深度学习等领域的最新 AI 新闻、实时更新和专家见解。每天精心挑选，专为开发者、研究人员和科技爱好者呈现。",
+          "source": "Xix",
+          "sourceUrl": "https://xix.ai/zh/live",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-018",
+          "title": "Google AI - How we're making AI helpful for everyo",
+          "summary": "Discover how Google AI is committed to enriching knowledge, solving complex challenges and helping people grow by building useful AI tools and technol",
+          "source": "Ai",
+          "sourceUrl": "https://ai.google/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-019",
+          "title": "豆包 - 字节跳动旗下 AI 智能助手",
+          "summary": "Seedance 2.0 视频生成模型现已全面接入豆包，现在登录即可免费使用！ 豆包 是你的 AI 聊天智能对话问答助手，写作文案翻译编程工具。 豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任 …",
+          "source": "Doubao",
+          "sourceUrl": "https://www.doubao.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "name": "论文速递",
+      "icon": "📄",
+      "items": []
+    },
+    {
+      "name": "行业观点",
+      "icon": "💡",
+      "items": [
+        {
+          "id": "20260601-007",
+          "title": "DeepAI",
+          "summary": "Whether you are a hobbyist, a professional artist, or a developer integrating AI into your product, DeepAI delivers advanced technology with new video",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/?lang=en",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-009",
+          "title": "Microsoft Copilot: Your AI companion",
+          "summary": "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.",
+          "source": "Microsoft",
+          "sourceUrl": "https://copilot.microsoft.com/?msockid=271e4ed1545c6f31053059ba55896e6c",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-016",
+          "title": "DeepAI",
+          "summary": "Whether you are a hobbyist, a professional artist, or a developer integrating AI into your product, DeepAI delivers advanced technology with new video",
+          "source": "Deepai",
+          "sourceUrl": "https://deepai.org/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-017",
+          "title": "Microsoft Copilot: Your AI companion",
+          "summary": "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.",
+          "source": "Microsoft",
+          "sourceUrl": "https://copilot.microsoft.com/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "id": "20260601-020",
+          "title": "Perplexity AI",
+          "summary": "2 天之前 · Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
+          "source": "Perplexity",
+          "sourceUrl": "https://www.perplexity.ai/",
+          "tags": [
+            "AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-06-01T08:00:04.075650+08:00",
+  "source": "OpenClaw"
+}
